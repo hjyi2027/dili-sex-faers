@@ -1,0 +1,665 @@
+{
+ "plan": "REPLICATION_PLAN.md section 6",
+ "threshold": 0.8,
+ "min_suspect_ingredients": 11,
+ "faers": {
+  "linked_reports_all_countries": 49146,
+  "linked_groups_all_countries": 8362,
+  "linked_reports_canada": 23172,
+  "linked_groups_canada": 2344,
+  "canada_with_mfr_num": 23172,
+  "canada_with_auth_num": 1536,
+  "canada_hepatic": 2205,
+  "mfr_num_prefix": {
+   "CA-": 21558,
+   "NVS": 1435,
+   "PHH": 91,
+   "ALC": 56,
+   "US-": 9
+  }
+ },
+ "canada_vigilance": {
+  "reports": 1280288,
+  "reports_with_sex": 1215258,
+  "received_from_2014": 902812,
+  "with_mah_no": 953757,
+  "with_number_col40": 750623,
+  "with_authority_number": 321109,
+  "with_number_col42": 722059,
+  "report_type": {
+   "Spontaneous": 688990,
+   "Study": 527041,
+   "Published": 42226,
+   "Other": 17526,
+   "Unknown": 2917,
+   "Safety Update Report": 904
+  },
+  "source": {
+   "MAH": 866551,
+   "Community": 140388,
+   "Hospital": 124268,
+   "Clinical Study": 112053,
+   "Other": 19820
+  }
+ },
+ "step1": {
+  "canadian_linked_reports": 23172,
+  "matched_on_plan_keys": 4406,
+  "share_matched_on_plan_keys": 0.19014327636803038,
+  "matched_by_target": {
+   "MAH_NO": 295,
+   "column_40": 3812,
+   "column_42": 3196
+  },
+  "matched_to_more_than_one_cv_report": 386,
+  "distinct_cv_reports_matched": 4505,
+  "inconclusive_by_plan": true,
+  "share_matched_by_group_size": {
+   "2": 0.19900990099009902,
+   "3-9": 0.1924501675780561,
+   "10-99": 0.18831124702684335,
+   "100+": 0.19291338582677164
+  },
+  "matched_cv_reports": {
+   "report_type": {
+    "Spontaneous": 3855,
+    "Other": 276,
+    "Study": 233,
+    "Published": 141
+   },
+   "source": {
+    "MAH": 4414,
+    "Clinical Study": 89,
+    "Other": 2
+   },
+   "received_from_2014": 4504
+  }
+ },
+ "health_canada_links": {
+  "rows": 1597304,
+  "rows_by_type": {
+   "Linked": 1437120,
+   "Duplicate": 160184
+  },
+  "rows_without_link_number": 909198,
+  "rows_without_link_number_by_type": {
+   "Linked": 908853,
+   "Duplicate": 345
+  },
+  "reports_with_a_link_row": 291926,
+  "any_type": {
+   "link_rows_used": 688106,
+   "link_rows_to_a_report_in_the_extract": 656479,
+   "link_rows_to_a_number_not_in_the_extract": 31627
+  },
+  "duplicate_type": {
+   "link_rows_used": 159839,
+   "link_rows_to_a_report_in_the_extract": 150637,
+   "link_rows_to_a_number_not_in_the_extract": 9202
+  },
+  "reports_in_a_component_of_two_or_more_any_type": 188574,
+  "largest_component_any_type": 3470,
+  "reports_in_a_component_of_two_or_more_duplicate_type": 96462,
+  "share_of_all_reports_with_a_duplicate_record_partner": 0.07534398510335175
+ },
+ "step2": {
+  "checkable_groups": 845,
+  "reports_in_these_groups": 14913,
+  "matched_reports_in_these_groups": 3761,
+  "confirmed": 560,
+  "share_confirmed": 0.6627218934911243,
+  "of_which_one_cv_report": 21,
+  "not_confirmed": 285,
+  "confirmed_duplicate_records_only": 543,
+  "share_confirmed_duplicate_records_only": 0.642603550295858,
+  "groups_with_two_weights": 210,
+  "weights_within_1kg": 0.9476190476190476,
+  "groups_canada_total": 2344,
+  "by_group_size": {
+   "2": {
+    "checkable_groups": 27,
+    "reports_in_these_groups": 54,
+    "matched_reports_in_these_groups": 54,
+    "confirmed": 23,
+    "share_confirmed": 0.8518518518518519,
+    "of_which_one_cv_report": 1,
+    "not_confirmed": 4,
+    "confirmed_duplicate_records_only": 19,
+    "share_confirmed_duplicate_records_only": 0.7037037037037037,
+    "groups_with_two_weights": 6,
+    "weights_within_1kg": 1.0
+   },
+   "3-9": {
+    "checkable_groups": 285,
+    "reports_in_these_groups": 1717,
+    "matched_reports_in_these_groups": 718,
+    "confirmed": 206,
+    "share_confirmed": 0.7228070175438597,
+    "of_which_one_cv_report": 14,
+    "not_confirmed": 79,
+    "confirmed_duplicate_records_only": 200,
+    "share_confirmed_duplicate_records_only": 0.7017543859649122,
+    "groups_with_two_weights": 62,
+    "weights_within_1kg": 0.9516129032258065
+   },
+   "10-99": {
+    "checkable_groups": 522,
+    "reports_in_these_groups": 11643,
+    "matched_reports_in_these_groups": 2647,
+    "confirmed": 330,
+    "share_confirmed": 0.632183908045977,
+    "of_which_one_cv_report": 6,
+    "not_confirmed": 192,
+    "confirmed_duplicate_records_only": 323,
+    "share_confirmed_duplicate_records_only": 0.6187739463601533,
+    "groups_with_two_weights": 139,
+    "weights_within_1kg": 0.9424460431654677
+   },
+   "100+": {
+    "checkable_groups": 11,
+    "reports_in_these_groups": 1499,
+    "matched_reports_in_these_groups": 342,
+    "confirmed": 1,
+    "share_confirmed": 0.09090909090909091,
+    "of_which_one_cv_report": 0,
+    "not_confirmed": 10,
+    "confirmed_duplicate_records_only": 1,
+    "share_confirmed_duplicate_records_only": 0.09090909090909091,
+    "groups_with_two_weights": 3,
+    "weights_within_1kg": 1.0
+   }
+  },
+  "groups_with_every_report_matched": {
+   "checkable_groups": 36,
+   "reports_in_these_groups": 82,
+   "matched_reports_in_these_groups": 82,
+   "confirmed": 29,
+   "share_confirmed": 0.8055555555555556,
+   "of_which_one_cv_report": 1,
+   "not_confirmed": 7,
+   "confirmed_duplicate_records_only": 25,
+   "share_confirmed_duplicate_records_only": 0.6944444444444444,
+   "groups_with_two_weights": 7,
+   "weights_within_1kg": 1.0
+  }
+ },
+ "reading_by_plan": "inconclusive",
+ "step3": {
+  "eligible_reports": 142985,
+  "eligible_share_of_reports_with_sex": 0.11765814337367045,
+  "eligible_received_from_2014": 100065,
+  "eligible_share_of_reports_with_sex_received_from_2014": 0.11632016088252901,
+  "reports_in_a_group": 108363,
+  "share_of_eligible_in_a_group": 0.7578627128719796,
+  "share_of_eligible_in_a_group_received_from_2014": 0.7592864637985309,
+  "groups": {
+   "groups": 20070,
+   "reports": 108363,
+   "all_joined_by_health_canada_links": 0.25291479820627805,
+   "all_joined_by_duplicate_records": 0.24444444444444444,
+   "not_all_joined_and_a_link_row_without_number": 0.17164922770303936,
+   "groups_with_two_weights": 4564,
+   "weights_within_1kg": 0.462532865907099,
+   "share_of_reports_without_age": 0.2573664442660318,
+   "median_span_years": 2.0,
+   "largest_group": 1870
+  },
+  "by_group_size": {
+   "2": {
+    "groups": 9705,
+    "reports": 19410,
+    "all_joined_by_health_canada_links": 0.3435342606903658,
+    "all_joined_by_duplicate_records": 0.3336424523441525,
+    "not_all_joined_and_a_link_row_without_number": 0.0994332818134982,
+    "groups_with_two_weights": 1441,
+    "weights_within_1kg": 0.7543372657876475,
+    "share_of_reports_without_age": 0.10211231324059764,
+    "median_span_years": 1.0,
+    "largest_group": 2
+   },
+   "3-9": {
+    "groups": 8770,
+    "reports": 37774,
+    "all_joined_by_health_canada_links": 0.19270239452679588,
+    "all_joined_by_duplicate_records": 0.18506271379703534,
+    "not_all_joined_and_a_link_row_without_number": 0.19954389965792474,
+    "groups_with_two_weights": 2113,
+    "weights_within_1kg": 0.4538570752484619,
+    "share_of_reports_without_age": 0.15354476624133,
+    "median_span_years": 3.0,
+    "largest_group": 9
+   },
+   "10-99": {
+    "groups": 1543,
+    "reports": 34702,
+    "all_joined_by_health_canada_links": 0.033700583279325985,
+    "all_joined_by_duplicate_records": 0.02916396629941672,
+    "not_all_joined_and_a_link_row_without_number": 0.46208684381075826,
+    "groups_with_two_weights": 962,
+    "weights_within_1kg": 0.06756756756756757,
+    "share_of_reports_without_age": 0.2200449541813152,
+    "median_span_years": 14.0,
+    "largest_group": 98
+   },
+   "100+": {
+    "groups": 52,
+    "reports": 16477,
+    "all_joined_by_health_canada_links": 0.0,
+    "all_joined_by_duplicate_records": 0.0,
+    "not_all_joined_and_a_link_row_without_number": 0.3269230769230769,
+    "groups_with_two_weights": 48,
+    "weights_within_1kg": 0.0,
+    "share_of_reports_without_age": 0.7568732172118711,
+    "median_span_years": 38.5,
+    "largest_group": 1870
+   }
+  },
+  "within_group_pairs": {
+   "pairs": 7586554,
+   "also_joined_by_health_canada_links": 0.006532478382148206,
+   "also_joined_by_duplicate_records": 0.006217051905252372
+  },
+  "eligible_report_type": {
+   "Spontaneous": 105788,
+   "Study": 26285,
+   "Published": 7236,
+   "Other": 3501,
+   "Unknown": 142
+  },
+  "eligible_source": {
+   "MAH": 97783,
+   "Hospital": 13853,
+   "Community": 13790,
+   "Other": 9250,
+   "Clinical Study": 6344
+  },
+  "eligible_female_share": 0.6601811378815959,
+  "eligible_share_with_a_duplicate_record_partner": 0.26337727733678357,
+  "eligible_by_year": {
+   "2008": 1517,
+   "2009": 1547,
+   "2010": 1765,
+   "2011": 2295,
+   "2012": 2586,
+   "2013": 4514,
+   "2014": 4312,
+   "2015": 4731,
+   "2016": 5202,
+   "2017": 7149,
+   "2018": 9889,
+   "2019": 17659,
+   "2020": 11412,
+   "2021": 9744,
+   "2022": 7362,
+   "2023": 7054,
+   "2024": 6012,
+   "2025": 5484,
+   "2026": 4055
+  },
+  "groups_received_from_2014": {
+   "groups": 14588,
+   "reports": 51104,
+   "all_joined_by_health_canada_links": 0.3280093227310118,
+   "all_joined_by_duplicate_records": 0.31676720592267615,
+   "not_all_joined_and_a_link_row_without_number": 0.18618042226487524,
+   "groups_with_two_weights": 2509,
+   "weights_within_1kg": 0.7202072538860104,
+   "share_of_reports_without_age": 0.21467986850344395,
+   "median_span_years": 1.0,
+   "largest_group": 117,
+   "by_group_size": {
+    "2": {
+     "groups": 7648,
+     "reports": 15296,
+     "all_joined_by_health_canada_links": 0.40768828451882844,
+     "all_joined_by_duplicate_records": 0.3959205020920502,
+     "not_all_joined_and_a_link_row_without_number": 0.12186192468619247,
+     "groups_with_two_weights": 1144,
+     "weights_within_1kg": 0.8208041958041958,
+     "share_of_reports_without_age": 0.11205543933054393,
+     "median_span_years": 1.0,
+     "largest_group": 2
+    },
+    "3-9": {
+     "groups": 6400,
+     "reports": 26927,
+     "all_joined_by_health_canada_links": 0.25265625,
+     "all_joined_by_duplicate_records": 0.2421875,
+     "not_all_joined_and_a_link_row_without_number": 0.23640625,
+     "groups_with_two_weights": 1228,
+     "weights_within_1kg": 0.6661237785016286,
+     "share_of_reports_without_age": 0.179002488208861,
+     "median_span_years": 2.0,
+     "largest_group": 9
+    },
+    "10-99": {
+     "groups": 539,
+     "reports": 8764,
+     "all_joined_by_health_canada_links": 0.09276437847866419,
+     "all_joined_by_duplicate_records": 0.07977736549165121,
+     "not_all_joined_and_a_link_row_without_number": 0.5009276437847866,
+     "groups_with_two_weights": 137,
+     "weights_within_1kg": 0.36496350364963503,
+     "share_of_reports_without_age": 0.492925604746691,
+     "median_span_years": 4.0,
+     "largest_group": 89
+    },
+    "100+": {
+     "groups": 1,
+     "reports": 117,
+     "all_joined_by_health_canada_links": 0.0,
+     "all_joined_by_duplicate_records": 0.0,
+     "not_all_joined_and_a_link_row_without_number": 1.0,
+     "groups_with_two_weights": 0,
+     "weights_within_1kg": null,
+     "share_of_reports_without_age": 1.0,
+     "median_span_years": 6.0,
+     "largest_group": 117
+    }
+   }
+  },
+  "note": "Rule of section 6 as written: at least 11 distinct suspect ingredients. In Canada Vigilance most of these reports reach 11 through one product with many listed ingredients (see not_in_plan)."
+ },
+ "not_in_plan": {
+  "faers_product_counts": {
+   "eligible_reports": 61488,
+   "with_11_or_more_distinct_suspect_products": 54031,
+   "with_one_product_of_11_or_more_ingredients": 522,
+   "linked_reports": 49146,
+   "linked_with_11_or_more_distinct_suspect_products": 44331,
+   "linked_with_one_product_of_11_or_more_ingredients": 227,
+   "median_products_linked": 14.0
+  },
+  "step3_reports_with_11_or_more_suspect_ingredients": 142985,
+  "step3_of_which_11_or_more_distinct_suspect_products": 8678,
+  "step3_by_products": {
+   "eligible_reports": 8678,
+   "eligible_share_of_reports_with_sex": 0.007140870498281024,
+   "eligible_received_from_2014": 8606,
+   "eligible_share_of_reports_with_sex_received_from_2014": 0.01000401043876525,
+   "reports_in_a_group": 6475,
+   "share_of_eligible_in_a_group": 0.7461396635169394,
+   "share_of_eligible_in_a_group_received_from_2014": 0.7483151289797816,
+   "groups": {
+    "groups": 1680,
+    "reports": 6475,
+    "all_joined_by_health_canada_links": 0.7321428571428571,
+    "all_joined_by_duplicate_records": 0.7160714285714286,
+    "not_all_joined_and_a_link_row_without_number": 0.12202380952380952,
+    "groups_with_two_weights": 391,
+    "weights_within_1kg": 0.9335038363171355,
+    "share_of_reports_without_age": 0.242007722007722,
+    "median_span_years": 1.0,
+    "largest_group": 67
+   },
+   "by_group_size": {
+    "2": {
+     "groups": 807,
+     "reports": 1614,
+     "all_joined_by_health_canada_links": 0.8066914498141264,
+     "all_joined_by_duplicate_records": 0.7843866171003717,
+     "not_all_joined_and_a_link_row_without_number": 0.05947955390334572,
+     "groups_with_two_weights": 172,
+     "weights_within_1kg": 0.9418604651162791,
+     "share_of_reports_without_age": 0.15985130111524162,
+     "median_span_years": 1.0,
+     "largest_group": 2
+    },
+    "3-9": {
+     "groups": 785,
+     "reports": 3350,
+     "all_joined_by_health_canada_links": 0.7031847133757961,
+     "all_joined_by_duplicate_records": 0.6942675159235668,
+     "not_all_joined_and_a_link_row_without_number": 0.1464968152866242,
+     "groups_with_two_weights": 195,
+     "weights_within_1kg": 0.9333333333333333,
+     "share_of_reports_without_age": 0.2008955223880597,
+     "median_span_years": 1.0,
+     "largest_group": 9
+    },
+    "10-99": {
+     "groups": 88,
+     "reports": 1511,
+     "all_joined_by_health_canada_links": 0.3068181818181818,
+     "all_joined_by_duplicate_records": 0.2840909090909091,
+     "not_all_joined_and_a_link_row_without_number": 0.4772727272727273,
+     "groups_with_two_weights": 24,
+     "weights_within_1kg": 0.875,
+     "share_of_reports_without_age": 0.42091330244870945,
+     "median_span_years": 4.0,
+     "largest_group": 67
+    }
+   },
+   "within_group_pairs": {
+    "pairs": 23936,
+    "also_joined_by_health_canada_links": 0.6880848930481284,
+    "also_joined_by_duplicate_records": 0.6697443181818182
+   },
+   "eligible_report_type": {
+    "Spontaneous": 7335,
+    "Study": 554,
+    "Published": 386,
+    "Other": 382,
+    "Unknown": 21
+   },
+   "eligible_source": {
+    "MAH": 8486,
+    "Clinical Study": 132,
+    "Community": 31,
+    "Hospital": 26,
+    "Other": 3
+   },
+   "eligible_female_share": 0.7810555427517861,
+   "eligible_share_with_a_duplicate_record_partner": 0.872551279096566,
+   "eligible_by_year": {
+    "2008": 13,
+    "2009": 10,
+    "2010": 4,
+    "2011": 5,
+    "2012": 6,
+    "2013": 7,
+    "2014": 25,
+    "2015": 46,
+    "2016": 58,
+    "2017": 125,
+    "2018": 448,
+    "2019": 1346,
+    "2020": 1288,
+    "2021": 1272,
+    "2022": 918,
+    "2023": 695,
+    "2024": 814,
+    "2025": 814,
+    "2026": 757
+   },
+   "groups_received_from_2014": {
+    "groups": 1666,
+    "reports": 6400,
+    "all_joined_by_health_canada_links": 0.7322929171668667,
+    "all_joined_by_duplicate_records": 0.7160864345738295,
+    "not_all_joined_and_a_link_row_without_number": 0.12244897959183673,
+    "groups_with_two_weights": 388,
+    "weights_within_1kg": 0.9329896907216495,
+    "share_of_reports_without_age": 0.24484375,
+    "median_span_years": 1.0,
+    "largest_group": 67,
+    "by_group_size": {
+     "2": {
+      "groups": 803,
+      "reports": 1606,
+      "all_joined_by_health_canada_links": 0.8057285180572852,
+      "all_joined_by_duplicate_records": 0.7833125778331258,
+      "not_all_joined_and_a_link_row_without_number": 0.05977584059775841,
+      "groups_with_two_weights": 171,
+      "weights_within_1kg": 0.9415204678362573,
+      "share_of_reports_without_age": 0.16064757160647572,
+      "median_span_years": 1.0,
+      "largest_group": 2
+     },
+     "3-9": {
+      "groups": 777,
+      "reports": 3315,
+      "all_joined_by_health_canada_links": 0.703989703989704,
+      "all_joined_by_duplicate_records": 0.694980694980695,
+      "not_all_joined_and_a_link_row_without_number": 0.148005148005148,
+      "groups_with_two_weights": 193,
+      "weights_within_1kg": 0.9326424870466321,
+      "share_of_reports_without_age": 0.20301659125188537,
+      "median_span_years": 1.0,
+      "largest_group": 9
+     },
+     "10-99": {
+      "groups": 86,
+      "reports": 1479,
+      "all_joined_by_health_canada_links": 0.3023255813953488,
+      "all_joined_by_duplicate_records": 0.27906976744186046,
+      "not_all_joined_and_a_link_row_without_number": 0.47674418604651164,
+      "groups_with_two_weights": 24,
+      "weights_within_1kg": 0.875,
+      "share_of_reports_without_age": 0.4300202839756592,
+      "median_span_years": 4.0,
+      "largest_group": 67
+     }
+    }
+   }
+  },
+  "all_reports_by_year": {
+   "2008": 15137,
+   "2009": 17793,
+   "2010": 21394,
+   "2011": 28391,
+   "2012": 34832,
+   "2013": 39858,
+   "2014": 43103,
+   "2015": 44462,
+   "2016": 52444,
+   "2017": 58766,
+   "2018": 70949,
+   "2019": 94928,
+   "2020": 78660,
+   "2021": 81035,
+   "2022": 72370,
+   "2023": 79742,
+   "2024": 81174,
+   "2025": 84937,
+   "2026": 60242
+  },
+  "step1_match_by_faers_sender": {
+   "TEVA": {
+    "reports": 3072,
+    "matched": 145
+   },
+   "ROCHE": {
+    "reports": 2058,
+    "matched": 759
+   },
+   "SANDOZ": {
+    "reports": 1823,
+    "matched": 83
+   },
+   "NOVARTIS": {
+    "reports": 1516,
+    "matched": 269
+   },
+   "BRISTOL MYERS SQUIBB": {
+    "reports": 1130,
+    "matched": 199
+   },
+   "APOTEX": {
+    "reports": 1112,
+    "matched": 260
+   },
+   "ACCORD": {
+    "reports": 859,
+    "matched": 9
+   },
+   "SANOFI AVENTIS": {
+    "reports": 821,
+    "matched": 152
+   },
+   "ORGANON": {
+    "reports": 806,
+    "matched": 14
+   },
+   "HALEON PLC": {
+    "reports": 761,
+    "matched": 268
+   },
+   "AUROBINDO": {
+    "reports": 668,
+    "matched": 30
+   },
+   "BAUSCH AND LOMB": {
+    "reports": 651,
+    "matched": 58
+   }
+  },
+  "step1_faers_senders": 176,
+  "step1_groups_with_a_matched_report": 1490,
+  "step1_matched_on_authority_number": 94,
+  "step1_matched_on_manufacturer_or_authority_number": 4460,
+  "step2_with_authority_number": {
+   "checkable_groups": 857,
+   "reports_in_these_groups": 15082,
+   "matched_reports_in_these_groups": 3818,
+   "confirmed": 570,
+   "share_confirmed": 0.6651108518086347,
+   "of_which_one_cv_report": 21,
+   "not_confirmed": 287,
+   "confirmed_duplicate_records_only": 552,
+   "share_confirmed_duplicate_records_only": 0.6441073512252042,
+   "groups_with_two_weights": 214,
+   "weights_within_1kg": 0.9485981308411215,
+   "groups_canada_total": 2344,
+   "groups_with_every_report_matched": {
+    "checkable_groups": 37,
+    "reports_in_these_groups": 84,
+    "matched_reports_in_these_groups": 84,
+    "confirmed": 30,
+    "share_confirmed": 0.8108108108108109,
+    "of_which_one_cv_report": 1,
+    "not_confirmed": 7,
+    "confirmed_duplicate_records_only": 26,
+    "share_confirmed_duplicate_records_only": 0.7027027027027027,
+    "groups_with_two_weights": 7,
+    "weights_within_1kg": 1.0
+   }
+  },
+  "step1_key_matched_pairs": {
+   "pairs": 4903,
+   "median_jaccard_of_suspect_ingredient_sets": 0.24691358024691357,
+   "share_jaccard_at_least_0_8": 0.0,
+   "share_jaccard_at_least_0_5": 0.02223128696716296,
+   "pairs_with_sex_on_both": 4880,
+   "same_sex": 1.0,
+   "pairs_with_age_on_both": 3455,
+   "same_age_in_years": 0.9739507959479016,
+   "pairs_with_weight_on_both": 1111,
+   "weight_within_1kg": 0.9801980198019802
+  },
+  "step2_confirmed": {
+   "groups": 560,
+   "with_a_link_row_without_number": 260,
+   "groups_with_two_weights": 149,
+   "weights_within_1kg": 0.9395973154362416
+  },
+  "step2_not_confirmed": {
+   "groups": 285,
+   "with_a_link_row_without_number": 145,
+   "groups_with_two_weights": 61,
+   "weights_within_1kg": 0.9672131147540983
+  },
+  "step2_confirmed_by_duplicate_records": {
+   "groups": 543,
+   "with_a_link_row_without_number": 249,
+   "groups_with_two_weights": 141,
+   "weights_within_1kg": 0.9361702127659575
+  },
+  "step2_not_confirmed_by_duplicate_records": {
+   "groups": 302,
+   "with_a_link_row_without_number": 156,
+   "groups_with_two_weights": 69,
+   "weights_within_1kg": 0.9710144927536232
+  }
+ }
+}

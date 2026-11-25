@@ -1,0 +1,337 @@
+ocmq,term,classification
+Hepatic Failure,Acute hepatic failure,Narrow
+Hepatic Failure,Acute on chronic liver failure,Narrow
+Hepatic Failure,Acute yellow liver atrophy,Narrow
+Hepatic Failure,Ammonia increased,Narrow
+Hepatic Failure,Chronic hepatic failure,Narrow
+Hepatic Failure,Coma hepatic,Narrow
+Hepatic Failure,Hepatic encephalopathy,Narrow
+Hepatic Failure,Hepatic failure,Narrow
+Hepatic Failure,Hepatitis fulminant,Narrow
+Hepatic Failure,Hepatopulmonary syndrome,Narrow
+Hepatic Failure,Hepatorenal failure,Narrow
+Hepatic Failure,Hepatorenal syndrome,Narrow
+Hepatic Failure,Hyperammonaemic crisis,Narrow
+Hepatic Failure,Liver dialysis,Narrow
+Hepatic Failure,Minimal hepatic encephalopathy,Narrow
+Hepatic Failure,Portal shunt procedure,Narrow
+Hepatic Failure,Subacute hepatic failure,Narrow
+Hepatic Failure,Ammonia abnormal,Broad
+Hepatic Failure,Ascites,Broad
+Hepatic Failure,Asterixis,Broad
+Hepatic Failure,Bacterascites,Broad
+Hepatic Failure,Biliary cirrhosis,Broad
+Hepatic Failure,Biliary cirrhosis primary,Broad
+Hepatic Failure,Biliary fibrosis,Broad
+Hepatic Failure,Bilirubin conjugated increased,Broad
+Hepatic Failure,Bilirubinuria,Broad
+Hepatic Failure,Blood bilirubin abnormal,Broad
+Hepatic Failure,Blood bilirubin increased,Broad
+Hepatic Failure,Cardiohepatic syndrome,Broad
+Hepatic Failure,Child-Pugh-Turcotte score abnormal,Broad
+Hepatic Failure,Child-Pugh-Turcotte score increased,Broad
+Hepatic Failure,Cholestatic liver injury,Broad
+Hepatic Failure,Cirrhosis alcoholic,Broad
+Hepatic Failure,Colopathy,Broad
+Hepatic Failure,Cryptogenic cirrhosis,Broad
+Hepatic Failure,Duodenal varices,Broad
+Hepatic Failure,Gastric variceal injection,Broad
+Hepatic Failure,Gastric variceal ligation,Broad
+Hepatic Failure,Gastric varices,Broad
+Hepatic Failure,Gastric varices haemorrhage,Broad
+Hepatic Failure,Hepatic cirrhosis,Broad
+Hepatic Failure,Hepatic encephalopathy prophylaxis,Broad
+Hepatic Failure,Hepatic function abnormal,Broad
+Hepatic Failure,Hepatic hydrothorax,Broad
+Hepatic Failure,Hepatic necrosis,Broad
+Hepatic Failure,Hepatobiliary disease,Broad
+Hepatic Failure,Hepatocellular foamy cell syndrome,Broad
+Hepatic Failure,Hepatocellular injury,Broad
+Hepatic Failure,Hyperbilirubinaemia,Broad
+Hepatic Failure,Intestinal varices,Broad
+Hepatic Failure,Intestinal varices haemorrhage,Broad
+Hepatic Failure,Intrahepatic portal hepatic venous fistula,Broad
+Hepatic Failure,Jaundice,Broad
+Hepatic Failure,Jaundice cholestatic,Broad
+Hepatic Failure,Liver and small intestine transplant,Broad
+Hepatic Failure,Liver transplant,Broad
+Hepatic Failure,Lupoid hepatic cirrhosis,Broad
+Hepatic Failure,Nodular regenerative hyperplasia,Broad
+Hepatic Failure,Non-alcoholic fatty liver,Broad
+Hepatic Failure,Non-alcoholic steatohepatitis,Broad
+Hepatic Failure,Non-cirrhotic portal hypertension,Broad
+Hepatic Failure,Oedema due to hepatic disease,Broad
+Hepatic Failure,Oesophageal varices haemorrhage,Broad
+Hepatic Failure,Peripancreatic varices,Broad
+Hepatic Failure,Peritoneovenous shunt,Broad
+Hepatic Failure,Portal fibrosis,Broad
+Hepatic Failure,Portal hypertension,Broad
+Hepatic Failure,Portal hypertensive colopathy,Broad
+Hepatic Failure,Portal hypertensive enteropathy,Broad
+Hepatic Failure,Portal hypertensive gastropathy,Broad
+Hepatic Failure,Portal shunt,Broad
+Hepatic Failure,Portal vein cavernous transformation,Broad
+Hepatic Failure,Portal vein dilatation,Broad
+Hepatic Failure,Portopulmonary hypertension,Broad
+Hepatic Failure,Renal and liver transplant,Broad
+Hepatic Failure,Retrograde portal vein flow,Broad
+Hepatic Failure,Reye's syndrome,Broad
+Hepatic Failure,Reynold's syndrome,Broad
+Hepatic Failure,Spider naevus,Broad
+Hepatic Failure,Splenic varices,Broad
+Hepatic Failure,Splenic varices haemorrhage,Broad
+Hepatic Failure,Splenorenal shunt,Broad
+Hepatic Failure,Splenorenal shunt procedure,Broad
+Hepatic Failure,Spontaneous intrahepatic portosystemic venous shunt,Broad
+Hepatic Failure,Stomal varices,Broad
+Hepatic Failure,Varices oesophageal,Broad
+Hepatic Failure,Varicose veins of abdominal wall,Broad
+Hepatic Failure,White nipple sign,Broad
+Hepatic Injury,Acquired hepatocerebral degeneration,Narrow
+Hepatic Injury,Acute graft versus host disease in liver,Narrow
+Hepatic Injury,Acute hepatic failure,Narrow
+Hepatic Injury,Acute on chronic liver failure,Narrow
+Hepatic Injury,Acute yellow liver atrophy,Narrow
+Hepatic Injury,Adenoviral hepatitis,Narrow
+Hepatic Injury,Alanine aminotransferase increased,Narrow
+Hepatic Injury,Alcoholic liver disease,Narrow
+Hepatic Injury,Allergic hepatitis,Narrow
+Hepatic Injury,Alloimmune hepatitis,Narrow
+Hepatic Injury,Ammonia increased,Narrow
+Hepatic Injury,Anti-soluble liver antigen/liver pancreas antibody,Narrow
+Hepatic Injury,Aspartate aminotransferase increased,Narrow
+Hepatic Injury,Asymptomatic viral hepatitis,Narrow
+Hepatic Injury,Autoimmune hepatitis,Narrow
+Hepatic Injury,Biliary ascites,Narrow
+Hepatic Injury,Biliary cirrhosis,Narrow
+Hepatic Injury,Biliary cirrhosis primary,Narrow
+Hepatic Injury,Biliary fibrosis,Narrow
+Hepatic Injury,Bilirubin conjugated increased,Narrow
+Hepatic Injury,Cardiohepatic syndrome,Narrow
+Hepatic Injury,Child-Pugh-Turcotte score abnormal,Narrow
+Hepatic Injury,Child-Pugh-Turcotte score increased,Narrow
+Hepatic Injury,Cholestasis,Narrow
+Hepatic Injury,Cholestatic liver injury,Narrow
+Hepatic Injury,Cholestatic pruritus,Narrow
+Hepatic Injury,Chronic graft versus host disease in liver,Narrow
+Hepatic Injury,Chronic hepatic failure,Narrow
+Hepatic Injury,Chronic hepatitis,Narrow
+Hepatic Injury,Cirrhosis alcoholic,Narrow
+Hepatic Injury,Coma hepatic,Narrow
+Hepatic Injury,Cryptogenic cirrhosis,Narrow
+Hepatic Injury,Cytolytic hepatitis,Narrow
+Hepatic Injury,Cytomegalovirus hepatitis,Narrow
+Hepatic Injury,Deficiency of bile secretion,Narrow
+Hepatic Injury,Drug-induced liver injury,Narrow
+Hepatic Injury,Eosinophilic hepatitis,Narrow
+Hepatic Injury,Fatty liver alcoholic,Narrow
+Hepatic Injury,Fibrosis-4 index,Narrow
+Hepatic Injury,Foetor hepaticus,Narrow
+Hepatic Injury,Gallbladder varices,Narrow
+Hepatic Injury,Gastric variceal injection,Narrow
+Hepatic Injury,Gastric variceal ligation,Narrow
+Hepatic Injury,Gastric varices,Narrow
+Hepatic Injury,Gastric varices haemorrhage,Narrow
+Hepatic Injury,Graft versus host disease in liver,Narrow
+Hepatic Injury,Granulomatous liver disease,Narrow
+Hepatic Injury,Hepatic cirrhosis,Narrow
+Hepatic Injury,Hepatic encephalopathy,Narrow
+Hepatic Injury,Hepatic encephalopathy prophylaxis,Narrow
+Hepatic Injury,Hepatic failure,Narrow
+Hepatic Injury,Hepatic fibrosis marker abnormal,Narrow
+Hepatic Injury,Hepatic function abnormal,Narrow
+Hepatic Injury,Hepatic hydrothorax,Narrow
+Hepatic Injury,Hepatic hypertrophy,Narrow
+Hepatic Injury,Hepatic infiltration eosinophilic,Narrow
+Hepatic Injury,Hepatic lymphocytic infiltration,Narrow
+Hepatic Injury,Hepatic necrosis,Narrow
+Hepatic Injury,Hepatic pain,Narrow
+Hepatic Injury,Hepatic steato-fibrosis,Narrow
+Hepatic Injury,Hepatic vascular resistance increased,Narrow
+Hepatic Injury,Hepatitis,Narrow
+Hepatic Injury,Hepatitis A,Narrow
+Hepatic Injury,Hepatitis acute,Narrow
+Hepatic Injury,Hepatitis alcoholic,Narrow
+Hepatic Injury,Hepatitis B,Narrow
+Hepatic Injury,Hepatitis C,Narrow
+Hepatic Injury,Hepatitis cholestatic,Narrow
+Hepatic Injury,Hepatitis chronic active,Narrow
+Hepatic Injury,Hepatitis chronic persistent,Narrow
+Hepatic Injury,Hepatitis D,Narrow
+Hepatic Injury,Hepatitis E,Narrow
+Hepatic Injury,Hepatitis F,Narrow
+Hepatic Injury,Hepatitis fulminant,Narrow
+Hepatic Injury,Hepatitis G,Narrow
+Hepatic Injury,Hepatitis H,Narrow
+Hepatic Injury,Hepatitis infectious,Narrow
+Hepatic Injury,Hepatitis infectious mononucleosis,Narrow
+Hepatic Injury,Hepatitis mumps,Narrow
+Hepatic Injury,Hepatitis non-A non-B,Narrow
+Hepatic Injury,Hepatitis non-A non-B non-C,Narrow
+Hepatic Injury,Hepatitis post transfusion,Narrow
+Hepatic Injury,Hepatitis toxic,Narrow
+Hepatic Injury,Hepatitis viral,Narrow
+Hepatic Injury,Hepatobiliary disease,Narrow
+Hepatic Injury,Hepatobiliary scan abnormal,Narrow
+Hepatic Injury,Hepatocellular damage,Narrow
+Hepatic Injury,Hepatocellular foamy cell syndrome,Narrow
+Hepatic Injury,Hepatocellular injury,Narrow
+Hepatic Injury,Hepatogenous diabetes,Narrow
+Hepatic Injury,Hepatomegaly,Narrow
+Hepatic Injury,Hepatopulmonary syndrome,Narrow
+Hepatic Injury,Hepatorenal failure,Narrow
+Hepatic Injury,Hepatorenal syndrome,Narrow
+Hepatic Injury,Hepatosplenomegaly,Narrow
+Hepatic Injury,Hepatotoxicity,Narrow
+Hepatic Injury,Herpes simplex hepatitis,Narrow
+Hepatic Injury,Hyperammonaemia,Narrow
+Hepatic Injury,Hyperammonaemic crisis,Narrow
+Hepatic Injury,Immune-mediated hepatic disorder,Narrow
+Hepatic Injury,Immune-mediated hepatitis,Narrow
+Hepatic Injury,Intestinal varices,Narrow
+Hepatic Injury,Intestinal varices haemorrhage,Narrow
+Hepatic Injury,Intrahepatic portal hepatic venous fistula,Narrow
+Hepatic Injury,Ischaemic hepatitis,Narrow
+Hepatic Injury,Jaundice hepatocellular,Narrow
+Hepatic Injury,Kayser-Fleischer ring,Narrow
+Hepatic Injury,Klebsiella pneumoniae invasive syndrome,Narrow
+Hepatic Injury,Liver and small intestine transplant,Narrow
+Hepatic Injury,Liver dialysis,Narrow
+Hepatic Injury,Liver disorder,Narrow
+Hepatic Injury,Liver injury,Narrow
+Hepatic Injury,Liver transplant,Narrow
+Hepatic Injury,Lupoid hepatic cirrhosis,Narrow
+Hepatic Injury,Lupus hepatitis,Narrow
+Hepatic Injury,Minimal hepatic encephalopathy,Narrow
+Hepatic Injury,Mixed hepatocellular-cholestatic injury,Narrow
+Hepatic Injury,Mixed liver injury,Narrow
+Hepatic Injury,Model for end stage liver disease score abnormal,Narrow
+Hepatic Injury,Model for end stage liver disease score increased,Narrow
+Hepatic Injury,Nodular regenerative hyperplasia,Narrow
+Hepatic Injury,Non-alcoholic fatty liver,Narrow
+Hepatic Injury,Nonalcoholic fatty liver disease,Narrow
+Hepatic Injury,Non-alcoholic steatohepatitis,Narrow
+Hepatic Injury,Non-cirrhotic portal hypertension,Narrow
+Hepatic Injury,Oedema due to hepatic disease,Narrow
+Hepatic Injury,Oesophageal varices haemorrhage,Narrow
+Hepatic Injury,Parenteral nutrition associated liver disease,Narrow
+Hepatic Injury,Peliosis hepatis,Narrow
+Hepatic Injury,Peripancreatic varices,Narrow
+Hepatic Injury,Periportal oedema,Narrow
+Hepatic Injury,Pneumobilia,Narrow
+Hepatic Injury,Portal fibrosis,Narrow
+Hepatic Injury,Portal hypertension,Narrow
+Hepatic Injury,Portal hypertensive biliopathy,Narrow
+Hepatic Injury,Portal hypertensive colopathy,Narrow
+Hepatic Injury,Portal hypertensive enteropathy,Narrow
+Hepatic Injury,Portal hypertensive gastropathy,Narrow
+Hepatic Injury,Portal shunt,Narrow
+Hepatic Injury,Portal shunt procedure,Narrow
+Hepatic Injury,Portal tract inflammation,Narrow
+Hepatic Injury,Portal triaditis,Narrow
+Hepatic Injury,Portal vein cavernous transformation,Narrow
+Hepatic Injury,Portal vein dilatation,Narrow
+Hepatic Injury,Portal vein flow decreased,Narrow
+Hepatic Injury,Portal vein pressure increased,Narrow
+Hepatic Injury,Portopulmonary hypertension,Narrow
+Hepatic Injury,Post cholecystectomy syndrome,Narrow
+Hepatic Injury,Primary biliary cholangitis,Narrow
+Hepatic Injury,Radiation hepatitis,Narrow
+Hepatic Injury,Regenerative siderotic hepatic nodule,Narrow
+Hepatic Injury,Renal and liver transplant,Narrow
+Hepatic Injury,Retrograde portal vein flow,Narrow
+Hepatic Injury,Reye's syndrome,Narrow
+Hepatic Injury,Reynold's syndrome,Narrow
+Hepatic Injury,Splenic varices,Narrow
+Hepatic Injury,Splenic varices haemorrhage,Narrow
+Hepatic Injury,Splenorenal shunt,Narrow
+Hepatic Injury,Splenorenal shunt procedure,Narrow
+Hepatic Injury,Spontaneous intrahepatic portosystemic venous shunt,Narrow
+Hepatic Injury,Steatohepatitis,Narrow
+Hepatic Injury,Stomal varices,Narrow
+Hepatic Injury,Subacute hepatic failure,Narrow
+Hepatic Injury,Suspected drug-induced liver injury,Narrow
+Hepatic Injury,Total bile acids increased,Narrow
+Hepatic Injury,Ultrasound liver abnormal,Narrow
+Hepatic Injury,Varices oesophageal,Narrow
+Hepatic Injury,Varicose veins of abdominal wall,Narrow
+Hepatic Injury,White nipple sign,Narrow
+Hepatic Injury,X-ray hepatobiliary abnormal,Narrow
+Hepatic Injury,Zieve syndrome,Narrow
+Hepatic Injury,Alanine aminotransferase abnormal,Broad
+Hepatic Injury,Ammonia abnormal,Broad
+Hepatic Injury,Anorectal varices,Broad
+Hepatic Injury,Anorectal varices haemorrhage,Broad
+Hepatic Injury,Anti-liver cytosol antibody type 1 positive,Broad
+Hepatic Injury,Ascites,Broad
+Hepatic Injury,Aspartate aminotransferase abnormal,Broad
+Hepatic Injury,Asterixis,Broad
+Hepatic Injury,Atriocaval shunt,Broad
+Hepatic Injury,Bacterascites,Broad
+Hepatic Injury,Bile acids increased,Broad
+Hepatic Injury,Bile output abnormal,Broad
+Hepatic Injury,Bile output decreased,Broad
+Hepatic Injury,Bilirubin conjugated abnormal,Broad
+Hepatic Injury,Bilirubin excretion disorder,Broad
+Hepatic Injury,Bilirubin urine present,Broad
+Hepatic Injury,Bilirubinuria,Broad
+Hepatic Injury,Blood alkaline phosphatase abnormal,Broad
+Hepatic Injury,Blood alkaline phosphatase increased,Broad
+Hepatic Injury,Blood bilirubin abnormal,Broad
+Hepatic Injury,Blood bilirubin increased,Broad
+Hepatic Injury,Blood bilirubin unconjugated increased,Broad
+Hepatic Injury,Blood cholinesterase abnormal,Broad
+Hepatic Injury,Blood cholinesterase decreased,Broad
+Hepatic Injury,Cholaemia,Broad
+Hepatic Injury,Colopathy,Broad
+Hepatic Injury,Computerised tomogram liver abnormal,Broad
+Hepatic Injury,Duodenal varices,Broad
+Hepatic Injury,Galactose elimination capacity test abnormal,Broad
+Hepatic Injury,Galactose elimination capacity test decreased,Broad
+Hepatic Injury,Gamma-glutamyltransferase abnormal,Broad
+Hepatic Injury,Gamma-glutamyltransferase increased,Broad
+Hepatic Injury,Glutamate dehydrogenase increased,Broad
+Hepatic Injury,Guanase increased,Broad
+Hepatic Injury,Haemobilia,Broad
+Hepatic Injury,Haemorrhagic ascites,Broad
+Hepatic Injury,Hepaplastin abnormal,Broad
+Hepatic Injury,Hepaplastin decreased,Broad
+Hepatic Injury,Hepatic artery flow decreased,Broad
+Hepatic Injury,Hepatic congestion,Broad
+Hepatic Injury,Hepatic enzyme abnormal,Broad
+Hepatic Injury,Hepatic enzyme increased,Broad
+Hepatic Injury,Hepatic sequestration,Broad
+Hepatic Injury,Hepatic steatosis,Broad
+Hepatic Injury,Hyperbilirubinaemia,Broad
+Hepatic Injury,Hypercholia,Broad
+Hepatic Injury,Hypertransaminasaemia,Broad
+Hepatic Injury,Hypoalbuminaemia,Broad
+Hepatic Injury,Hypoproteinaemia,Broad
+Hepatic Injury,Icterus index increased,Broad
+Hepatic Injury,Immune effector cell-associated HLH-like syndrome,Broad
+Hepatic Injury,Increased liver stiffness,Broad
+Hepatic Injury,Jaundice,Broad
+Hepatic Injury,Jaundice acholuric,Broad
+Hepatic Injury,Jaundice cholestatic,Broad
+Hepatic Injury,Leucine aminopeptidase increased,Broad
+Hepatic Injury,Liver function test abnormal,Broad
+Hepatic Injury,Liver function test increased,Broad
+Hepatic Injury,Liver induration,Broad
+Hepatic Injury,Liver palpable,Broad
+Hepatic Injury,Liver scan abnormal,Broad
+Hepatic Injury,Liver tenderness,Broad
+Hepatic Injury,Liver-kidney microsomal antibody positive,Broad
+Hepatic Injury,Mitochondrial aspartate aminotransferase increased,Broad
+Hepatic Injury,Molar ratio of total branched-chain amino acid to tyrosine,Broad
+Hepatic Injury,Multiple drug hypersensitivity,Broad
+Hepatic Injury,Ocular icterus,Broad
+Hepatic Injury,Perihepatic discomfort,Broad
+Hepatic Injury,Peritoneovenous shunt,Broad
+Hepatic Injury,Portal vein embolism,Broad
+Hepatic Injury,Retinol binding protein decreased,Broad
+Hepatic Injury,Spider naevus,Broad
+Hepatic Injury,Transaminases abnormal,Broad
+Hepatic Injury,Transaminases increased,Broad
+Hepatic Injury,Urine bilirubin increased,Broad
+Hepatic Injury,Urobilinogen urine increased,Broad
+Hepatic Injury,Yellow skin,Broad

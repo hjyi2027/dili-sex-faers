@@ -1,0 +1,17 @@
+ingredient,expected_pattern,role_definition,cholestatic_reports,hepatocellular_plus_cholestatic_reports,cholestatic_share
+CLAVULANATE,CH,primary suspect only,424,532,0.797
+FLUCLOXACILLIN,CH,primary suspect only,1,1,1.0
+CHLORPROMAZINE,CH,primary suspect only,2,5,0.4
+ERYTHROMYCIN,CH,primary suspect only,6,8,0.75
+ISONIAZID,HC,primary suspect only,39,134,0.291
+DICLOFENAC,HC,primary suspect only,51,95,0.5368
+VALPROATE,HC,primary suspect only,51,141,0.3617
+MINOCYCLINE,HC,primary suspect only,28,32,0.875
+CLAVULANATE,CH,primary or secondary suspect,1026,1520,0.675
+FLUCLOXACILLIN,CH,primary or secondary suspect,32,35,0.9143
+CHLORPROMAZINE,CH,primary or secondary suspect,18,91,0.1978
+ERYTHROMYCIN,CH,primary or secondary suspect,31,50,0.62
+ISONIAZID,HC,primary or secondary suspect,127,402,0.3159
+DICLOFENAC,HC,primary or secondary suspect,98,193,0.5078
+VALPROATE,HC,primary or secondary suspect,141,308,0.4578
+MINOCYCLINE,HC,primary or secondary suspect,44,53,0.8302

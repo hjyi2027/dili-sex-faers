@@ -1,0 +1,74 @@
+{
+ "restricted": {
+  "k": 381,
+  "pooled_or": 0.9047295442817583,
+  "pooled_lo": 0.8752085942597728,
+  "pooled_hi": 0.9352462414843775,
+  "tau": 0.2840828449420889,
+  "pred_lo": 0.517938509676458,
+  "pred_hi": 1.5803720576938654,
+  "flagged": 103,
+  "flagged_female_shifted": 47,
+  "flagged_male_shifted": 56,
+  "reports": 13697416,
+  "hepatic_reports": 138302,
+  "mu": -0.10011922604310908,
+  "vs_one": {
+   "flagged_vs_pooled": 103,
+   "flagged_vs_one": 99,
+   "flagged_by_both": 80,
+   "only_vs_pooled": 23,
+   "only_vs_one": 19,
+   "only_vs_one_below_one": 19,
+   "only_vs_one_above_one": 0
+  }
+ },
+ "restricted_linked": {
+  "k": 379,
+  "pooled_or": 0.9032081364654622,
+  "pooled_lo": 0.8736091281172274,
+  "pooled_hi": 0.9338099975392482,
+  "tau": 0.2846518943277857,
+  "pred_lo": 0.5164876903873851,
+  "pred_hi": 1.5794857321101758,
+  "flagged": 100,
+  "flagged_female_shifted": 48,
+  "flagged_male_shifted": 52,
+  "reports": 13666550,
+  "hepatic_reports": 136859,
+  "mu": -0.1018022577002568,
+  "vs_restricted": {
+   "strata_in_both_scans": 379,
+   "flagged_in_both": 99,
+   "flagged_in_both_same_direction": 99,
+   "flagged_restricted_only": 3,
+   "flagged_here_only": 1,
+   "restricted_flags_not_tested_here": 1,
+   "share_of_restricted_flags_kept_pct": 96.11650485436893
+  }
+ },
+ "linked": {
+  "k": 379,
+  "pooled_or": 0.9071379613048021,
+  "pooled_lo": 0.8775367877179325,
+  "pooled_hi": 0.9377376451421633,
+  "tau": 0.28316569644949907,
+  "pred_lo": 0.5202499115398359,
+  "pred_hi": 1.5817384349083594,
+  "flagged": 98,
+  "flagged_female_shifted": 47,
+  "flagged_male_shifted": 51,
+  "reports": 13669800,
+  "hepatic_reports": 137299,
+  "mu": -0.09746073315210918,
+  "vs_restricted": {
+   "strata_in_both_scans": 379,
+   "flagged_in_both": 98,
+   "flagged_in_both_same_direction": 98,
+   "flagged_restricted_only": 4,
+   "flagged_here_only": 0,
+   "restricted_flags_not_tested_here": 1,
+   "share_of_restricted_flags_kept_pct": 95.14563106796116
+  }
+ }
+}

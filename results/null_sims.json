@@ -1,0 +1,110 @@
+{
+ "set": "restricted",
+ "permutations": 200,
+ "seed": 20261124,
+ "observed": {
+  "scan": {
+   "k": 394,
+   "mu": -0.10574987146786163,
+   "tau": 0.28656091232859754,
+   "flagged": 110,
+   "flagged_vs_one": 108,
+   "min_p": 5.6428009075920734e-39
+  },
+  "reporting_or": 0.9030365896220804,
+  "phenotype_or": 0.8720167212498484,
+  "fatality_ratio": 1.1783322024537046
+ },
+ "permuted_scan": {
+  "ingredients_mean": 436.925,
+  "flagged_mean": 0.05,
+  "flagged_max": 1,
+  "share_with_any_flag": 0.05,
+  "pooled_or_mean": 0.995642046313222,
+  "tau_mean": 0.008880661508566194,
+  "tau_max": 0.04857420020596593,
+  "flagged_vs_one_mean": 0.06
+ },
+ "permuted_pooled": {
+  "reporting": {
+   "or_mean": 0.9999503734328127,
+   "or_min": 0.986541421249249,
+   "or_max": 1.0169149802713913,
+   "sd_log_or": 0.005619778307310684,
+   "mean_model_se": 0.005598489680010874,
+   "share_interval_excludes_1": 0.06
+  },
+  "phenotype": {
+   "or_mean": 0.9994690462413328,
+   "or_min": 0.9273572912007864,
+   "or_max": 1.08237735583224,
+   "sd_log_or": 0.025608728506534333,
+   "mean_model_se": 0.02561843756474447,
+   "share_interval_excludes_1": 0.04
+  },
+  "fatality_ratio": {
+   "or_mean": 1.0002050846419903,
+   "or_min": 0.9535026645195007,
+   "or_max": 1.0513196252152628,
+   "sd_log_or": 0.016145909381637236,
+   "mean_model_se": 0.016597384696253582,
+   "share_interval_excludes_1": 0.045
+  }
+ },
+ "common_shift_scan": {
+  "simulations": 1000,
+  "common_or": 0.8996496479811913,
+  "ingredients": 394,
+  "flagged_mean": 0.053,
+  "flagged_max": 2,
+  "share_with_any_flag": 0.05,
+  "pooled_or_mean": 0.8994282405127565,
+  "tau_mean": 0.008956403655968719,
+  "tau_p95": 0.03078354221776579,
+  "flagged_vs_one_mean": 5.288,
+  "flagged_vs_one_min": 0,
+  "flagged_vs_one_max": 25
+ },
+ "within_drug_permuted_scan": {
+  "permutations": 200,
+  "ingredients_mean": 395.805,
+  "flagged_mean": 3.295,
+  "flagged_max": 8,
+  "share_with_any_flag": 1.0,
+  "pooled_or_mean": 1.002501738173441,
+  "tau_mean": 0.06891423257916808,
+  "tau_max": 0.08428631567992632
+ },
+ "within_drug_permuted_scan_by_stratum": {
+  "flagged_mean": 0.015,
+  "flagged_max": 1,
+  "ingredients": 3783,
+  "ingredients_in_more_than_one_stratum": 1046
+ },
+ "within_drug_permuted_pooled": {
+  "reporting": {
+   "or_mean": 1.0004435476362807,
+   "or_min": 0.9861253052649253,
+   "or_max": 1.0186662319086917,
+   "sd_log_or": 0.005877244569589615,
+   "mean_model_se": 0.005847329010421636,
+   "share_interval_excludes_1": 0.055
+  },
+  "phenotype": {
+   "or_mean": 1.0004008561584476,
+   "or_min": 0.9293899144663624,
+   "or_max": 1.0690793740315105,
+   "sd_log_or": 0.026826631970909714,
+   "mean_model_se": 0.026300877687169644,
+   "share_interval_excludes_1": 0.035
+  },
+  "fatality_ratio": {
+   "or_mean": 0.9997468617016149,
+   "or_min": 0.9527450421222119,
+   "or_max": 1.0555346305236721,
+   "sd_log_or": 0.01781320125436113,
+   "mean_model_se": 0.017279017630318586,
+   "share_interval_excludes_1": 0.05
+  }
+ }
+}

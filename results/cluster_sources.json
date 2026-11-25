@@ -1,0 +1,87 @@
+{
+ "cluster_reports": 13168,
+ "matched_in_demo": 13168,
+ "hepatic": 1893,
+ "all": {
+  "mfr_sndr_top": {
+   "SANDOZ": 1484,
+   "NOVARTIS": 1062,
+   "TEVA": 1053,
+   "Haleon PLC": 664,
+   "ORGANON": 573,
+   "ROCHE": 572,
+   "BRISTOL MYERS SQUIBB": 410,
+   "PFIZER": 400
+  },
+  "distinct_senders": 235,
+  "lit_ref_nonblank": 339,
+  "rept_cod": {
+   "EXP": 12703,
+   "PER": 449,
+   "DIR": 13,
+   "30DAY": 3
+  },
+  "mfr_num_prefix": {
+   "CA-": 8749,
+   "NVS": 987,
+   "US-": 770,
+   "FR-": 550,
+   "EU-": 349,
+   "DE-": 325,
+   "GB-": 307,
+   "AU-": 270
+  },
+  "distinct_caseids": 13168
+ },
+ "hepatic_only": {
+  "mfr_sndr_top": {
+   "SANDOZ": 279,
+   "NOVARTIS": 225,
+   "Haleon PLC": 176,
+   "TEVA": 165,
+   "ORGANON": 118,
+   "UCB": 69,
+   "ROCHE": 63,
+   "AMGEN": 56
+  },
+  "distinct_senders": 88,
+  "lit_ref_nonblank": 17,
+  "lit_ref_top": {
+   "": 1876,
+   "Aksak-Was BJ, Leszczyszyn-Pynka M, Parczewski M, Krzysztalowski A. Interdiscipli": 3,
+   "Jung WJ, Jo EJ, Kim YJ, Park M, Kim E, Jung YS, Park SR, Oh JS, Kim SH, Park J, ": 2,
+   "UDDIN ARIFA. A CASE OF IDIOSYNCRATIC REACTION: FULMINANT HEPATIC FAILURE WITH DE": 1,
+   "ZENG L, ZHANG H, HE Y, LAI B, HUANG Z, LIN L, ET AL. .A SEVERE COVID?19 CASE WIT": 1
+  },
+  "age_top": {
+   "43.0": 383,
+   "40.0": 358,
+   "44.0": 163,
+   "59.0": 89,
+   "52.0": 83,
+   "97.0": 57
+  },
+  "year": {
+   "2025": 561,
+   "2026": 467,
+   "2024": 446,
+   "2022": 178,
+   "2023": 158,
+   "2021": 48,
+   "2018": 16,
+   "2020": 7
+  },
+  "mfr_num_prefix": {
+   "CA-": 1527,
+   "NVS": 219,
+   "FR-": 42,
+   "EU-": 42,
+   "PL-": 16,
+   "CN-": 9,
+   "ALC": 8,
+   "US-": 7
+  },
+  "fatal": 1132,
+  "female": 1770
+ }
+}

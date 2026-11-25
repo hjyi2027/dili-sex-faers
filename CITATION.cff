@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Drug mix, suspected duplicate reports and country-specific coding in sex comparisons of drug-induced liver injury reports: code and analysis plan"
+authors:
+  - family-names: Oh
+    given-names: Daina
+    affiliation: Seoul International School
+  - family-names: Yi
+    given-names: Hyunjun
+    affiliation: Seoul International School
+type: software
+license: MIT
+repository-code: "https://github.com/hjyi2027/dili-sex-faers"

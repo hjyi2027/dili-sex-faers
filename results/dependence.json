@@ -1,0 +1,169 @@
+{
+ "bootstrap_replicates": 200,
+ "seed": 20261125,
+ "stratum_scan": {
+  "k": 381,
+  "pooled_or": 0.9047295442817583,
+  "pooled_lo": 0.8752085942597728,
+  "pooled_hi": 0.9352462414843775,
+  "tau": 0.2840828449420889,
+  "pred_lo": 0.517938509676458,
+  "pred_hi": 1.5803720576938654,
+  "flagged": 103,
+  "flagged_female_shifted": 47,
+  "flagged_male_shifted": 56,
+  "strata_also_in_ingredient_scan": 352,
+  "flagged_in_both": 90,
+  "flagged_stratum_only_among_shared": 4,
+  "flagged_ingredient_only_among_shared": 6,
+  "ingredient_flags_without_own_stratum": 14
+ },
+ "clusters": {
+  "reports": 13710584,
+  "sampling_units": 13669800,
+  "reports_in_groups": 49146
+ },
+ "cluster_bootstrap": {
+  "full": {
+   "reporting": {
+    "or": 0.9183065625458967,
+    "model_se": 0.005767947593290441,
+    "cluster_se": 0.006472271660741802,
+    "se_ratio": 1.122109997717501,
+    "model_lo": 0.9079835950972648,
+    "model_hi": 0.9287468929706011,
+    "cluster_lo": 0.9067310340577327,
+    "cluster_hi": 0.9300298667853557
+   },
+   "phenotype": {
+    "or": 0.8830215465482242,
+    "model_se": 0.025839514774676983,
+    "cluster_se": 0.027716231615045203,
+    "se_ratio": 1.0726297245413998,
+    "model_lo": 0.8394148845387922,
+    "model_hi": 0.9288935257525611,
+    "cluster_lo": 0.836332938545331,
+    "cluster_hi": 0.9323165640523852
+   },
+   "fatality_ratio": {
+    "or": 1.2704452969645557,
+    "model_se": 0.016883769428384057,
+    "cluster_se": 0.019273280745058463,
+    "se_ratio": 1.1415271232416437,
+    "model_lo": 1.2290922469150536,
+    "model_hi": 1.3131896785049926,
+    "cluster_lo": 1.2233494285001985,
+    "cluster_hi": 1.3193542376180514
+   }
+  },
+  "restricted": {
+   "reporting": {
+    "or": 0.9030365896220804,
+    "model_se": 0.005798136875821057,
+    "cluster_se": 0.006327923510560618,
+    "se_ratio": 1.091371874463474,
+    "model_lo": 0.8928324462754935,
+    "model_hi": 0.9133573556808818,
+    "cluster_lo": 0.8919058434957172,
+    "cluster_hi": 0.9143062444799348
+   },
+   "phenotype": {
+    "or": 0.8720167212498484,
+    "model_se": 0.02591490757445076,
+    "cluster_se": 0.0271049131481995,
+    "se_ratio": 1.0459197305770813,
+    "model_lo": 0.8288310325568852,
+    "model_hi": 0.9174525714771019,
+    "cluster_lo": 0.8269001461534696,
+    "cluster_hi": 0.9195949059588217
+   },
+   "fatality_ratio": {
+    "or": 1.1783322024537046,
+    "model_se": 0.017208283050293812,
+    "cluster_se": 0.018939985129622222,
+    "se_ratio": 1.1006318918783036,
+    "model_lo": 1.139252602630546,
+    "model_hi": 1.2187523435394523,
+    "cluster_lo": 1.1353924498226178,
+    "cluster_hi": 1.222895906658811
+   }
+  }
+ },
+ "handling": {
+  "no_handling": {
+   "reports_removed": 0,
+   "effective_reports": 13710584.0,
+   "fatality_ratio": 1.2704452969645557,
+   "scan_pooled_or": 1.083543949957292,
+   "scan_tau": 0.5068755321042718,
+   "scan_k": 636,
+   "fatality_lo": 1.2290922469150536,
+   "fatality_hi": 1.3131896785049926,
+   "scan_flagged": 288
+  },
+  "latest_kept": {
+   "reports_removed": 40784,
+   "effective_reports": 13669800.0,
+   "fatality_ratio": 1.1893652284478358,
+   "scan_pooled_or": 0.9892675047018117,
+   "scan_tau": 0.3610301342120074,
+   "scan_k": 620,
+   "fatality_lo": 1.1497282358534053,
+   "fatality_hi": 1.2303687102115655,
+   "scan_flagged": 239
+  },
+  "groups_passing_checks_only": {
+   "reports_removed": 15009,
+   "effective_reports": 13695575.0,
+   "fatality_ratio": 1.2132461751139154,
+   "scan_pooled_or": 1.040924364678461,
+   "scan_tau": 0.4405657111217895,
+   "scan_k": 628,
+   "fatality_lo": 1.173214698189159,
+   "fatality_hi": 1.254643573508332,
+   "scan_flagged": 265
+  },
+  "groups_with_recorded_age_only": {
+   "reports_removed": 31884,
+   "effective_reports": 13678700.0,
+   "fatality_ratio": 1.2010561513630413,
+   "scan_pooled_or": 1.0096865116911196,
+   "scan_tau": 0.40089876263529867,
+   "scan_k": 620,
+   "fatality_lo": 1.1611423169726358,
+   "fatality_hi": 1.2423420089348067,
+   "scan_flagged": 244
+  },
+  "inverse_group_size_weights": {
+   "reports_removed": 0,
+   "effective_reports": 13669800.0,
+   "fatality_ratio": 1.1885307980722095,
+   "scan_pooled_or": 0.9859355938497407,
+   "scan_tau": 0.3588419292947554,
+   "scan_k": 618
+  }
+ },
+ "joint_fatality_model": {
+  "full": {
+   "drugs": 546,
+   "hepatic_reports": 127767,
+   "or": 1.2730120369194127,
+   "lo": 1.2298092337887452,
+   "hi": 1.3177325406389733
+  },
+  "restricted": {
+   "drugs": 541,
+   "hepatic_reports": 125828,
+   "or": 1.182346744062775,
+   "lo": 1.1414674695191434,
+   "hi": 1.2246900244864145
+  },
+  "linked": {
+   "drugs": 539,
+   "hepatic_reports": 125014,
+   "or": 1.1917331694240267,
+   "lo": 1.1503045156775336,
+   "hi": 1.234653891860032
+  }
+ }
+}

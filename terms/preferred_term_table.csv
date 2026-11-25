@@ -1,0 +1,648 @@
+pt,n,hc,ch,mx,un,narrow,broad,severe,overdose,alcohol
+OVERDOSE,200121,False,False,False,False,False,False,False,True,False
+TOXICITY TO VARIOUS AGENTS,164914,False,False,False,False,False,False,False,True,False
+INTENTIONAL PRODUCT MISUSE,104667,False,False,False,False,False,False,False,True,False
+DRUG ABUSE,75928,False,False,False,False,False,False,False,True,False
+SUICIDAL IDEATION,73988,False,False,False,False,False,False,False,False,False
+HEPATIC ENZYME INCREASED,71289,False,False,False,False,False,True,False,False,False
+INTENTIONAL OVERDOSE,57342,False,False,False,False,False,False,False,True,False
+COMPLETED SUICIDE,54098,False,False,False,False,False,False,False,True,False
+ALANINE AMINOTRANSFERASE INCREASED,51356,False,False,False,False,False,True,False,False,False
+SUICIDE ATTEMPT,47596,False,False,False,False,False,False,False,True,False
+LIVER DISORDER,43270,False,False,False,False,False,True,False,False,False
+ASPARTATE AMINOTRANSFERASE INCREASED,42788,False,False,False,False,False,True,False,False,False
+DEVICE DELIVERY SYSTEM ISSUE,38565,False,False,False,False,False,False,False,False,False
+HEPATIC FUNCTION ABNORMAL,36102,False,False,False,False,False,True,False,False,False
+DRUG-INDUCED LIVER INJURY,35937,False,False,False,True,True,True,False,False,False
+ACCIDENTAL OVERDOSE,30973,False,False,False,False,False,False,False,True,False
+LIVER FUNCTION TEST INCREASED,28330,False,False,False,False,False,True,False,False,False
+HEPATIC CANCER,26864,False,False,False,False,False,False,False,False,False
+LIVER INJURY,26303,False,False,False,True,True,True,False,False,False
+HEPATIC FAILURE,23736,False,False,False,True,True,True,True,False,False
+PRESCRIBED OVERDOSE,22964,False,False,False,False,False,False,False,True,False
+HEPATOTOXICITY,22091,False,False,False,True,True,True,False,False,False
+BLOOD BILIRUBIN INCREASED,22079,False,False,False,False,False,True,False,False,False
+HEPATITIS,21899,False,False,False,True,True,True,False,False,False
+TRANSAMINASES INCREASED,20683,False,False,False,False,False,True,False,False,False
+JAUNDICE,19832,False,False,False,True,True,True,False,False,False
+INTENTIONAL SELF-INJURY,19469,False,False,False,False,False,False,False,True,False
+BLOOD ALKALINE PHOSPHATASE INCREASED,18775,False,False,False,False,False,True,False,False,False
+HEPATIC CIRRHOSIS,18723,False,False,False,False,False,False,False,False,False
+LIVER FUNCTION TEST ABNORMAL,18641,False,False,False,False,False,True,False,False,False
+HEPATIC STEATOSIS,18043,False,False,False,False,False,False,False,False,False
+GAMMA-GLUTAMYLTRANSFERASE INCREASED,17924,False,False,False,False,False,True,False,False,False
+PREMATURE DELIVERY,17636,False,False,False,False,False,False,False,False,False
+METASTASES TO LIVER,17616,False,False,False,False,False,False,False,False,False
+CHOLESTASIS,16653,False,True,False,False,True,True,False,False,False
+HEPATIC CYTOLYSIS,14376,True,False,False,False,True,True,False,False,False
+HEPATOCELLULAR INJURY,14154,True,False,False,False,True,True,False,False,False
+ACUTE HEPATIC FAILURE,12597,False,False,False,True,True,True,True,False,False
+HEPATITIS C,9937,False,False,False,False,False,False,False,False,False
+HYPERBILIRUBINAEMIA,9539,False,False,False,False,False,True,False,False,False
+POISONING DELIBERATE,9333,False,False,False,False,False,False,False,True,False
+HEPATIC ENCEPHALOPATHY,8321,False,False,False,True,True,True,True,False,False
+HEPATOCELLULAR CARCINOMA,8103,False,False,False,False,False,False,False,False,False
+HEPATOMEGALY,7962,False,False,False,False,False,False,False,False,False
+POISONING,7816,False,False,False,False,False,False,False,True,False
+HYPERTRANSAMINASAEMIA,7794,False,False,False,False,False,True,False,False,False
+SUBSTANCE ABUSE,7350,False,False,False,False,False,False,False,True,False
+AUTOIMMUNE HEPATITIS,6782,False,False,False,True,True,True,False,False,False
+FOOD POISONING,6571,False,False,False,False,False,False,False,False,False
+PRODUCT DELIVERY MECHANISM ISSUE,6267,False,False,False,False,False,False,False,False,False
+INTENTIONAL DEVICE MISUSE,5378,False,False,False,False,False,False,False,False,False
+HEPATITIS ACUTE,5134,False,False,False,True,True,True,False,False,False
+HEPATIC ENZYME ABNORMAL,5031,False,False,False,False,False,True,False,False,False
+HEPATITIS B,4895,False,False,False,False,False,False,False,False,False
+VENOOCCLUSIVE LIVER DISEASE,4873,False,False,False,False,False,False,False,False,False
+DRUG DELIVERY SYSTEM MALFUNCTION,4799,False,False,False,False,False,False,False,False,False
+SUSPECTED SUICIDE,4757,False,False,False,False,False,False,False,True,False
+HEPATIC LESION,4600,False,False,False,False,False,False,False,False,False
+HEPATITIS CHOLESTATIC,4554,False,True,False,False,True,True,False,False,False
+HEPATIC PAIN,4465,False,False,False,False,False,False,False,False,False
+HEPATIC CANCER STAGE IV,4141,False,False,False,False,False,False,False,False,False
+IMMOBILE,4069,False,False,False,False,False,False,False,False,False
+HEPATITIS B REACTIVATION,3746,False,False,False,False,False,False,False,False,False
+ALCOHOLISM,3702,False,False,False,False,False,False,False,False,True
+OCULAR ICTERUS,3381,False,False,False,False,False,False,False,False,False
+LIVER ABSCESS,3364,False,False,False,False,False,False,False,False,False
+HEPATIC NEOPLASM,3339,False,False,False,False,False,False,False,False,False
+HEPATIC CYST,3333,False,False,False,False,False,False,False,False,False
+SUICIDAL BEHAVIOUR,3270,False,False,False,False,False,False,False,False,False
+BILE DUCT STONE,3102,False,False,False,False,False,False,False,False,False
+MIXED LIVER INJURY,3087,False,False,True,False,True,True,False,False,False
+HEPATIC FIBROSIS,3071,False,False,False,False,False,False,False,False,False
+IMMUNE-MEDIATED HEPATIC DISORDER,3031,False,False,False,True,True,True,False,False,False
+DEPRESSION SUICIDAL,2997,False,False,False,False,False,False,False,False,False
+BILIARY COLIC,2900,False,False,False,False,False,False,False,False,False
+LIVER TRANSPLANT,2869,False,False,False,True,True,True,True,False,False
+JAUNDICE CHOLESTATIC,2799,False,True,False,False,True,True,False,False,False
+IMMUNE-MEDIATED HEPATITIS,2690,False,False,False,True,True,True,False,False,False
+ALANINE AMINOTRANSFERASE ABNORMAL,2562,False,False,False,False,False,True,False,False,False
+ALCOHOL ABUSE,2509,False,False,False,False,False,False,False,False,True
+DRUG DELIVERY SYSTEM ISSUE,2455,False,False,False,False,False,False,False,False,False
+HEPATIC MASS,2216,False,False,False,False,False,False,False,False,False
+HEPATITIS FULMINANT,2208,False,False,False,True,True,True,True,False,False
+CHOLESTATIC LIVER INJURY,2191,False,True,False,False,True,True,False,False,False
+HEPATIC NECROSIS,2187,False,False,False,True,True,True,True,False,False
+ALCOHOL POISONING,2048,False,False,False,False,False,False,False,True,True
+HEPATOSPLENOMEGALY,1975,False,False,False,False,False,False,False,False,False
+HEPATITIS E,1885,False,False,False,False,False,False,False,False,False
+HEPATITIS TOXIC,1841,False,False,False,True,True,True,False,False,False
+BILIRUBIN CONJUGATED INCREASED,1827,False,False,False,False,False,True,False,False,False
+SUBILEUS,1807,False,False,False,False,False,False,False,False,False
+ASPARTATE AMINOTRANSFERASE ABNORMAL,1687,False,False,False,False,False,True,False,False,False
+BILIARY OBSTRUCTION,1659,False,False,False,False,False,False,False,False,False
+ALCOHOL INTERACTION,1637,False,False,False,False,False,False,False,False,True
+JAUNDICE NEONATAL,1627,False,False,False,False,False,False,False,False,False
+ALCOHOL USE,1562,False,False,False,False,False,False,False,False,True
+HEPATIC INFECTION,1554,False,False,False,False,False,False,False,False,False
+BILE DUCT OBSTRUCTION,1370,False,False,False,False,False,False,False,False,False
+HEPATORENAL SYNDROME,1305,False,False,False,False,False,False,False,False,False
+BLOOD BILIRUBIN ABNORMAL,1296,False,False,False,False,False,True,False,False,False
+BILIARY DILATATION,1275,False,False,False,False,False,False,False,False,False
+LIVER TRANSPLANT REJECTION,1251,False,False,False,False,False,False,False,False,False
+ACCIDENTAL POISONING,1246,False,False,False,False,False,False,False,True,False
+BLOOD ALKALINE PHOSPHATASE DECREASED,1220,False,False,False,False,False,False,False,False,False
+NON-ALCOHOLIC STEATOHEPATITIS,1151,False,False,False,False,False,False,False,False,False
+BILE DUCT STENOSIS,1123,False,False,False,False,False,False,False,False,False
+VANISHING BILE DUCT SYNDROME,1103,False,True,False,False,True,True,False,False,False
+ISCHAEMIC HEPATITIS,1070,False,False,False,False,False,False,False,False,False
+BILIARY TRACT DISORDER,1063,False,False,False,False,False,False,False,False,False
+MATERNAL EXPOSURE DURING DELIVERY,1018,False,False,False,False,False,False,False,False,False
+BLOOD ALKALINE PHOSPHATASE ABNORMAL,1002,False,False,False,False,False,True,False,False,False
+LABILE BLOOD PRESSURE,929,False,False,False,False,False,False,False,False,False
+BILE DUCT CANCER,920,False,False,False,False,False,False,False,False,False
+HAEMANGIOMA OF LIVER,816,False,False,False,False,False,False,False,False,False
+GRAFT VERSUS HOST DISEASE IN LIVER,807,False,False,False,False,False,False,False,False,False
+BLOOD BILIRUBIN DECREASED,803,False,False,False,False,False,False,False,False,False
+ALANINE AMINOTRANSFERASE DECREASED,765,False,False,False,False,False,False,False,False,False
+FOETAL EXPOSURE DURING DELIVERY,752,False,False,False,False,False,False,False,False,False
+HEPATITIS A,748,False,False,False,False,False,False,False,False,False
+HEPATIC CANCER METASTATIC,739,False,False,False,False,False,False,False,False,False
+HEPATIC HAEMORRHAGE,738,False,False,False,False,False,False,False,False,False
+DEVICE MISUSE,727,False,False,False,False,False,False,False,False,False
+HEPATOBILIARY DISEASE,689,False,False,False,False,False,False,False,False,False
+DELIVERY,689,False,False,False,False,False,False,False,False,False
+STEATOHEPATITIS,682,False,False,False,False,False,False,False,False,False
+ALCOHOL INTOLERANCE,680,False,False,False,False,False,False,False,False,True
+BILIARY TRACT INFECTION,664,False,False,False,False,False,False,False,False,False
+ALCOHOL WITHDRAWAL SYNDROME,660,False,False,False,False,False,False,False,False,True
+GAMMA-GLUTAMYLTRANSFERASE ABNORMAL,645,False,False,False,False,False,True,False,False,False
+HEPATITIS VIRAL,637,False,False,False,False,False,False,False,False,False
+SUSPECTED SUICIDE ATTEMPT,629,False,False,False,False,False,False,False,True,False
+HEPATITIS B DNA INCREASED,624,False,False,False,False,False,False,False,False,False
+CHRONIC HEPATITIS,620,False,False,False,False,False,False,False,False,False
+ASPARTATE AMINOTRANSFERASE DECREASED,618,False,False,False,False,False,False,False,False,False
+DRUG ABUSER,618,False,False,False,False,False,False,False,True,False
+PRIMARY BILIARY CHOLANGITIS,606,False,False,False,False,False,False,False,False,False
+TRANSAMINASES ABNORMAL,589,False,False,False,False,False,True,False,False,False
+CONGESTIVE HEPATOPATHY,575,False,False,False,False,False,False,False,False,False
+ACUTE GRAFT VERSUS HOST DISEASE IN LIVER,563,False,False,False,False,False,False,False,False,False
+CHRONIC HEPATIC FAILURE,557,False,False,False,False,False,False,False,False,False
+HEPATIC ENZYME DECREASED,549,False,False,False,False,False,False,False,False,False
+HEPATITIS C VIRUS TEST POSITIVE,546,False,False,False,False,False,False,False,False,False
+BLOOD BILIRUBIN UNCONJUGATED INCREASED,538,False,False,False,False,False,False,False,False,False
+HYPERBILIRUBINAEMIA NEONATAL,499,False,False,False,False,False,False,False,False,False
+GRANULOMATOUS LIVER DISEASE,495,False,False,False,False,False,False,False,False,False
+HEPATIC CANCER STAGE III,492,False,False,False,False,False,False,False,False,False
+CHOLESTASIS OF PREGNANCY,486,False,False,False,False,False,False,False,False,False
+SUICIDE THREAT,482,False,False,False,False,False,False,False,False,False
+BILIARY SEPSIS,479,False,False,False,False,False,False,False,False,False
+LIVER FUNCTION TEST DECREASED,472,False,False,False,False,False,False,False,False,False
+HEPATIC CONGESTION,454,False,False,False,False,False,False,False,False,False
+HEPATITIS B VIRUS TEST POSITIVE,453,False,False,False,False,False,False,False,False,False
+VICTIM OF SEXUAL ABUSE,452,False,False,False,False,False,False,False,False,False
+HEPATORENAL FAILURE,444,False,False,False,False,False,False,False,False,False
+HEPATITIS B CORE ANTIBODY POSITIVE,443,False,False,False,False,False,False,False,False,False
+NON-ALCOHOLIC FATTY LIVER,442,False,False,False,False,False,False,False,False,False
+HEPATIC ADENOMA,437,False,False,False,False,False,False,False,False,False
+HEPATIC CANCER STAGE I,428,False,False,False,False,False,False,False,False,False
+HEPATIC CANCER STAGE II,424,False,False,False,False,False,False,False,False,False
+CHRONIC HEPATITIS C,419,False,False,False,False,False,False,False,False,False
+CHRONIC GRAFT VERSUS HOST DISEASE IN LIVER,414,False,False,False,False,False,False,False,False,False
+HEPATIC HAEMATOMA,412,False,False,False,False,False,False,False,False,False
+COMA HEPATIC,409,False,False,False,True,True,True,True,False,False
+BILE ACID MALABSORPTION,396,False,False,False,False,False,False,False,False,False
+METAL POISONING,382,False,False,False,False,False,False,False,False,False
+TOBACCO ABUSE,377,False,False,False,False,False,False,False,False,False
+CIRRHOSIS ALCOHOLIC,370,False,False,False,False,False,False,False,False,True
+HEPATIC ATROPHY,369,False,False,False,False,False,False,False,False,False
+CYTOMEGALOVIRUS HEPATITIS,365,False,False,False,False,False,False,False,False,False
+CHRONIC HEPATITIS B,363,False,False,False,False,False,False,False,False,False
+ACUTE HEPATITIS B,359,False,False,False,False,False,False,False,False,False
+BIOPSY LIVER,356,False,False,False,False,False,False,False,False,False
+BILE DUCT STENT INSERTION,344,False,False,False,False,False,False,False,False,False
+SEXUAL ABUSE,343,False,False,False,False,False,False,False,False,False
+BLOOD ALCOHOL INCREASED,328,False,False,False,False,False,False,False,False,True
+CARBON MONOXIDE POISONING,328,False,False,False,False,False,False,False,False,False
+HEPATITIS B SURFACE ANTIBODY POSITIVE,317,False,False,False,False,False,False,False,False,False
+HEPATECTOMY,316,False,False,False,False,False,False,False,False,False
+HEPATOSPLENIC T-CELL LYMPHOMA,315,False,False,False,False,False,False,False,False,False
+HEPATIC CANCER RECURRENT,313,False,False,False,False,False,False,False,False,False
+METABOLIC DYSFUNCTION-ASSOCIATED STEATOHEPATITIS,295,False,False,False,False,False,False,False,False,False
+LIVER OPERATION,291,False,False,False,False,False,False,False,False,False
+ALCOHOLIC LIVER DISEASE,289,False,False,False,False,False,False,False,False,True
+ASPARTATE AMINOTRANSFERASE,288,False,False,False,False,False,False,False,False,False
+HEPATIC VEIN THROMBOSIS,285,False,False,False,False,False,False,False,False,False
+HEPATIC INFARCTION,284,False,False,False,False,False,False,False,False,False
+HEPATITIS C RNA INCREASED,280,False,False,False,False,False,False,False,False,False
+LIVER CARCINOMA RUPTURED,278,False,False,False,False,False,False,False,False,False
+NONALCOHOLIC FATTY LIVER DISEASE,277,False,False,False,False,False,False,False,False,False
+VERBAL ABUSE,276,False,False,False,False,False,False,False,False,False
+CHEMICAL POISONING,272,False,False,False,False,False,False,False,False,False
+POST PROCEDURAL BILE LEAK,271,False,False,False,False,False,False,False,False,False
+VICTIM OF ABUSE,261,False,False,False,False,False,False,False,False,False
+ACUTE ON CHRONIC LIVER FAILURE,259,False,False,False,False,False,False,False,False,False
+BILE ACIDS INCREASED,256,False,False,False,False,False,False,False,False,False
+HEPATIC ISCHAEMIA,255,False,False,False,False,False,False,False,False,False
+GAMMA-GLUTAMYLTRANSFERASE DECREASED,253,False,False,False,False,False,False,False,False,False
+HERPES SIMPLEX HEPATITIS,252,False,False,False,False,False,False,False,False,False
+SUSPECTED DRUG-INDUCED LIVER INJURY,251,False,False,False,True,True,True,False,False,False
+CHILD ABUSE,250,False,False,False,False,False,False,False,False,False
+HEPATITIS ALCOHOLIC,248,False,False,False,False,False,False,False,False,True
+HEPATIC VASCULAR THROMBOSIS,245,False,False,False,False,False,False,False,False,False
+METABOLIC DYSFUNCTION-ASSOCIATED LIVER DISEASE,242,False,False,False,False,False,False,False,False,False
+SUBSTANCE ABUSER,233,False,False,False,False,False,False,False,True,False
+VICTIM OF CHILD ABUSE,223,False,False,False,False,False,False,False,False,False
+ADENOVIRAL HEPATITIS,222,False,False,False,False,False,False,False,False,False
+LABILE HYPERTENSION,217,False,False,False,False,False,False,False,False,False
+DILATATION INTRAHEPATIC DUCT ACQUIRED,217,False,False,False,False,False,False,False,False,False
+HEPATIC ARTERY THROMBOSIS,215,False,False,False,False,False,False,False,False,False
+BILIARY DYSKINESIA,213,False,False,False,False,False,False,False,False,False
+ALCOHOL USE DISORDER,203,False,False,False,False,False,False,False,False,True
+COMPLICATIONS OF TRANSPLANTED LIVER,201,False,False,False,False,False,False,False,False,False
+COMPLICATION OF DELIVERY,200,False,False,False,False,False,False,False,False,False
+TRAUMATIC LIVER INJURY,199,False,False,False,False,False,False,False,False,False
+HEPATIC RUPTURE,193,False,False,False,False,False,False,False,False,False
+HEPATITIS B SURFACE ANTIGEN POSITIVE,193,False,False,False,False,False,False,False,False,False
+ALANINE AMINOTRANSFERASE,189,False,False,False,False,False,False,False,False,False
+BENIGN HEPATIC NEOPLASM,189,False,False,False,False,False,False,False,False,False
+ACUTE HEPATITIS C,185,False,False,False,False,False,False,False,False,False
+BILIRUBIN URINE PRESENT,180,False,False,False,False,False,False,False,False,False
+HEPATIC ENZYME,177,False,False,False,False,False,False,False,False,False
+ALCOHOLIC,163,False,False,False,False,False,False,False,False,True
+HEPATIC CALCIFICATION,157,False,False,False,False,False,False,False,False,False
+LIVER TENDERNESS,156,False,False,False,False,False,False,False,False,False
+HEPATITIS C ANTIBODY POSITIVE,154,False,False,False,False,False,False,False,False,False
+LIVER SCAN ABNORMAL,153,False,False,False,False,False,False,False,False,False
+TOTAL BILE ACIDS INCREASED,153,False,False,False,False,False,False,False,False,False
+URINE ALCOHOL TEST POSITIVE,152,False,False,False,False,False,False,False,False,True
+ALCOHOL PROBLEM,150,False,False,False,False,False,False,False,False,True
+HEPATOJUGULAR REFLUX,148,False,False,False,False,False,False,False,False,False
+ALCOHOLIC PANCREATITIS,147,False,False,False,False,False,False,False,False,True
+INTENTIONAL PRODUCT MISUSE TO CHILD,144,False,False,False,False,False,False,False,True,False
+BILIARY FISTULA,144,False,False,False,False,False,False,False,False,False
+BILIARY CYST,142,False,False,False,False,False,False,False,False,False
+HEPATOPULMONARY SYNDROME,141,False,False,False,False,False,False,False,False,False
+BILIRUBIN CONJUGATED ABNORMAL,138,False,False,False,False,False,False,False,False,False
+BILIARY CIRRHOSIS PRIMARY,137,False,False,False,False,False,False,False,False,False
+DRUG DELIVERY SYSTEM REMOVAL,132,False,False,False,False,False,False,False,False,False
+HEPATITIS B ANTIBODY POSITIVE,132,False,False,False,False,False,False,False,False,False
+HEPATOSPLENIC CANDIDIASIS,132,False,False,False,False,False,False,False,False,False
+DELAYED DELIVERY,131,False,False,False,False,False,False,False,False,False
+PERFORATION BILE DUCT,130,False,False,False,False,False,False,False,False,False
+BILIARY CIRRHOSIS,130,False,False,False,False,False,False,False,False,False
+HEPATIC VEIN OCCLUSION,128,False,False,False,False,False,False,False,False,False
+POLYCYSTIC LIVER DISEASE,127,False,False,False,False,False,False,False,False,False
+PHYSICAL ABUSE,124,False,False,False,False,False,False,False,False,False
+HEPATIC CYST INFECTION,121,False,False,False,False,False,False,False,False,False
+ULTRASOUND LIVER ABNORMAL,118,False,False,False,False,False,False,False,False,False
+BLOOD ALKALINE PHOSPHATASE,117,False,False,False,False,False,False,False,False,False
+HEPATITIS C RNA POSITIVE,116,False,False,False,False,False,False,False,False,False
+SUBACUTE HEPATIC FAILURE,115,False,False,False,True,True,True,True,False,False
+HEPATIC ARTERY STENOSIS,114,False,False,False,False,False,False,False,False,False
+DEFICIENCY OF BILE SECRETION,113,False,False,False,False,False,False,False,False,False
+LIVER FUNCTION TEST,112,False,False,False,False,False,False,False,False,False
+HEPATITIS INFECTIOUS MONONUCLEOSIS,110,False,False,False,False,False,False,False,False,False
+HEPATIC INFECTION FUNGAL,110,False,False,False,False,False,False,False,False,False
+HAEMORRHAGIC HEPATIC CYST,108,False,False,False,False,False,False,False,False,False
+PELIOSIS HEPATIS,106,False,False,False,False,False,False,False,False,False
+DEVICE INAPPROPRIATE SHOCK DELIVERY,104,False,False,False,False,False,False,False,False,False
+HEPATITIS B DNA ASSAY POSITIVE,104,False,False,False,False,False,False,False,False,False
+LIVER IRON CONCENTRATION INCREASED,103,False,False,False,False,False,False,False,False,False
+BILEVEL POSITIVE AIRWAY PRESSURE,103,False,False,False,False,False,False,False,False,False
+LIVER ABLATION,102,False,False,False,False,False,False,False,False,False
+BREATH ALCOHOL TEST POSITIVE,101,False,False,False,False,False,False,False,False,True
+BILE OUTPUT INCREASED,101,False,False,False,False,False,False,False,False,False
+LIVER PALPABLE,101,False,False,False,False,False,False,False,False,False
+DRUG DELIVERY DEVICE IMPLANTATION,101,False,False,False,False,False,False,False,False,False
+BIOPSY LIVER ABNORMAL,99,False,False,False,False,False,False,False,False,False
+HEPATIC INFECTION BACTERIAL,98,False,False,False,False,False,False,False,False,False
+ALCOHOL TEST FALSE POSITIVE,97,False,False,False,False,False,False,False,False,True
+INTENTIONAL MISUSE OF DRUG DELIVERY SYSTEM,97,False,False,False,False,False,False,False,False,False
+HEPATITIS A ANTIBODY POSITIVE,96,False,False,False,False,False,False,False,False,False
+HEPATO-LENTICULAR DEGENERATION,96,False,False,False,False,False,False,False,False,False
+PARENTERAL NUTRITION ASSOCIATED LIVER DISEASE,96,False,False,False,False,False,False,False,False,False
+GAMMA-GLUTAMYLTRANSFERASE,93,False,False,False,False,False,False,False,False,False
+PERIHEPATIC DISCOMFORT,92,False,False,False,False,False,False,False,False,False
+HEPATIC ARTERY ANEURYSM,92,False,False,False,False,False,False,False,False,False
+INTENTIONAL REMOVAL OF DRUG DELIVERY SYSTEM BY PATIENT,91,False,False,False,False,False,False,False,False,False
+NEONATAL CHOLESTASIS,90,False,False,False,False,False,False,False,False,False
+BILIARY CATHETER INSERTION,90,False,False,False,False,False,False,False,False,False
+BILIARY ANASTOMOSIS COMPLICATION,89,False,False,False,False,False,False,False,False,False
+HEPATITIS CHRONIC ACTIVE,88,False,False,False,False,False,False,False,False,False
+PERIHEPATIC ABSCESS,87,False,False,False,False,False,False,False,False,False
+ERGOT POISONING,83,False,False,False,False,False,False,False,False,False
+HEPATITIS D,79,False,False,False,False,False,False,False,False,False
+GAS POISONING,78,False,False,False,False,False,False,False,False,False
+HEPATIC EMBOLISATION,77,False,False,False,False,False,False,False,False,False
+TOBACCO POISONING,76,False,False,False,False,False,False,False,False,False
+ASSISTED SUICIDE,74,False,False,False,False,False,False,False,False,False
+HEPATIC HYDROTHORAX,74,False,False,False,False,False,False,False,False,False
+ALCOHOLIC HANGOVER,73,False,False,False,False,False,False,False,False,True
+HEPATIC SIDEROSIS,73,False,False,False,False,False,False,False,False,False
+HEPATIC ANGIOSARCOMA,72,False,False,False,False,False,False,False,False,False
+BILE DUCT ADENOCARCINOMA,71,False,False,False,False,False,False,False,False,False
+BILIARY DRAINAGE,70,False,False,False,False,False,False,False,False,False
+BACTERIAL FOOD POISONING,69,False,False,False,False,False,False,False,False,False
+BILIARY TRACT OPERATION,69,False,False,False,False,False,False,False,False,False
+ALCOHOL DETOXIFICATION,69,False,False,False,False,False,False,False,False,True
+URINE BILIRUBIN INCREASED,68,False,False,False,False,False,False,False,False,False
+BILIRUBINURIA,68,False,False,False,False,False,False,False,False,False
+HEPATITIS A VIRUS TEST POSITIVE,68,False,False,False,False,False,False,False,False,False
+HEPATIC VEIN DILATATION,68,False,False,False,False,False,False,False,False,False
+BLOOD BILIRUBIN UNCONJUGATED DECREASED,67,False,False,False,False,False,False,False,False,False
+HEPATOBLASTOMA,67,False,False,False,False,False,False,False,False,False
+OEDEMA DUE TO HEPATIC DISEASE,66,False,False,False,False,False,False,False,False,False
+JAUNDICE ACHOLURIC,66,False,False,False,False,False,False,False,False,False
+LIVER TRANSPLANT FAILURE,65,False,False,False,False,False,False,False,False,False
+LIVER SARCOIDOSIS,65,False,False,False,False,False,False,False,False,False
+VIRAL HEPATITIS CARRIER,64,False,False,False,False,False,False,False,False,False
+BILE OUTPUT ABNORMAL,64,False,False,False,False,False,False,False,False,False
+ALCOHOLIC SEIZURE,64,False,False,False,False,False,False,False,False,True
+TUBERCULOSIS LIVER,63,False,False,False,False,False,False,False,False,False
+RADIATION OVERDOSE,63,False,False,False,False,False,False,False,False,False
+BILIARY NEOPLASM,63,False,False,False,False,False,False,False,False,False
+BREECH DELIVERY,62,False,False,False,False,False,False,False,False,False
+HEPATOBILIARY CANCER,62,False,False,False,False,False,False,False,False,False
+HEPATIC ARTERY OCCLUSION,61,False,False,False,False,False,False,False,False,False
+TRANSAMINASES DECREASED,60,False,False,False,False,False,False,False,False,False
+TRANSAMINASES,58,False,False,False,False,False,False,False,False,False
+HEPATIC ECHINOCOCCIASIS,57,False,False,False,False,False,False,False,False,False
+HEPATIC AMOEBIASIS,57,False,False,False,False,False,False,False,False,False
+HEPATITIS B ANTIBODY ABNORMAL,56,False,False,False,False,False,False,False,False,False
+SUBCAPSULAR HEPATIC HAEMATOMA,56,False,False,False,False,False,False,False,False,False
+HEPATIC CANDIDIASIS,56,False,False,False,False,False,False,False,False,False
+BLOOD BILIRUBIN,54,False,False,False,False,False,False,False,False,False
+JAUNDICE HEPATOCELLULAR,54,True,False,False,False,True,True,False,False,False
+HEPATITIS E VIRUS TEST POSITIVE,53,False,False,False,False,False,False,False,False,False
+CONGENITAL ABSENCE OF BILE DUCTS,52,False,False,False,False,False,False,False,False,False
+HEPATIC NEUROENDOCRINE TUMOUR,51,False,False,False,False,False,False,False,False,False
+MODEL FOR END STAGE LIVER DISEASE SCORE INCREASED,51,False,False,False,False,False,False,False,False,False
+FOETAL ALCOHOL SYNDROME,51,False,False,False,False,False,False,False,False,True
+HEPATOBILIARY SCAN ABNORMAL,50,False,False,False,False,False,False,False,False,False
+ALCOHOL TEST POSITIVE,49,False,False,False,False,False,False,False,False,True
+FATTY LIVER ALCOHOLIC,48,False,False,False,False,False,False,False,False,True
+BILE DUCT CANCER STAGE IV,47,False,False,False,False,False,False,False,False,False
+COMPUTERISED TOMOGRAM LIVER ABNORMAL,47,False,False,False,False,False,False,False,False,False
+IMMUNE-MEDIATED CHOLESTASIS,47,False,True,False,False,True,True,False,False,False
+LIVER IRON CONCENTRATION ABNORMAL,46,False,False,False,False,False,False,False,False,False
+HEPATIC HYPERTROPHY,45,False,False,False,False,False,False,False,False,False
+VICTIM OF SPOUSAL ABUSE,44,False,False,False,False,False,False,False,False,False
+INCREASED LIVER STIFFNESS,44,False,False,False,False,False,False,False,False,False
+TRAUMATIC DELIVERY,44,False,False,False,False,False,False,False,False,False
+SPOUSAL ABUSE,43,False,False,False,False,False,False,False,False,False
+HEPATIC FIBROSIS MARKER INCREASED,43,False,False,False,False,False,False,False,False,False
+ALCOHOLIC KETOACIDOSIS,43,False,False,False,False,False,False,False,False,True
+CONGENITAL HEPATOMEGALY,41,False,False,False,False,False,False,False,False,False
+PSYCHOLOGICAL ABUSE,41,False,False,False,False,False,False,False,False,False
+BILIARY SPHINCTEROTOMY,40,False,False,False,False,False,False,False,False,False
+HEPATIC CYST RUPTURED,40,False,False,False,False,False,False,False,False,False
+HEPATOSPLENOMEGALY NEONATAL,40,False,False,False,False,False,False,False,False,False
+HEPATITIS E ANTIBODY POSITIVE,40,False,False,False,False,False,False,False,False,False
+MIXED HEPATOCELLULAR CHOLANGIOCARCINOMA,39,False,False,False,False,False,False,False,False,False
+NEONATAL HEPATOMEGALY,39,False,False,False,False,False,False,False,False,False
+METASTASES TO BILIARY TRACT,39,False,False,False,False,False,False,False,False,False
+CARDIOMYOPATHY ALCOHOLIC,39,False,False,False,False,False,False,False,False,True
+ACUTE FATTY LIVER OF PREGNANCY,39,False,False,False,False,False,False,False,False,False
+HEPATITIS G,38,False,False,False,False,False,False,False,False,False
+HEPATITIS C RNA,38,False,False,False,False,False,False,False,False,False
+BILIARY ISCHAEMIA,38,False,False,False,False,False,False,False,False,False
+FORCEPS DELIVERY,38,False,False,False,False,False,False,False,False,False
+VACUUM EXTRACTOR DELIVERY,37,False,False,False,False,False,False,False,False,False
+BILE DUCT NECROSIS,36,False,False,False,False,False,False,False,False,False
+HEPATIC INFILTRATION EOSINOPHILIC,36,False,False,False,False,False,False,False,False,False
+BILIRUBIN CONJUGATED DECREASED,35,False,False,False,False,False,False,False,False,False
+ALCOHOL REHABILITATION,35,False,False,False,False,False,False,False,False,True
+HEPATOBILIARY PROCEDURAL COMPLICATION,34,False,False,False,False,False,False,False,False,False
+URINE BILIRUBIN DECREASED,33,False,False,False,False,False,False,False,False,False
+HEPATIC VEIN STENOSIS,33,False,False,False,False,False,False,False,False,False
+BILIARY CANCER METASTATIC,33,False,False,False,False,False,False,False,False,False
+HEPATOBILIARY INFECTION,33,False,False,False,False,False,False,False,False,False
+CARCINOID TUMOUR OF THE LIVER,32,False,False,False,False,False,False,False,False,False
+ALLERGIC HEPATITIS,32,False,False,False,False,False,False,False,False,False
+LIVER INDURATION,32,False,False,False,False,False,False,False,False,False
+BILE CAST NEPHROPATHY,32,False,False,False,False,False,False,False,False,False
+HEPATITIS B ANTIGEN POSITIVE,31,False,False,False,False,False,False,False,False,False
+CYSTIC FIBROSIS HEPATIC DISEASE,31,False,False,False,False,False,False,False,False,False
+LIVER CONTUSION,31,False,False,False,False,False,False,False,False,False
+BILIRUBIN URINE,30,False,False,False,False,False,False,False,False,False
+HEPATIC ARTERIOVENOUS MALFORMATION,30,False,False,False,False,False,False,False,False,False
+DIABETIC HEPATOPATHY,29,False,False,False,False,False,False,False,False,False
+CHOLESTATIC PRURITUS,29,False,False,False,False,False,False,False,False,False
+HEPATITIS B CORE ANTIGEN POSITIVE,29,False,False,False,False,False,False,False,False,False
+HEPATITIS B E ANTIBODY POSITIVE,29,False,False,False,False,False,False,False,False,False
+HEPATIC VASCULAR DISORDER,28,False,False,False,False,False,False,False,False,False
+BILIARY HAMARTOMA,28,False,False,False,False,False,False,False,False,False
+MALIGNANT BILIARY OBSTRUCTION,28,False,False,False,False,False,False,False,False,False
+BILIARY FIBROSIS,28,False,False,False,False,False,False,False,False,False
+BILE DUCT STENT REMOVAL,27,False,False,False,False,False,False,False,False,False
+BENIGN RECURRENT INTRAHEPATIC CHOLESTASIS,27,False,False,False,False,False,False,False,False,False
+BILE ACIDS ABNORMAL,26,False,False,False,False,False,False,False,False,False
+EX-DRUG ABUSER,26,False,False,False,False,False,False,False,False,False
+BILIARY TRACT DILATION PROCEDURE,26,False,False,False,False,False,False,False,False,False
+HEPATITIS VIRAL TEST POSITIVE,26,False,False,False,False,False,False,False,False,False
+BILIARY ABSCESS,26,False,False,False,False,False,False,False,False,False
+HEPATIC PERFUSION DISORDER,25,False,False,False,False,False,False,False,False,False
+HEPATIC STEATO-FIBROSIS,25,False,False,False,False,False,False,False,False,False
+DRUG DELIVERY DEVICE PLACEMENT,25,False,False,False,False,False,False,False,False,False
+HEPATITIS B CORE ANTIBODY,25,False,False,False,False,False,False,False,False,False
+HEPATIC IRON OVERLOAD,25,False,False,False,False,False,False,False,False,False
+HEPATITIS A ANTIBODY ABNORMAL,24,False,False,False,False,False,False,False,False,False
+HEPATOSPLENIC ABSCESS,24,False,False,False,False,False,False,False,False,False
+BILE DUCT CANCER RECURRENT,24,False,False,False,False,False,False,False,False,False
+LIVER GRAFT LOSS,23,False,False,False,False,False,False,False,False,False
+MODEL FOR END STAGE LIVER DISEASE SCORE ABNORMAL,23,False,False,False,False,False,False,False,False,False
+HEPATIC AMYLOIDOSIS,22,False,False,False,False,False,False,False,False,False
+BLOOD ALCOHOL ABNORMAL,22,False,False,False,False,False,False,False,False,True
+PERIHEPATITIS,22,False,False,False,False,False,False,False,False,False
+HEPATITIS SYPHILITIC,21,False,False,False,False,False,False,False,False,False
+HEPATITIS B E ANTIGEN POSITIVE,21,False,False,False,False,False,False,False,False,False
+LUPUS HEPATITIS,21,False,False,False,False,False,False,False,False,False
+RADIATION HEPATITIS,21,False,False,False,False,False,False,False,False,False
+HEPATITIS B SURFACE ANTIGEN,20,False,False,False,False,False,False,False,False,False
+BILE OUTPUT DECREASED,20,False,False,False,False,False,False,False,False,False
+CONGENITAL HEPATOBILIARY ANOMALY,20,False,False,False,False,False,False,False,False,False
+ABSTAINS FROM ALCOHOL,20,False,False,False,False,False,False,False,False,True
+LEUKAEMIC INFILTRATION HEPATIC,19,False,False,False,False,False,False,False,False,False
+VENOM POISONING,19,False,False,False,False,False,False,False,False,False
+HEPATITIS B SURFACE ANTIBODY NEGATIVE,19,False,False,False,False,False,False,False,False,False
+LABELLED DRUG-ALCOHOL INTERACTION ISSUE,19,False,False,False,False,False,False,False,False,True
+RENAL AND LIVER TRANSPLANT,19,False,False,False,False,False,False,False,False,False
+ALCOHOLIC COMA,18,False,False,False,False,False,False,False,False,True
+BILIARY ASCITES,18,False,False,False,False,False,False,False,False,False
+BILIARY POLYP,18,False,False,False,False,False,False,False,False,False
+BILIRUBIN CONJUGATED,18,False,False,False,False,False,False,False,False,False
+BILIARY TRACT INFECTION BACTERIAL,18,False,False,False,False,False,False,False,False,False
+HEPATITIS B SURFACE ANTIBODY,18,False,False,False,False,False,False,False,False,False
+BILIARY ADENOMA,17,False,False,False,False,False,False,False,False,False
+PROGRESSIVE FAMILIAL INTRAHEPATIC CHOLESTASIS,17,False,False,False,False,False,False,False,False,False
+ASSISTED DELIVERY,17,False,False,False,False,False,False,False,False,False
+HEPATIC ARTERY EMBOLISM,17,False,False,False,False,False,False,False,False,False
+ALCOHOL INDUCED PERSISTING DEMENTIA,16,False,False,False,False,False,False,False,False,True
+ALCOHOLIC PSYCHOSIS,16,False,False,False,False,False,False,False,False,True
+ICTERUS INDEX INCREASED,16,False,False,False,False,False,False,False,False,False
+GASTRITIS ALCOHOLIC,16,False,False,False,False,False,False,False,False,True
+MITOCHONDRIAL ASPARTATE AMINOTRANSFERASE INCREASED,16,False,False,False,False,False,False,False,False,False
+DRUG DELIVERY DEVICE REMOVAL,15,False,False,False,False,False,False,False,False,False
+BILIARY-BRONCHIAL FISTULA,14,False,False,False,False,False,False,False,False,False
+KERNICTERUS,14,False,False,False,False,False,False,False,False,False
+HEPATITIS CHRONIC PERSISTENT,14,False,False,False,False,False,False,False,False,False
+SPONTANEOUS INTRAHEPATIC PORTOSYSTEMIC VENOUS SHUNT,14,False,False,False,False,False,False,False,False,False
+LIVER FUNCTION TEST NORMAL,14,False,False,False,False,False,False,False,False,False
+HEPATIC DISPLACEMENT,13,False,False,False,False,False,False,False,False,False
+HEPATIC DYSPLASIA,13,False,False,False,False,False,False,False,False,False
+HEPATIC FIBROSIS MARKER ABNORMAL,13,False,False,False,False,False,False,False,False,False
+DISINFECTANT POISONING,13,False,False,False,False,False,False,False,False,False
+HEPATIC LYMPHOCYTIC INFILTRATION,13,False,False,False,False,False,False,False,False,False
+HEPATIC SEROMA,13,False,False,False,False,False,False,False,False,False
+POLYNEUROPATHY ALCOHOLIC,13,False,False,False,False,False,False,False,False,True
+LIVER DIALYSIS,13,False,False,False,False,False,False,False,False,False
+ANOMALOUS ARRANGEMENT OF PANCREATICOBILIARY DUCT,13,False,False,False,False,False,False,False,False,False
+HEPATITIS B ANTIBODY NEGATIVE,13,False,False,False,False,False,False,False,False,False
+BILIARY ANASTOMOSIS,12,False,False,False,False,False,False,False,False,False
+HEPATIC VENOUS PRESSURE GRADIENT ABNORMAL,12,False,False,False,False,False,False,False,False,False
+MALFORMATION BILIARY,12,False,False,False,False,False,False,False,False,False
+HEPATITIS NEONATAL,12,False,False,False,False,False,False,False,False,False
+HEPATITIS E ANTIBODY,12,False,False,False,False,False,False,False,False,False
+BILIARY TRACT INFECTION FUNGAL,11,False,False,False,False,False,False,False,False,False
+BILIRUBIN EXCRETION DISORDER,11,False,False,False,False,False,False,False,False,False
+RADIOTHERAPY TO LIVER,11,False,False,False,False,False,False,False,False,False
+NEONATAL COMPLICATIONS OF SUBSTANCE ABUSE,11,False,False,False,False,False,False,False,False,False
+HEPATIC VEIN EMBOLISM,11,False,False,False,False,False,False,False,False,False
+BILE OUTPUT,11,False,False,False,False,False,False,False,False,False
+HEPATITIS NON-A NON-B,11,False,False,False,False,False,False,False,False,False
+HEPATITIS C RNA FLUCTUATION,11,False,False,False,False,False,False,False,False,False
+HEPATITIS D RNA POSITIVE,10,False,False,False,False,False,False,False,False,False
+HEPATITIS INFECTIOUS,10,False,False,False,False,False,False,False,False,False
+HEPATIC ARTERY FLOW DECREASED,10,False,False,False,False,False,False,False,False,False
+HEPATIC ARTERY HAEMORRHAGE,10,False,False,False,False,False,False,False,False,False
+HEPATIC NEOPLASM REMOVAL,10,False,False,False,False,False,False,False,False,False
+BILE DUCT CANCER STAGE I,10,False,False,False,False,False,False,False,False,False
+BILE DUCT CANCER STAGE III,10,False,False,False,False,False,False,False,False,False
+LABELLED DRUG-ALCOHOL INTERACTION MEDICATION ERROR,10,False,False,False,False,False,False,False,False,True
+BLOOD ALCOHOL,10,False,False,False,False,False,False,False,False,True
+VICTIM OF ELDER ABUSE,10,False,False,False,False,False,False,False,False,False
+HEPATOBLASTOMA RECURRENT,9,False,False,False,False,False,False,False,False,False
+HEPATITIS C ANTIBODY,9,False,False,False,False,False,False,False,False,False
+HEPATITIS C CORE ANTIBODY POSITIVE,9,False,False,False,False,False,False,False,False,False
+BLOOD BILIRUBIN UNCONJUGATED,9,False,False,False,False,False,False,False,False,False
+BILE ACIDS,9,False,False,False,False,False,False,False,False,False
+HEPATITIS B ANTIBODY,9,False,False,False,False,False,False,False,False,False
+BILE DUCT CANCER STAGE II,9,False,False,False,False,False,False,False,False,False
+HEPATIC HAEMANGIOMA RUPTURE,9,False,False,False,False,False,False,False,False,False
+ALCOHOLIC ENCEPHALOPATHY,8,False,False,False,False,False,False,False,False,True
+HEPATITIS C RNA DECREASED,8,False,False,False,False,False,False,False,False,False
+JAUNDICE EXTRAHEPATIC OBSTRUCTIVE,8,False,False,False,False,False,False,False,False,False
+HEPATOBILIARY NEOPLASM,8,False,False,False,False,False,False,False,False,False
+HEPATITIS POST TRANSFUSION,8,False,False,False,False,False,False,False,False,False
+MAGNETIC RESONANCE IMAGING HEPATOBILIARY ABNORMAL,8,False,False,False,False,False,False,False,False,False
+HEPATITIS A ANTIBODY,8,False,False,False,False,False,False,False,False,False
+HEPATIC HYPOPERFUSION,8,False,False,False,False,False,False,False,False,False
+BENIGN BILIARY NEOPLASM,8,False,False,False,False,False,False,False,False,False
+CAESAREAN DELIVERY ON MATERNAL REQUEST,8,False,False,False,False,False,False,False,False,False
+ALLOIMMUNE HEPATITIS,8,False,False,False,False,False,False,False,False,False
+PANCREATOBILIARY SPHINCTEROTOMY,8,False,False,False,False,False,False,False,False,False
+HEPATITIS B DNA DECREASED,7,False,False,False,False,False,False,False,False,False
+HEPATITIS C VIRUS TEST,7,False,False,False,False,False,False,False,False,False
+HEPATITIS B SURFACE ANTIGEN NEGATIVE,7,False,False,False,False,False,False,False,False,False
+GAMMA-GLUTAMYLTRANSFERASE NORMAL,7,False,False,False,False,False,False,False,False,False
+FOETOR HEPATICUS,7,False,False,False,False,False,False,False,False,False
+DILATATION INTRAHEPATIC DUCT CONGENITAL,7,False,False,False,False,False,False,False,False,False
+ULTRASOUND LIVER,7,False,False,False,False,False,False,False,False,False
+HEPATICOJEJUNOSTOMY,7,False,False,False,False,False,False,False,False,False
+BILIARY STENT PLACEMENT,7,False,False,False,False,False,False,False,False,False
+BILIARY CAST SYNDROME,7,False,False,False,False,False,False,False,False,False
+TRANSIENT HEPATIC ATTENUATION DIFFERENCES,6,False,False,False,False,False,False,False,False,False
+LEUKOCYTE ALKALINE PHOSPHATASE INCREASED,6,False,False,False,False,False,False,False,False,False
+SUICIDE OF RELATIVE,6,False,False,False,False,False,False,False,False,False
+MATERNAL ALCOHOL USE,6,False,False,False,False,False,False,False,False,True
+ASYMPTOMATIC VIRAL HEPATITIS,6,False,False,False,False,False,False,False,False,False
+HEPATITIS IMMUNISATION,6,False,False,False,False,False,False,False,False,False
+BILE DUCT EXPLORATION,6,False,False,False,False,False,False,False,False,False
+ULTRASOUND BILIARY TRACT ABNORMAL,6,False,False,False,False,False,False,False,False,False
+ADAMS-OLIVER SYNDROME,6,False,False,False,False,False,False,False,False,False
+ASPARTATE AMINOTRANSFERASE NORMAL,6,False,False,False,False,False,False,False,False,False
+BILE DUCT RECONSTRUCTION,5,False,False,False,False,False,False,False,False,False
+CEREBROHEPATORENAL SYNDROME,5,False,False,False,False,False,False,False,False,False
+BILE DUCT PRESSURE INCREASED,5,False,False,False,False,False,False,False,False,False
+HEPATIC SARCOMA,5,False,False,False,False,False,False,False,False,False
+HEPATITIS B E ANTIBODY NEGATIVE,5,False,False,False,False,False,False,False,False,False
+HEPATIC GAS GANGRENE,5,False,False,False,False,False,False,False,False,False
+HEPATITIS B IMMUNISATION,5,False,False,False,False,False,False,False,False,False
+DELIVERY OUTSIDE HEALTH FACILITY,5,False,False,False,False,False,False,False,False,False
+EOSINOPHILIC HEPATITIS,5,False,False,False,False,False,False,False,False,False
+BILIARY-VASCULAR FISTULA,5,False,False,False,False,False,False,False,False,False
+CONGENITAL HEPATITIS B INFECTION,5,False,False,False,False,False,False,False,False,False
+GAMMA-AMINOBUTYRATE AMINOTRANSFERASE INCREASED,5,False,False,False,False,False,False,False,False,False
+MOBILE CAECUM SYNDROME,5,False,False,False,False,False,False,False,False,False
+MINIMAL HEPATIC ENCEPHALOPATHY,4,False,False,False,False,False,False,False,False,False
+X-RAY HEPATOBILIARY ABNORMAL,4,False,False,False,False,False,False,False,False,False
+CARDIOHEPATIC SYNDROME,4,False,False,False,False,False,False,False,False,False
+ALCOHOL SEPTAL ABLATION,4,False,False,False,False,False,False,False,False,True
+INBORN ERROR OF BILIRUBIN METABOLISM,4,False,False,False,False,False,False,False,False,False
+PANCREATICOBILIARY CARCINOMA,4,False,False,False,False,False,False,False,False,False
+MAGNETIC RESONANCE IMAGING LIVER ABNORMAL,4,False,False,False,False,False,False,False,False,False
+BLOOD ALCOHOL DECREASED,4,False,False,False,False,False,False,False,False,True
+INTRAHEPATIC PORTAL HEPATIC VENOUS FISTULA,4,False,False,False,False,False,False,False,False,False
+BILE CULTURE POSITIVE,4,False,False,False,False,False,False,False,False,False
+ELDER ABUSE,4,False,False,False,False,False,False,False,False,False
+IDIOSYNCRATIC ALCOHOL INTOXICATION,4,False,False,False,False,False,False,False,False,True
+DEVICE INEFFECTIVE SHOCK DELIVERY,4,False,False,False,False,False,False,False,False,False
+GESTATIONAL ALLOIMMUNE LIVER DISEASE,4,False,False,False,False,False,False,False,False,False
+LIVER-KIDNEY MICROSOMAL ANTIBODY POSITIVE,4,False,False,False,False,False,False,False,False,False
+BIOPSY BILE DUCT ABNORMAL,4,False,False,False,False,False,False,False,False,False
+HEPATITIS B TEST NEGATIVE,4,False,False,False,False,False,False,False,False,False
+BREATH ALCOHOL TEST,4,False,False,False,False,False,False,False,False,True
+HEPATITIS NON-A NON-B NON-C,4,False,False,False,False,False,False,False,False,False
+HEPATOBILIARY CYST,4,False,False,False,False,False,False,False,False,False
+HEPATITIS B E ANTIGEN,4,False,False,False,False,False,False,False,False,False
+HEPATITIS B E ANTIGEN NEGATIVE,4,False,False,False,False,False,False,False,False,False
+COMPLICATION OF DRUG DELIVERY SYSTEM REMOVAL,4,False,False,False,False,False,False,False,False,False
+BILE ACIDS DECREASED,4,False,False,False,False,False,False,False,False,False
+MODEL FOR END STAGE LIVER DISEASE SCORE,4,False,False,False,False,False,False,False,False,False
+BEAVER TAIL LIVER,3,False,False,False,False,False,False,False,False,False
+FAILED FORCEPS DELIVERY,3,False,False,False,False,False,False,False,False,False
+HEPATIC VENOUS PRESSURE GRADIENT,3,False,False,False,False,False,False,False,False,False
+HEPATITIS B CORE ANTIBODY NEGATIVE,3,False,False,False,False,False,False,False,False,False
+HEPATOBILIARY DISORDER PROPHYLAXIS,3,False,False,False,False,False,False,False,False,False
+HEPATITIS VIRUS-ASSOCIATED NEPHROPATHY,3,False,False,False,False,False,False,False,False,False
+HEPATITIS B VIRUS TEST,3,False,False,False,False,False,False,False,False,False
+LIVER SCAN,3,False,False,False,False,False,False,False,False,False
+HEPATOCELLULAR FOAMY CELL SYNDROME,3,False,False,False,False,False,False,False,False,False
+BILE DUCT RESECTION,3,False,False,False,False,False,False,False,False,False
+BILE DUCT T-TUBE INSERTION,3,False,False,False,False,False,False,False,False,False
+GASTRITIS ALCOHOLIC HAEMORRHAGIC,3,False,False,False,False,False,False,False,False,True
+BILE DUCT CANCER STAGE 0,3,False,False,False,False,False,False,False,False,False
+BLOOD ALKALINE PHOSPHATASE NORMAL,3,False,False,False,False,False,False,False,False,False
+ALCOHOL TEST NEGATIVE,3,False,False,False,False,False,False,False,False,True
+BILE ACID SYNTHESIS DISORDER,3,False,False,False,False,False,False,False,False,False
+BILIARY TRACT INFECTION VIRAL,3,False,False,False,False,False,False,False,False,False
+BILIARY TRACT INFECTION CRYPTOSPORIDIAL,3,False,False,False,False,False,False,False,False,False
+ULTRASOUND BILIARY TRACT,2,False,False,False,False,False,False,False,False,False
+BREATH ALCOHOL TEST NEGATIVE,2,False,False,False,False,False,False,False,False,True
+SOCIAL ALCOHOL DRINKER,2,False,False,False,False,False,False,False,False,True
+SMALL-FOR-SIZE LIVER SYNDROME,2,False,False,False,False,False,False,False,False,False
+PETROLEUM DISTILLATE POISONING,2,False,False,False,False,False,False,False,False,False
+HEPATITIS C TEST NEGATIVE,2,False,False,False,False,False,False,False,False,False
+HEPATIC PSEUDOLESION,2,False,False,False,False,False,False,False,False,False
+HEPATIC VASCULAR FISTULA,2,False,False,False,False,False,False,False,False,False
+HEPATIC VASCULAR RESISTANCE INCREASED,2,False,False,False,False,False,False,False,False,False
+HEPATIC ACTINOMYCOSIS,2,False,False,False,False,False,False,False,False,False
+HEPATITIS D ANTIBODY POSITIVE,2,False,False,False,False,False,False,False,False,False
+HEPATIC HAMARTOMA,2,False,False,False,False,False,False,False,False,False
+HEPATITIS A ANTIGEN POSITIVE,2,False,False,False,False,False,False,False,False,False
+HEPATITIS A IMMUNISATION,2,False,False,False,False,False,False,False,False,False
+COLUMBIA SUICIDE SEVERITY RATING SCALE ABNORMAL,2,False,False,False,False,False,False,False,False,False
+CONGENITAL HEPATIC FIBROSIS,2,False,False,False,False,False,False,False,False,False
+LIVER IRON CONCENTRATION DECREASED,2,False,False,False,False,False,False,False,False,False
+LIVER OPACITY,2,False,False,False,False,False,False,False,False,False
+LIVER PROLAPSE,2,False,False,False,False,False,False,False,False,False
+SCHISTOSOMIASIS LIVER,2,False,False,False,False,False,False,False,False,False
+EXTRAHEPATIC BILIARY TREE INJURY,2,False,False,False,False,False,False,False,False,False
+EX-ALCOHOL USER,2,False,False,False,False,False,False,False,False,True
+BILIARY DYSPEPSIA,2,False,False,False,False,False,False,False,False,False
+BILE REFLUX GASTROPATHY,2,False,False,False,False,False,False,False,False,False
+REGENERATIVE SIDEROTIC HEPATIC NODULE,2,False,False,False,False,False,False,False,False,False
+MOBILE MEDICAL APPLICATION ISSUE,2,False,False,False,False,False,False,False,False,False
+WITHDRAWAL HEPATITIS,1,False,False,False,False,False,False,False,False,False
+BIOPSY LIVER NORMAL,1,False,False,False,False,False,False,False,False,False
+BILE DUCT PRESSURE,1,False,False,False,False,False,False,False,False,False
+BILIARY CATHETER REMOVAL,1,False,False,False,False,False,False,False,False,False
+TOTAL BILE ACIDS,1,False,False,False,False,False,False,False,False,False
+BILE CULTURE,1,False,False,False,False,False,False,False,False,False
+BILIARY CANDIDIASIS,1,False,False,False,False,False,False,False,False,False
+BLOOD BILIRUBIN NORMAL,1,False,False,False,False,False,False,False,False,False
+BRACHYTHERAPY TO LIVER,1,False,False,False,False,False,False,False,False,False
+SUBCAPSULAR HEPATIC FLUID COLLECTION,1,False,False,False,False,False,False,False,False,False
+COMPUTERISED TOMOGRAM LIVER,1,False,False,False,False,False,False,False,False,False
+CONGENITAL INTRAHEPATIC ARTERIOPORTAL FISTULA,1,False,False,False,False,False,False,False,False,False
+CONGENITAL CYSTIC DISEASE OF LIVER,1,False,False,False,False,False,False,False,False,False
+URINE ALCOHOL TEST,1,False,False,False,False,False,False,False,False,True
+URINE ALCOHOL TEST NEGATIVE,1,False,False,False,False,False,False,False,False,True
+SALIVA ALCOHOL TEST POSITIVE,1,False,False,False,False,False,False,False,False,True
+EX-ALCOHOLIC,1,False,False,False,False,False,False,False,False,True
+ANTABUSE IMPLANT,1,False,False,False,False,False,False,False,False,False
+ANICTERIC LEPTOSPIROSIS,1,False,False,False,False,False,False,False,False,False
+HAEMOLYTIC ICTEROANAEMIA,1,False,False,False,False,False,False,False,False,False
+HEPATIC ARTERY INFUSION PUMP INSERTION,1,False,False,False,False,False,False,False,False,False
+HEPATOBILIARY OPERATION,1,False,False,False,False,False,False,False,False,False
+HEPATOBILIARY SCAN NORMAL,1,False,False,False,False,False,False,False,False,False
+HEPATOBILLIARY DISORDER PROPHYLAXIS,1,False,False,False,False,False,False,False,False,False
+HEPATITIS C RNA NEGATIVE,1,False,False,False,False,False,False,False,False,False
+HEPATITIS C VIRUS CORE ANTIGEN,1,False,False,False,False,False,False,False,False,False
+HEPATITIS E ANTIGEN NEGATIVE,1,False,False,False,False,False,False,False,False,False
+HEPATITIS E ANTIGEN POSITIVE,1,False,False,False,False,False,False,False,False,False
+HEPATITIS B ANTIGEN,1,False,False,False,False,False,False,False,False,False
+HEPATIC SEQUESTRATION,1,False,False,False,False,False,False,False,False,False
+HEPATIC VEIN HAEMORRHAGE,1,False,False,False,False,False,False,False,False,False
+HEPATIC ENCEPHALOPATHY PROPHYLAXIS,1,False,False,False,False,False,False,False,False,False
+HEPATIC FLEXURE MOBILISATION,1,False,False,False,False,False,False,False,False,False
+HEPATITIS MUMPS,1,False,False,False,False,False,False,False,False,False
+HEPATITIS VIRAL TEST,1,False,False,False,False,False,False,False,False,False
+ICTERUS INDEX,1,False,False,False,False,False,False,False,False,False
+ALCOHOL TEST,1,False,False,False,False,False,False,False,False,True
+INBORN ERROR IN PRIMARY BILE ACID SYNTHESIS,1,False,False,False,False,False,False,False,False,False
+INSPISSATED BILE SYNDROME,1,False,False,False,False,False,False,False,False,False
+INTRAHEPATIC LYMPHATIC STASIS,1,False,False,False,False,False,False,False,False,False
+OCULAR DRUG DELIVERY DEVICE PLACEMENT,1,False,False,False,False,False,False,False,False,False
+LIMY BILE SYNDROME,1,False,False,False,False,False,False,False,False,False
+LEUKOCYTE ALKALINE PHOSPHATASE,1,False,False,False,False,False,False,False,False,False
+LIVER HERNIA,1,False,False,False,False,False,False,False,False,False
+LIVER PALPABLE SUBCOSTAL,1,False,False,False,False,False,False,False,False,False
+LIVER VENOUS DEPRIVATION PROCEDURE,1,False,False,False,False,False,False,False,False,False
+LIVER AND SMALL INTESTINE TRANSPLANT,1,False,False,False,False,False,False,False,False,False
+MAGNETIC RESONANCE IMAGING HEPATOBILIARY,1,False,False,False,False,False,False,False,False,False
+WEDGED HEPATIC VENOUS PRESSURE,1,False,False,False,False,False,False,False,False,False
+ACQUIRED HEPATOCEREBRAL DEGENERATION,1,False,False,False,False,False,False,False,False,False
+BENIGN HEPATOBILIARY NEOPLASM,1,False,False,False,False,False,False,False,False,False

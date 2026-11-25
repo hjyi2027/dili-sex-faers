@@ -1,0 +1,101 @@
+{
+ "primary": {
+  "lu_drugs": 24,
+  "matched_with_enough_cases": 23,
+  "not_estimable_here": [
+   "Topotecan"
+  ],
+  "pooled_mu_here": 0.080237104122515,
+  "pooled_or_here": 1.083543949957292,
+  "same_side_of_1": 18,
+  "same_side_of_pooled": 19,
+  "flagged_here_vs_pooled_q05": 19,
+  "flagged_here_vs_one_q05": 16,
+  "spearman_rho": 0.2005928853754941,
+  "spearman_p": 0.35875590531189805,
+  "lu_or_below_1": 23,
+  "base_rate_below_1": 0.48742138364779874,
+  "p_same_side_of_1_vs_base": 0.0037465198693802508,
+  "p_same_side_of_pooled_vs_half": 0.001299738883972168
+ },
+ "ps_only": {
+  "lu_drugs": 24,
+  "matched_with_enough_cases": 20,
+  "not_estimable_here": [
+   "Propranolol",
+   "Topotecan",
+   "Fluvastatin",
+   "Peginterferon Alfa-2b"
+  ],
+  "pooled_mu_here": -0.09103337758698417,
+  "pooled_or_here": 0.9129872370797762,
+  "same_side_of_1": 17,
+  "same_side_of_pooled": 16,
+  "flagged_here_vs_pooled_q05": 10,
+  "flagged_here_vs_one_q05": 13,
+  "spearman_rho": -0.0015037593984962405,
+  "spearman_p": 0.9949797739432688,
+  "lu_or_below_1": 23,
+  "base_rate_below_1": 0.6212121212121212,
+  "p_same_side_of_1_vs_base": 0.025071894247744576,
+  "p_same_side_of_pooled_vs_half": 0.005908966064453125
+ },
+ "le20_ps": {
+  "lu_drugs": 24,
+  "matched_with_enough_cases": 20,
+  "not_estimable_here": [
+   "Propranolol",
+   "Topotecan",
+   "Fluvastatin",
+   "Peginterferon Alfa-2b"
+  ],
+  "pooled_mu_here": -0.10574987146786163,
+  "pooled_or_here": 0.8996496479811913,
+  "same_side_of_1": 18,
+  "same_side_of_pooled": 16,
+  "flagged_here_vs_pooled_q05": 10,
+  "flagged_here_vs_one_q05": 14,
+  "spearman_rho": -0.04962406015037594,
+  "spearman_p": 0.8354138453754828,
+  "lu_or_below_1": 23,
+  "base_rate_below_1": 0.6522842639593909,
+  "p_same_side_of_1_vs_base": 0.012764241425988102,
+  "p_same_side_of_pooled_vs_half": 0.005908966064453125
+ },
+ "le20": {
+  "lu_drugs": 24,
+  "matched_with_enough_cases": 23,
+  "not_estimable_here": [
+   "Topotecan"
+  ],
+  "pooled_mu_here": -0.049896859684762256,
+  "pooled_or_here": 0.9513275396631479,
+  "same_side_of_1": 18,
+  "same_side_of_pooled": 17,
+  "flagged_here_vs_pooled_q05": 18,
+  "flagged_here_vs_one_q05": 18,
+  "spearman_rho": 0.2648221343873518,
+  "spearman_p": 0.2220234550460932,
+  "lu_or_below_1": 23,
+  "base_rate_below_1": 0.5591054313099042,
+  "p_same_side_of_1_vs_base": 0.022937769948065227,
+  "p_same_side_of_pooled_vs_half": 0.01734483242034912
+ },
+ "broad": {
+  "lu_drugs": 24,
+  "matched_with_enough_cases": 24,
+  "not_estimable_here": [],
+  "pooled_mu_here": 0.054180802180562836,
+  "pooled_or_here": 1.055675453325334,
+  "same_side_of_1": 17,
+  "same_side_of_pooled": 19,
+  "flagged_here_vs_pooled_q05": 20,
+  "flagged_here_vs_one_q05": 18,
+  "spearman_rho": 0.18608695652173912,
+  "spearman_p": 0.38396703397174836,
+  "lu_or_below_1": 23,
+  "base_rate_below_1": 0.5304054054054054,
+  "p_same_side_of_1_vs_base": 0.059900189924864664,
+  "p_same_side_of_pooled_vs_half": 0.003305375576019287
+ }
+}

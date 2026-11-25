@@ -1,0 +1,2119 @@
+{
+ "quarters": [
+  "2014Q3",
+  "2014Q4",
+  "2015Q1",
+  "2015Q2",
+  "2015Q3",
+  "2015Q4",
+  "2016Q1",
+  "2016Q2",
+  "2016Q3",
+  "2016Q4",
+  "2017Q1",
+  "2017Q2",
+  "2017Q3",
+  "2017Q4",
+  "2018Q1",
+  "2018Q2",
+  "2018Q3",
+  "2018Q4",
+  "2019Q1",
+  "2019Q2",
+  "2019Q3",
+  "2019Q4",
+  "2020Q1",
+  "2020Q2",
+  "2020Q3",
+  "2020Q4",
+  "2021Q1",
+  "2021Q2",
+  "2021Q3",
+  "2021Q4",
+  "2022Q1",
+  "2022Q2",
+  "2022Q3",
+  "2022Q4",
+  "2023Q1",
+  "2023Q2",
+  "2023Q3",
+  "2023Q4",
+  "2024Q1",
+  "2024Q2",
+  "2024Q3",
+  "2024Q4",
+  "2025Q1",
+  "2025Q2",
+  "2025Q3",
+  "2025Q4",
+  "2026Q1",
+  "2026Q2",
+  "2026Q3"
+ ],
+ "records_all_versions": 19422742,
+ "distinct_caseids": 16627186,
+ "deleted_caseids_listed": 233448,
+ "records_removed_as_deleted": 120938,
+ "reports_after_caseid_dedup": 16532447,
+ "second_stage_duplicates_flagged": 473306,
+ "suspect_rows": 30841236,
+ "ptrows_rows": 1539318,
+ "indirows_rows": 243283,
+ "distinct_pts": 23502,
+ "qc": [
+  {
+   "quarter": "2014Q3",
+   "zip": "faers_ascii_2014Q3.zip",
+   "demo": {
+    "member": "ascii/DEMO14Q3.txt",
+    "lines": 211309,
+    "rows": 211308,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG14Q3.txt",
+    "lines": 688141,
+    "rows": 688140,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 27522,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC14Q3.txt",
+    "lines": 667779,
+    "rows": 667778,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC14Q3.txt",
+    "lines": 169755,
+    "rows": 169754,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI14Q3.txt",
+    "lines": 423392,
+    "rows": 423391,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 211308
+  },
+  {
+   "quarter": "2014Q4",
+   "zip": "faers_ascii_2014Q4.zip",
+   "demo": {
+    "member": "ascii/DEMO14Q4.txt",
+    "lines": 207965,
+    "rows": 207964,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG14Q4.txt",
+    "lines": 682293,
+    "rows": 682292,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 26784,
+    "prod_ai_blank_suspect_rows": 2,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC14Q4.txt",
+    "lines": 635466,
+    "rows": 635465,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC14Q4.txt",
+    "lines": 167402,
+    "rows": 167401,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI14Q4.txt",
+    "lines": 436622,
+    "rows": 436621,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 207964
+  },
+  {
+   "quarter": "2015Q1",
+   "zip": "faers_ascii_2015Q1.zip",
+   "demo": {
+    "member": "ascii/DEMO15Q1.txt",
+    "lines": 317072,
+    "rows": 317071,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG15Q1.txt",
+    "lines": 1082834,
+    "rows": 1082833,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 34122,
+    "prod_ai_blank_suspect_rows": 4,
+    "reports_with_gt1_ps": 1
+   },
+   "reac": {
+    "member": "ascii/REAC15Q1.txt",
+    "lines": 872849,
+    "rows": 872848,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC15Q1.txt",
+    "lines": 238009,
+    "rows": 238008,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI15Q1.txt",
+    "lines": 748743,
+    "rows": 748742,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 317071
+  },
+  {
+   "quarter": "2015Q2",
+   "zip": "faers_ascii_2015Q2.zip",
+   "demo": {
+    "member": "ascii/DEMO15Q2.txt",
+    "lines": 289271,
+    "rows": 289270,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG15Q2.txt",
+    "lines": 967121,
+    "rows": 967120,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 32357,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC15Q2.txt",
+    "lines": 845135,
+    "rows": 845134,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC15Q2.txt",
+    "lines": 200424,
+    "rows": 200423,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI15Q2.txt",
+    "lines": 659530,
+    "rows": 659529,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 289270
+  },
+  {
+   "quarter": "2015Q3",
+   "zip": "faers_ascii_2015Q3.zip",
+   "demo": {
+    "member": "ascii/DEMO15Q3.txt",
+    "lines": 398861,
+    "rows": 398860,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG15Q3.txt",
+    "lines": 1294626,
+    "rows": 1294625,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 34688,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC15Q3.txt",
+    "lines": 1133197,
+    "rows": 1133196,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC15Q3.txt",
+    "lines": 213109,
+    "rows": 213108,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI15Q3.txt",
+    "lines": 811280,
+    "rows": 811279,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 398860
+  },
+  {
+   "quarter": "2015Q4",
+   "zip": "faers_ascii_2015Q4.zip",
+   "demo": {
+    "member": "ascii/DEMO15Q4.txt",
+    "lines": 314705,
+    "rows": 314704,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG15Q4.txt",
+    "lines": 1064333,
+    "rows": 1064332,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 27530,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC15Q4.txt",
+    "lines": 968665,
+    "rows": 968664,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC15Q4.txt",
+    "lines": 205081,
+    "rows": 205080,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI15Q4.txt",
+    "lines": 718341,
+    "rows": 718340,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 314704
+  },
+  {
+   "quarter": "2016Q1",
+   "zip": "faers_ascii_2016Q1.zip",
+   "demo": {
+    "member": "ascii/DEMO16Q1.txt",
+    "lines": 365683,
+    "rows": 365682,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG16Q1.txt",
+    "lines": 1202391,
+    "rows": 1202390,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 27574,
+    "prod_ai_blank_suspect_rows": 1,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC16Q1.txt",
+    "lines": 1013745,
+    "rows": 1013744,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC16Q1.txt",
+    "lines": 210281,
+    "rows": 210280,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI16Q1.txt",
+    "lines": 878268,
+    "rows": 878267,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 365682
+  },
+  {
+   "quarter": "2016Q2",
+   "zip": "faers_ascii_2016Q2.zip",
+   "demo": {
+    "member": "ascii/DEMO16Q2.txt",
+    "lines": 316057,
+    "rows": 316056,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG16Q2.txt",
+    "lines": 1144149,
+    "rows": 1144148,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 28382,
+    "prod_ai_blank_suspect_rows": 13,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC16Q2.txt",
+    "lines": 914639,
+    "rows": 914638,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC16Q2.txt",
+    "lines": 218746,
+    "rows": 218745,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI16Q2.txt",
+    "lines": 798490,
+    "rows": 798489,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 316056
+  },
+  {
+   "quarter": "2016Q3",
+   "zip": "faers_ascii_2016Q3.zip",
+   "demo": {
+    "member": "ascii/DEMO16Q3.txt",
+    "lines": 313614,
+    "rows": 313613,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG16Q3.txt",
+    "lines": 1257055,
+    "rows": 1257054,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 31385,
+    "prod_ai_blank_suspect_rows": 1,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC16Q3.txt",
+    "lines": 936745,
+    "rows": 936744,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC16Q3.txt",
+    "lines": 221347,
+    "rows": 221346,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI16Q3.txt",
+    "lines": 816899,
+    "rows": 816898,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 313613
+  },
+  {
+   "quarter": "2016Q4",
+   "zip": "faers_ascii_2016Q4.zip",
+   "demo": {
+    "member": "ascii/DEMO16Q4.txt",
+    "lines": 309535,
+    "rows": 309534,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG16Q4.txt",
+    "lines": 1147548,
+    "rows": 1147547,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 27860,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC16Q4.txt",
+    "lines": 916309,
+    "rows": 916308,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC16Q4.txt",
+    "lines": 220469,
+    "rows": 220468,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI16Q4.txt",
+    "lines": 755833,
+    "rows": 755832,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 309534
+  },
+  {
+   "quarter": "2017Q1",
+   "zip": "faers_ascii_2017Q1.zip",
+   "demo": {
+    "member": "ascii/DEMO17Q1.txt",
+    "lines": 352914,
+    "rows": 352913,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG17Q1.txt",
+    "lines": 1234394,
+    "rows": 1234393,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 28270,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC17Q1.txt",
+    "lines": 1041510,
+    "rows": 1041509,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC17Q1.txt",
+    "lines": 242275,
+    "rows": 242274,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI17Q1.txt",
+    "lines": 859834,
+    "rows": 859833,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 352913
+  },
+  {
+   "quarter": "2017Q2",
+   "zip": "faers_ascii_2017Q2.zip",
+   "demo": {
+    "member": "ascii/DEMO17Q2.txt",
+    "lines": 337399,
+    "rows": 337398,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG17Q2.txt",
+    "lines": 1188079,
+    "rows": 1188078,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 25429,
+    "prod_ai_blank_suspect_rows": 186,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC17Q2.txt",
+    "lines": 987729,
+    "rows": 987728,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC17Q2.txt",
+    "lines": 232054,
+    "rows": 232053,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI17Q2.txt",
+    "lines": 816255,
+    "rows": 816254,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 337398
+  },
+  {
+   "quarter": "2017Q3",
+   "zip": "faers_ascii_2017Q3.zip",
+   "demo": {
+    "member": "ascii/DEMO17Q3.txt",
+    "lines": 351389,
+    "rows": 351388,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG17Q3.txt",
+    "lines": 1220119,
+    "rows": 1220118,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 27175,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC17Q3.txt",
+    "lines": 1025154,
+    "rows": 1025153,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC17Q3.txt",
+    "lines": 233716,
+    "rows": 233715,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI17Q3.txt",
+    "lines": 844975,
+    "rows": 844974,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 351388
+  },
+  {
+   "quarter": "2017Q4",
+   "zip": "faers_ascii_2017Q4.zip",
+   "demo": {
+    "member": "ascii/DEMO17Q4.txt",
+    "lines": 327849,
+    "rows": 327848,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG17Q4.txt",
+    "lines": 1213843,
+    "rows": 1213842,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 22916,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC17Q4.txt",
+    "lines": 961641,
+    "rows": 961640,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC17Q4.txt",
+    "lines": 243177,
+    "rows": 243176,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI17Q4.txt",
+    "lines": 863691,
+    "rows": 863690,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 327848
+  },
+  {
+   "quarter": "2018Q1",
+   "zip": "faers_ascii_2018Q1.zip",
+   "demo": {
+    "member": "ascii/DEMO18Q1_new.txt",
+    "lines": 412703,
+    "rows": 412702,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG18Q1.txt",
+    "lines": 1686462,
+    "rows": 1686461,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 28760,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC18Q1.txt",
+    "lines": 1206260,
+    "rows": 1206259,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC18Q1.txt",
+    "lines": 298711,
+    "rows": 298710,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI18Q1.txt",
+    "lines": 1253119,
+    "rows": 1253118,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 412702
+  },
+  {
+   "quarter": "2018Q2",
+   "zip": "faers_ascii_2018Q2.zip",
+   "demo": {
+    "member": "ascii/DEMO18Q2.txt",
+    "lines": 457170,
+    "rows": 457169,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG18Q2.txt",
+    "lines": 1987873,
+    "rows": 1987872,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 33480,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC18Q2.txt",
+    "lines": 1392440,
+    "rows": 1392439,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC18Q2.txt",
+    "lines": 331948,
+    "rows": 331947,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI18Q2.txt",
+    "lines": 1428288,
+    "rows": 1428287,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 457169
+  },
+  {
+   "quarter": "2018Q3",
+   "zip": "faers_ascii_2018Q3.zip",
+   "demo": {
+    "member": "ascii/DEMO18Q3.txt",
+    "lines": 420916,
+    "rows": 420915,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG18Q3.txt",
+    "lines": 1651967,
+    "rows": 1651966,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 38106,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC18Q3.txt",
+    "lines": 1329531,
+    "rows": 1329530,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC18Q3.txt",
+    "lines": 295818,
+    "rows": 295817,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI18Q3.txt",
+    "lines": 1134136,
+    "rows": 1134135,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 420915
+  },
+  {
+   "quarter": "2018Q4",
+   "zip": "faers_ascii_2018Q4.zip",
+   "demo": {
+    "member": "ascii/DEMO18Q4.txt",
+    "lines": 394067,
+    "rows": 394066,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG18Q4.txt",
+    "lines": 1546836,
+    "rows": 1546835,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 34850,
+    "prod_ai_blank_suspect_rows": 3,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC18Q4.txt",
+    "lines": 1250979,
+    "rows": 1250978,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC18Q4.txt",
+    "lines": 299136,
+    "rows": 299135,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI18Q4.txt",
+    "lines": 1064665,
+    "rows": 1064664,
+    "missing_cols": []
+   },
+   "deleted_members": [],
+   "reports": 394066
+  },
+  {
+   "quarter": "2019Q1",
+   "zip": "faers_ascii_2019Q1.zip",
+   "demo": {
+    "member": "ascii/DEMO19Q1.txt",
+    "lines": 413735,
+    "rows": 413734,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG19Q1.txt",
+    "lines": 1648988,
+    "rows": 1648987,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 31728,
+    "prod_ai_blank_suspect_rows": 11,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC19Q1.txt",
+    "lines": 1303533,
+    "rows": 1303532,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC19Q1.txt",
+    "lines": 310663,
+    "rows": 310662,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI19Q1.txt",
+    "lines": 1106755,
+    "rows": 1106754,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "deleted/ADR19Q1DeletedCases.txt",
+    "deleted/AllDeletedCases.txt"
+   ],
+   "deleted_caseids": 86701,
+   "reports": 413734
+  },
+  {
+   "quarter": "2019Q2",
+   "zip": "faers_ascii_2019Q2.zip",
+   "demo": {
+    "member": "ascii/DEMO19Q2.txt",
+    "lines": 441109,
+    "rows": 441108,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG19Q2.txt",
+    "lines": 1863011,
+    "rows": 1863010,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 35824,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC19Q2.txt",
+    "lines": 1408483,
+    "rows": 1408482,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC19Q2.txt",
+    "lines": 324739,
+    "rows": 324738,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI19Q2.txt",
+    "lines": 1221163,
+    "rows": 1221162,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "deleted/ADR19Q2DeletedCases.txt"
+   ],
+   "deleted_caseids": 4405,
+   "reports": 441108
+  },
+  {
+   "quarter": "2019Q3",
+   "zip": "faers_ascii_2019Q3.zip",
+   "demo": {
+    "member": "ascii/DEMO19Q3.txt",
+    "lines": 452874,
+    "rows": 452873,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG19Q3.txt",
+    "lines": 1982443,
+    "rows": 1982442,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 44233,
+    "prod_ai_blank_suspect_rows": 1,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC19Q3.txt",
+    "lines": 1504791,
+    "rows": 1504790,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC19Q3.txt",
+    "lines": 323788,
+    "rows": 323787,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI19Q3.txt",
+    "lines": 1353012,
+    "rows": 1353011,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "deleted/ADR19Q3DeletedCases.txt"
+   ],
+   "deleted_caseids": 4455,
+   "reports": 452873
+  },
+  {
+   "quarter": "2019Q4",
+   "zip": "faers_ascii_2019Q4.zip",
+   "demo": {
+    "member": "ascii/DEMO19Q4.txt",
+    "lines": 419582,
+    "rows": 419581,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ascii/DRUG19Q4.txt",
+    "lines": 1714178,
+    "rows": 1714177,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 38931,
+    "prod_ai_blank_suspect_rows": 2,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ascii/REAC19Q4.txt",
+    "lines": 1359923,
+    "rows": 1359922,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ascii/OUTC19Q4.txt",
+    "lines": 321604,
+    "rows": 321603,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ascii/INDI19Q4.txt",
+    "lines": 1146939,
+    "rows": 1146938,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "deleted/ADR19Q4DeletedCases.txt"
+   ],
+   "deleted_caseids": 5338,
+   "reports": 419581
+  },
+  {
+   "quarter": "2020Q1",
+   "zip": "faers_ascii_2020Q1.zip",
+   "demo": {
+    "member": "ASCII/DEMO20Q1.txt",
+    "lines": 460328,
+    "rows": 460327,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG20Q1.txt",
+    "lines": 1943533,
+    "rows": 1943532,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 44420,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ASCII/REAC20Q1.txt",
+    "lines": 1517265,
+    "rows": 1517264,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC20Q1.txt",
+    "lines": 335471,
+    "rows": 335470,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI20Q1.txt",
+    "lines": 1348659,
+    "rows": 1348658,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "DELETED/ADR20Q1DeletedCases.txt"
+   ],
+   "deleted_caseids": 4489,
+   "reports": 460327
+  },
+  {
+   "quarter": "2020Q2",
+   "zip": "faers_ascii_2020Q2.zip",
+   "demo": {
+    "member": "ASCII/DEMO20Q2.txt",
+    "lines": 429228,
+    "rows": 429227,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG20Q2.txt",
+    "lines": 1825415,
+    "rows": 1825414,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 47900,
+    "prod_ai_blank_suspect_rows": 2,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ASCII/REAC20Q2.txt",
+    "lines": 1437286,
+    "rows": 1437285,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC20Q2.txt",
+    "lines": 307510,
+    "rows": 307509,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI20Q2.txt",
+    "lines": 1294011,
+    "rows": 1294010,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "DELETED/ADR20Q2DeletedCases.txt"
+   ],
+   "deleted_caseids": 5016,
+   "reports": 429227
+  },
+  {
+   "quarter": "2020Q3",
+   "zip": "faers_ascii_2020Q3.zip",
+   "demo": {
+    "member": "ASCII/DEMO20Q3.txt",
+    "lines": 431668,
+    "rows": 431667,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG20Q3.txt",
+    "lines": 1895154,
+    "rows": 1895153,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 37053,
+    "prod_ai_blank_suspect_rows": 2,
+    "reports_with_gt1_ps": 1
+   },
+   "reac": {
+    "member": "ASCII/REAC20Q3.txt",
+    "lines": 1454045,
+    "rows": 1454044,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC20Q3.txt",
+    "lines": 358816,
+    "rows": 358815,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI20Q3.txt",
+    "lines": 1276349,
+    "rows": 1276348,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/ADR20Q3DeletedCases.txt"
+   ],
+   "deleted_caseids": 7238,
+   "reports": 431667
+  },
+  {
+   "quarter": "2020Q4",
+   "zip": "faers_ascii_2020Q4.zip",
+   "demo": {
+    "member": "ASCII/DEMO20Q4.txt",
+    "lines": 436149,
+    "rows": 436148,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG20Q4.txt",
+    "lines": 1918928,
+    "rows": 1918927,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 38062,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ASCII/REAC20Q4.txt",
+    "lines": 1522658,
+    "rows": 1522657,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC20Q4.txt",
+    "lines": 365576,
+    "rows": 365575,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI20Q4.txt",
+    "lines": 1297447,
+    "rows": 1297446,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/20Q4DeletedCases.txt"
+   ],
+   "deleted_caseids": 4428,
+   "reports": 436148
+  },
+  {
+   "quarter": "2021Q1",
+   "zip": "faers_ascii_2021Q1.zip",
+   "demo": {
+    "member": "ASCII/DEMO21Q1.txt",
+    "lines": 463742,
+    "rows": 463741,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG21Q1.txt",
+    "lines": 2208417,
+    "rows": 2208416,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 42230,
+    "prod_ai_blank_suspect_rows": 4,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ASCII/REAC21Q1.txt",
+    "lines": 1505168,
+    "rows": 1505167,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC21Q1.txt",
+    "lines": 371699,
+    "rows": 371698,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI21Q1.txt",
+    "lines": 1603040,
+    "rows": 1603039,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/21Q1DeletedCases.txt"
+   ],
+   "deleted_caseids": 5067,
+   "reports": 463741
+  },
+  {
+   "quarter": "2021Q2",
+   "zip": "faers_ascii_2021Q2.zip",
+   "demo": {
+    "member": "ASCII/DEMO21Q2.txt",
+    "lines": 479946,
+    "rows": 479945,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG21Q2.txt",
+    "lines": 2291904,
+    "rows": 2291903,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 37238,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ASCII/REAC21Q2.txt",
+    "lines": 1526545,
+    "rows": 1526544,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC21Q2.txt",
+    "lines": 383929,
+    "rows": 383928,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI21Q2.txt",
+    "lines": 1659379,
+    "rows": 1659378,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/21Q2DeletedCases.txt"
+   ],
+   "deleted_caseids": 6881,
+   "reports": 479945
+  },
+  {
+   "quarter": "2021Q3",
+   "zip": "faers_ascii_2021Q3.zip",
+   "demo": {
+    "member": "ASCII/DEMO21Q3.txt",
+    "lines": 504161,
+    "rows": 504160,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG21Q3.txt",
+    "lines": 2260571,
+    "rows": 2260570,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 35527,
+    "prod_ai_blank_suspect_rows": 1,
+    "reports_with_gt1_ps": 0
+   },
+   "reac": {
+    "member": "ASCII/REAC21Q3.txt",
+    "lines": 1544375,
+    "rows": 1544374,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC21Q3.txt",
+    "lines": 420730,
+    "rows": 420729,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI21Q3.txt",
+    "lines": 1588680,
+    "rows": 1588679,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/21Q3DeletedCases.txt"
+   ],
+   "deleted_caseids": 7033,
+   "reports": 504160
+  },
+  {
+   "quarter": "2021Q4",
+   "zip": "faers_ascii_2021Q4.zip",
+   "demo": {
+    "member": "ASCII/DEMO21Q4.txt",
+    "lines": 412543,
+    "rows": 412542,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG21Q4.txt",
+    "lines": 1778676,
+    "rows": 1778675,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 34413,
+    "prod_ai_blank_suspect_rows": 1,
+    "reports_with_gt1_ps": 97
+   },
+   "reac": {
+    "member": "ASCII/REAC21Q4.txt",
+    "lines": 1355735,
+    "rows": 1355734,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC21Q4.txt",
+    "lines": 337169,
+    "rows": 337168,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI21Q4.txt",
+    "lines": 1234767,
+    "rows": 1234766,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE21Q4.txt"
+   ],
+   "deleted_caseids": 7983,
+   "reports": 412542
+  },
+  {
+   "quarter": "2022Q1",
+   "zip": "faers_ascii_2022Q1.zip",
+   "demo": {
+    "member": "ASCII/DEMO22Q1.txt",
+    "lines": 461624,
+    "rows": 461623,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG22Q1.txt",
+    "lines": 1994172,
+    "rows": 1994171,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 39647,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 113
+   },
+   "reac": {
+    "member": "ASCII/REAC22Q1.txt",
+    "lines": 1543060,
+    "rows": 1543059,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC22Q1.txt",
+    "lines": 375498,
+    "rows": 375497,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI22Q1.txt",
+    "lines": 1347147,
+    "rows": 1347146,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE22Q1.txt"
+   ],
+   "deleted_caseids": 3118,
+   "reports": 461623
+  },
+  {
+   "quarter": "2022Q2",
+   "zip": "faers_ascii_2022Q2.zip",
+   "demo": {
+    "member": "ASCII/DEMO22Q2.txt",
+    "lines": 435619,
+    "rows": 435618,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG22Q2.txt",
+    "lines": 1828104,
+    "rows": 1828103,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 39579,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 151
+   },
+   "reac": {
+    "member": "ASCII/REAC22Q2.txt",
+    "lines": 1464628,
+    "rows": 1464627,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC22Q2.txt",
+    "lines": 325310,
+    "rows": 325309,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI22Q2.txt",
+    "lines": 1150300,
+    "rows": 1150299,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE22Q2.txt"
+   ],
+   "deleted_caseids": 5567,
+   "reports": 435618
+  },
+  {
+   "quarter": "2022Q3",
+   "zip": "faers_ascii_2022Q3.zip",
+   "demo": {
+    "member": "ASCII/DEMO22Q3.txt",
+    "lines": 446512,
+    "rows": 446511,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG22Q3.txt",
+    "lines": 1835462,
+    "rows": 1835461,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 41874,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 188
+   },
+   "reac": {
+    "member": "ASCII/REAC22Q3.txt",
+    "lines": 1449510,
+    "rows": 1449509,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC22Q3.txt",
+    "lines": 345764,
+    "rows": 345763,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI22Q3.txt",
+    "lines": 1159204,
+    "rows": 1159203,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE22Q3.txt"
+   ],
+   "deleted_caseids": 5016,
+   "reports": 446511
+  },
+  {
+   "quarter": "2022Q4",
+   "zip": "faers_ascii_2022Q4.zip",
+   "demo": {
+    "member": "ASCII/DEMO22Q4.txt",
+    "lines": 483644,
+    "rows": 483643,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG22Q4.txt",
+    "lines": 2006968,
+    "rows": 2006967,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 52938,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 140
+   },
+   "reac": {
+    "member": "ASCII/REAC22Q4.txt",
+    "lines": 1617585,
+    "rows": 1617584,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC22Q4.txt",
+    "lines": 334612,
+    "rows": 334611,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI22Q4.txt",
+    "lines": 1321490,
+    "rows": 1321489,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE22Q4.txt"
+   ],
+   "deleted_caseids": 3624,
+   "reports": 483643
+  },
+  {
+   "quarter": "2023Q1",
+   "zip": "faers_ascii_2023Q1.zip",
+   "demo": {
+    "member": "ASCII/DEMO23Q1.txt",
+    "lines": 432145,
+    "rows": 432144,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG23Q1.txt",
+    "lines": 1899504,
+    "rows": 1899503,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 44293,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 137
+   },
+   "reac": {
+    "member": "ASCII/REAC23Q1.txt",
+    "lines": 1491474,
+    "rows": 1491473,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC23Q1.txt",
+    "lines": 309218,
+    "rows": 309217,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI23Q1.txt",
+    "lines": 1176238,
+    "rows": 1176237,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE23Q1.txt"
+   ],
+   "deleted_caseids": 5251,
+   "reports": 432144
+  },
+  {
+   "quarter": "2023Q2",
+   "zip": "faers_ascii_2023Q2.zip",
+   "demo": {
+    "member": "ASCII/DEMO23Q2.txt",
+    "lines": 418593,
+    "rows": 418592,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG23Q2.txt",
+    "lines": 1885097,
+    "rows": 1885096,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 41616,
+    "prod_ai_blank_suspect_rows": 6,
+    "reports_with_gt1_ps": 150
+   },
+   "reac": {
+    "member": "ASCII/REAC23Q2.txt",
+    "lines": 1478974,
+    "rows": 1478973,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC23Q2.txt",
+    "lines": 303514,
+    "rows": 303513,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI23Q2.txt",
+    "lines": 1165783,
+    "rows": 1165782,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE23Q2.txt"
+   ],
+   "deleted_caseids": 5581,
+   "reports": 418592
+  },
+  {
+   "quarter": "2023Q3",
+   "zip": "faers_ascii_2023Q3.zip",
+   "demo": {
+    "member": "ASCII/DEMO23Q3.txt",
+    "lines": 407523,
+    "rows": 407522,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG23Q3.txt",
+    "lines": 1768392,
+    "rows": 1768391,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 33905,
+    "prod_ai_blank_suspect_rows": 9,
+    "reports_with_gt1_ps": 145
+   },
+   "reac": {
+    "member": "ASCII/REAC23Q3.txt",
+    "lines": 1373339,
+    "rows": 1373338,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC23Q3.txt",
+    "lines": 307397,
+    "rows": 307396,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI23Q3.txt",
+    "lines": 1063762,
+    "rows": 1063761,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE23Q3.txt"
+   ],
+   "deleted_caseids": 5433,
+   "reports": 407522
+  },
+  {
+   "quarter": "2023Q4",
+   "zip": "faers_ascii_2023Q4.zip",
+   "demo": {
+    "member": "ASCII/DEMO23Q4.txt",
+    "lines": 415380,
+    "rows": 415379,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG23Q4.txt",
+    "lines": 1920733,
+    "rows": 1920732,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 33992,
+    "prod_ai_blank_suspect_rows": 14,
+    "reports_with_gt1_ps": 170
+   },
+   "reac": {
+    "member": "ASCII/REAC23Q4.txt",
+    "lines": 1500034,
+    "rows": 1500033,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC23Q4.txt",
+    "lines": 327798,
+    "rows": 327797,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI23Q4.txt",
+    "lines": 1115962,
+    "rows": 1115961,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE23Q4.txt"
+   ],
+   "deleted_caseids": 2940,
+   "reports": 415379
+  },
+  {
+   "quarter": "2024Q1",
+   "zip": "faers_ascii_2024Q1.zip",
+   "demo": {
+    "member": "ASCII/DEMO24Q1.txt",
+    "lines": 406185,
+    "rows": 406184,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG24Q1.txt",
+    "lines": 1909328,
+    "rows": 1909327,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 33747,
+    "prod_ai_blank_suspect_rows": 13,
+    "reports_with_gt1_ps": 83
+   },
+   "reac": {
+    "member": "ASCII/REAC24Q1.txt",
+    "lines": 1445417,
+    "rows": 1445416,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC24Q1.txt",
+    "lines": 295045,
+    "rows": 295044,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI24Q1.txt",
+    "lines": 1186116,
+    "rows": 1186115,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE24Q1.txt"
+   ],
+   "deleted_caseids": 4530,
+   "reports": 406184
+  },
+  {
+   "quarter": "2024Q2",
+   "zip": "faers_ascii_2024Q2.zip",
+   "demo": {
+    "member": "ASCII/DEMO24Q2.txt",
+    "lines": 397120,
+    "rows": 397119,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG24Q2.txt",
+    "lines": 1888938,
+    "rows": 1888937,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 32228,
+    "prod_ai_blank_suspect_rows": 2,
+    "reports_with_gt1_ps": 564
+   },
+   "reac": {
+    "member": "ASCII/REAC24Q2.txt",
+    "lines": 1445045,
+    "rows": 1445044,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC24Q2.txt",
+    "lines": 291573,
+    "rows": 291572,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI24Q2.txt",
+    "lines": 1187627,
+    "rows": 1187626,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE24Q2.txt"
+   ],
+   "deleted_caseids": 5409,
+   "reports": 397119
+  },
+  {
+   "quarter": "2024Q3",
+   "zip": "faers_ascii_2024Q3.zip",
+   "demo": {
+    "member": "ASCII/DEMO24Q3.txt",
+    "lines": 405514,
+    "rows": 405513,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG24Q3.txt",
+    "lines": 1907294,
+    "rows": 1907293,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 30927,
+    "prod_ai_blank_suspect_rows": 10,
+    "reports_with_gt1_ps": 1929
+   },
+   "reac": {
+    "member": "ASCII/REAC24Q3.txt",
+    "lines": 1431719,
+    "rows": 1431718,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC24Q3.txt",
+    "lines": 288276,
+    "rows": 288275,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI24Q3.txt",
+    "lines": 1177134,
+    "rows": 1177133,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE24Q3.txt"
+   ],
+   "deleted_caseids": 4969,
+   "reports": 405513
+  },
+  {
+   "quarter": "2024Q4",
+   "zip": "faers_ascii_2024Q4.zip",
+   "demo": {
+    "member": "ASCII/DEMO24Q4.txt",
+    "lines": 410850,
+    "rows": 410849,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG24Q4.txt",
+    "lines": 2030939,
+    "rows": 2030938,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 30030,
+    "prod_ai_blank_suspect_rows": 17,
+    "reports_with_gt1_ps": 10356
+   },
+   "reac": {
+    "member": "ASCII/REAC24Q4.txt",
+    "lines": 1472751,
+    "rows": 1472750,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC24Q4.txt",
+    "lines": 308961,
+    "rows": 308960,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI24Q4.txt",
+    "lines": 1219760,
+    "rows": 1219759,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE24Q4.txt"
+   ],
+   "deleted_caseids": 4661,
+   "reports": 410849
+  },
+  {
+   "quarter": "2025Q1",
+   "zip": "faers_ascii_2025Q1.zip",
+   "demo": {
+    "member": "ASCII/DEMO25Q1.txt",
+    "lines": 400515,
+    "rows": 400514,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG25Q1.txt",
+    "lines": 2008163,
+    "rows": 2008162,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 31933,
+    "prod_ai_blank_suspect_rows": 1,
+    "reports_with_gt1_ps": 12803
+   },
+   "reac": {
+    "member": "ASCII/REAC25Q1.txt",
+    "lines": 1432927,
+    "rows": 1432926,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC25Q1.txt",
+    "lines": 304028,
+    "rows": 304027,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI25Q1.txt",
+    "lines": 1205862,
+    "rows": 1205861,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE25Q1.txt"
+   ],
+   "deleted_caseids": 5732,
+   "reports": 400514
+  },
+  {
+   "quarter": "2025Q2",
+   "zip": "faers_ascii_2025Q2.zip",
+   "demo": {
+    "member": "ASCII/DEMO25Q2.txt",
+    "lines": 393131,
+    "rows": 393130,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG25Q2.txt",
+    "lines": 1829057,
+    "rows": 1829056,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 30873,
+    "prod_ai_blank_suspect_rows": 1,
+    "reports_with_gt1_ps": 15407
+   },
+   "reac": {
+    "member": "ASCII/REAC25Q2.txt",
+    "lines": 1340667,
+    "rows": 1340666,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC25Q2.txt",
+    "lines": 295584,
+    "rows": 295583,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI25Q2.txt",
+    "lines": 1136666,
+    "rows": 1136665,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE25Q2.txt"
+   ],
+   "deleted_caseids": 6371,
+   "reports": 393130
+  },
+  {
+   "quarter": "2025Q3",
+   "zip": "faers_ascii_2025Q3.zip",
+   "demo": {
+    "member": "ASCII/DEMO25Q3.txt",
+    "lines": 438513,
+    "rows": 438512,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG25Q3.txt",
+    "lines": 2148452,
+    "rows": 2148451,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 37089,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 20936
+   },
+   "reac": {
+    "member": "ASCII/REAC25Q3.txt",
+    "lines": 1535134,
+    "rows": 1535133,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC25Q3.txt",
+    "lines": 343252,
+    "rows": 343251,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI25Q3.txt",
+    "lines": 1310275,
+    "rows": 1310274,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE25Q3.txt"
+   ],
+   "deleted_caseids": 4947,
+   "reports": 438512
+  },
+  {
+   "quarter": "2025Q4",
+   "zip": "faers_ascii_2025Q4.zip",
+   "demo": {
+    "member": "ASCII/DEMO25Q4.txt",
+    "lines": 385289,
+    "rows": 385288,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG25Q4.txt",
+    "lines": 1815350,
+    "rows": 1815349,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 33826,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 24197
+   },
+   "reac": {
+    "member": "ASCII/REAC25Q4.txt",
+    "lines": 1349106,
+    "rows": 1349105,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC25Q4.txt",
+    "lines": 289722,
+    "rows": 289721,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI25Q4.txt",
+    "lines": 1168790,
+    "rows": 1168789,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE25Q4.txt"
+   ],
+   "deleted_caseids": 4497,
+   "reports": 385288
+  },
+  {
+   "quarter": "2026Q1",
+   "zip": "faers_ascii_2026Q1.zip",
+   "demo": {
+    "member": "ASCII/DEMO26Q1.txt",
+    "lines": 397225,
+    "rows": 397224,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG26Q1.txt",
+    "lines": 1703211,
+    "rows": 1703210,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 35272,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 35315
+   },
+   "reac": {
+    "member": "ASCII/REAC26Q1.txt",
+    "lines": 1330676,
+    "rows": 1330675,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC26Q1.txt",
+    "lines": 291581,
+    "rows": 291580,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI26Q1.txt",
+    "lines": 1139941,
+    "rows": 1139940,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE26Q1.txt"
+   ],
+   "deleted_caseids": 6135,
+   "reports": 397224
+  },
+  {
+   "quarter": "2026Q2",
+   "zip": "faers_ascii_2026Q2.zip",
+   "demo": {
+    "member": "ASCII/DEMO26Q2.txt",
+    "lines": 422460,
+    "rows": 422459,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG26Q2.txt",
+    "lines": 1627226,
+    "rows": 1627225,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 35205,
+    "prod_ai_blank_suspect_rows": 0,
+    "reports_with_gt1_ps": 65272
+   },
+   "reac": {
+    "member": "ASCII/REAC26Q2.txt",
+    "lines": 1394752,
+    "rows": 1394751,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC26Q2.txt",
+    "lines": 303706,
+    "rows": 303705,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI26Q2.txt",
+    "lines": 1124334,
+    "rows": 1124333,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE26Q2.txt"
+   ],
+   "deleted_caseids": 4217,
+   "reports": 422459
+  },
+  {
+   "quarter": "2026Q3",
+   "zip": "faers_ascii_2026Q3.zip",
+   "demo": {
+    "member": "ASCII/DEMO26Q3.txt",
+    "lines": 421405,
+    "rows": 421404,
+    "missing_cols": [],
+    "bad_id_rows": 0
+   },
+   "drug": {
+    "member": "ASCII/DRUG26Q3.txt",
+    "lines": 1582987,
+    "rows": 1582986,
+    "missing_cols": [],
+    "prod_ai_blank_rows": 39004,
+    "prod_ai_blank_suspect_rows": 1,
+    "reports_with_gt1_ps": 63132
+   },
+   "reac": {
+    "member": "ASCII/REAC26Q3.txt",
+    "lines": 1362204,
+    "rows": 1362203,
+    "missing_cols": []
+   },
+   "outc": {
+    "member": "ASCII/OUTC26Q3.txt",
+    "lines": 287716,
+    "rows": 287715,
+    "missing_cols": []
+   },
+   "indi": {
+    "member": "ASCII/INDI26Q3.txt",
+    "lines": 1073898,
+    "rows": 1073897,
+    "missing_cols": []
+   },
+   "deleted_members": [
+    "Deleted/DELETE26Q3.txt"
+   ],
+   "deleted_caseids": 4215,
+   "reports": 421404
+  }
+ ]
+}

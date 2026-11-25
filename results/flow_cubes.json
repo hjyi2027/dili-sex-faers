@@ -1,0 +1,18 @@
+{
+ "reports_deduplicated": 16532447,
+ "sex_known": 14214795,
+ "weight_tertile_cuts_kg": [
+  65.31999969482422,
+  83.0
+ ],
+ "overdose_context": 504211,
+ "adult_age_known": 8594665,
+ "age_missing": 5059842,
+ "under18": 560288,
+ "narrow_cases_sexknown": 151808,
+ "broad_cases_sexknown": 326028,
+ "weight_known_adults": 2227621,
+ "report_cube_rows": 1511555,
+ "pair_cube_rows": 1557354,
+ "suspect_pairs_sexknown": 22637383
+}

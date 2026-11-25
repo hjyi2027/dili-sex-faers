@@ -1,0 +1,45 @@
+{
+ "rows": 1336,
+ "class_counts": {
+  "no": 414,
+  "ambiguous": 354,
+  "less": 351,
+  "most": 217
+ },
+ "ingredients_with_two_entries_of_different_class": {
+  "AMIFAMPRIDINE": {
+   "classes_in_ltkbid_order": [
+    "no",
+    "ambiguous"
+   ],
+   "class_used": "ambiguous",
+   "reports_as_primary_suspect": 2841,
+   "class_in_data": {
+    "ambiguous": 2841
+   }
+  },
+  "METOPROLOL": {
+   "classes_in_ltkbid_order": [
+    "less",
+    "ambiguous"
+   ],
+   "class_used": "ambiguous",
+   "reports_as_primary_suspect": 14717,
+   "class_in_data": {
+    "ambiguous": 14717
+   }
+  },
+  "NORETHINDRONE": {
+   "classes_in_ltkbid_order": [
+    "ambiguous",
+    "no"
+   ],
+   "class_used": "no",
+   "reports_as_primary_suspect": 841,
+   "class_in_data": {
+    "no": 841
+   }
+  }
+ },
+ "share_of_reports_in_these_strata_pct": 0.134
+}

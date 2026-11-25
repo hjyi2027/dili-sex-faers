@@ -1,0 +1,598 @@
+{
+ "questionable_terms": [
+  "HEPATIC ENCEPHALOPATHY",
+  "COMA HEPATIC",
+  "LIVER TRANSPLANT",
+  "AUTOIMMUNE HEPATITIS"
+ ],
+ "sex_rule": "PREGNAN|MATERNAL|PATERNAL|FOETAL|FOETUS|ABORTION|STILLBIRTH|\\bLABOUR\\b|PREMATURE DELIVERY|CAESAREAN|POSTPARTUM|PUERPER|LACTATION|BREAST|MENSTRU|MENORRH|METRORRHAG|MENOPAUS|UTERINE|UTERUS|OVARIAN|OVARY|VAGINAL|VULV|ENDOMETRI|CERVIX|PROSTAT|TESTIC|TESTIS|ERECTILE|EJACULAT|PENILE|PENIS|SCROTAL|GYNAECOMASTIA|SPERM|EPIDIDYM",
+ "sex_specific_terms_matched": 1163,
+ "narrow_flag_mismatch": 0,
+ "term_mentions_by_class_pct": {
+  "pregnancy": 34.27153763964483,
+  "cancer": 26.889938871546494,
+  "other": 38.83852348880867
+ },
+ "full": {
+  "hepatic_reports": 140195,
+  "questionable_only": 8989,
+  "questionable_only_pct_of_hepatic": 6.411783587146474,
+  "questionable_only_female_pct": 48.881966848370226,
+  "other_hepatic_female_pct": 54.73453957898266,
+  "term_reports_among_hepatic": {
+   "HEPATIC ENCEPHALOPATHY": 5336,
+   "COMA HEPATIC": 275,
+   "LIVER TRANSPLANT": 2013,
+   "AUTOIMMUNE HEPATITIS": 4572
+  },
+  "sex_specific_reports": 662318,
+  "sex_specific_pct_of_reports": 4.830705971386776,
+  "sex_specific_pct_of_women_noncases": 5.624097683504692,
+  "sex_specific_pct_of_men_noncases": 3.6740355883821687,
+  "hepatic_reports_with_sex_specific_term": 4229,
+  "reference": {
+   "reports": 13710584,
+   "hepatic_reports": 140195,
+   "reporting_crude": {
+    "or": 0.7849393268730568,
+    "lo": 0.7766898817876973,
+    "hi": 0.7932763916710096
+   },
+   "reporting_by_drug": {
+    "or": 0.9183065625458967,
+    "lo": 0.9079835951782316,
+    "hi": 0.9287468928877827
+   },
+   "reporting_adult_full": {
+    "or": 1.016262403499404,
+    "lo": 1.0033327840942372,
+    "hi": 1.0293586426548798
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.2704452969645557,
+    "lo": 1.2290922472358738,
+    "hi": 1.3131896781622208
+   }
+  },
+  "strict_definition": {
+   "reports": 13701595,
+   "hepatic_reports": 131206,
+   "reporting_crude": {
+    "or": 0.7969100692189653,
+    "lo": 0.7882512668667266,
+    "hi": 0.8056639870011775
+   },
+   "reporting_by_drug": {
+    "or": 0.9273149579988613,
+    "lo": 0.9165432373713758,
+    "hi": 0.9382132738163451
+   },
+   "reporting_adult_full": {
+    "or": 1.0268307291024052,
+    "lo": 1.0133546533941873,
+    "hi": 1.0404860161221667
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.274566939407606,
+    "lo": 1.2316431239094825,
+    "hi": 1.31898668656089
+   }
+  },
+  "comparison_restricted": {
+   "reports": 13052495,
+   "hepatic_reports": 140195,
+   "reporting_crude": {
+    "or": 0.8011583021700865,
+    "lo": 0.7927363317892769,
+    "hi": 0.8096697469224506
+   },
+   "reporting_by_drug": {
+    "or": 0.9422328154413326,
+    "lo": 0.9316332979676613,
+    "hi": 0.9529529273279772
+   },
+   "reporting_adult_full": {
+    "or": 1.0525053935009363,
+    "lo": 1.0391083896630873,
+    "hi": 1.06607512206473
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.257866292637738,
+    "lo": 1.2169147719290874,
+    "hi": 1.3001959107177374
+   }
+  },
+  "both": {
+   "reports": 13043506,
+   "hepatic_reports": 131206,
+   "reporting_crude": {
+    "or": 0.8133763925182527,
+    "lo": 0.8045366447584523,
+    "hi": 0.8223132659229394
+   },
+   "reporting_by_drug": {
+    "or": 0.9514958409656229,
+    "lo": 0.9404351313756294,
+    "hi": 0.9626866385250601
+   },
+   "reporting_adult_full": {
+    "or": 1.0638117313593136,
+    "lo": 1.0498435463037201,
+    "hi": 1.0779657633388933
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.261923911628025,
+    "lo": 1.2194181956165813,
+    "hi": 1.305911265276286
+   }
+  },
+  "events_excluded": {
+   "reports": 13048266,
+   "hepatic_reports": 135966,
+   "reporting_crude": {
+    "or": 0.7715518938715455,
+    "lo": 0.7633298863939301,
+    "hi": 0.7798624625442183
+   },
+   "reporting_by_drug": {
+    "or": 0.9145715295267705,
+    "lo": 0.9041604619634703,
+    "hi": 0.9251024766162912
+   },
+   "reporting_adult_full": {
+    "or": 1.0248570737563172,
+    "lo": 1.0117012392299778,
+    "hi": 1.0381839824845782
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.172779106800794,
+    "lo": 1.133643509822061,
+    "hi": 1.2132657413302315
+   }
+  },
+  "events_excluded_strict": {
+   "reports": 13039359,
+   "hepatic_reports": 127059,
+   "reporting_crude": {
+    "or": 0.7819105872737778,
+    "lo": 0.7732916373367384,
+    "hi": 0.7906256022585049
+   },
+   "reporting_by_drug": {
+    "or": 0.922254964630604,
+    "lo": 0.9114009010194262,
+    "hi": 0.9332382915514227
+   },
+   "reporting_adult_full": {
+    "or": 1.0346034566079805,
+    "lo": 1.0208998343022482,
+    "hi": 1.0484910237611782
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.1710523889029336,
+    "lo": 1.1305659409841522,
+    "hi": 1.2129886880914722
+   }
+  },
+  "hepatic_with_term_female_pct": 84.44076613856704,
+  "noncases_with_term_female_pct": 69.90407072599602,
+  "hepatic_with_term_fatal_pct": 36.95909198392055,
+  "by_class": {
+   "pregnancy": {
+    "reports": 203180,
+    "hepatic_reports": 2340,
+    "hepatic_female_pct": 89.95726495726495,
+    "hepatic_fatal_pct": 35.98290598290598,
+    "excluded": {
+     "reports": 13507404,
+     "hepatic_reports": 137855,
+     "reporting_crude": {
+      "or": 0.7788509013451286,
+      "lo": 0.7706048755718357,
+      "hi": 0.7871851655181634
+     },
+     "reporting_by_drug": {
+      "or": 0.9213463864761089,
+      "lo": 0.9109095420896907,
+      "hi": 0.9319028121334582
+     },
+     "reporting_adult_full": {
+      "or": 1.0263394324454687,
+      "lo": 1.0132214338822352,
+      "hi": 1.039627267414201
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.2049403938819745,
+      "lo": 1.1651704286786297,
+      "hi": 1.246067800102827
+     }
+    }
+   },
+   "cancer": {
+    "reports": 219143,
+    "hepatic_reports": 1342,
+    "hepatic_female_pct": 94.48584202682562,
+    "hepatic_fatal_pct": 68.55439642324889,
+    "excluded": {
+     "reports": 13491441,
+     "hepatic_reports": 138853,
+     "reporting_crude": {
+      "or": 0.7721289342157293,
+      "lo": 0.763980138671818,
+      "hi": 0.7803646467689385
+     },
+     "reporting_by_drug": {
+      "or": 0.9118173847865257,
+      "lo": 0.9015386336766188,
+      "hi": 0.9222133274625318
+     },
+     "reporting_adult_full": {
+      "or": 1.0119365442654498,
+      "lo": 0.9990322153728761,
+      "hi": 1.025007556175453
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.2136793129778696,
+      "lo": 1.1737002482880061,
+      "hi": 1.2550201611518959
+     }
+    }
+   },
+   "other": {
+    "reports": 256693,
+    "hepatic_reports": 1027,
+    "hepatic_female_pct": 64.75170399221032,
+    "hepatic_fatal_pct": 16.55306718597858,
+    "excluded": {
+     "reports": 13453891,
+     "hepatic_reports": 139168,
+     "reporting_crude": {
+      "or": 0.7864657802740275,
+      "lo": 0.7781706348425866,
+      "hi": 0.7948493503191042
+     },
+     "reporting_by_drug": {
+      "or": 0.9145983675876008,
+      "lo": 0.9042844328686809,
+      "hi": 0.9250299392418915
+     },
+     "reporting_adult_full": {
+      "or": 1.0158039992915564,
+      "lo": 1.0028423192121545,
+      "hi": 1.0289332083506015
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.271004290620792,
+      "lo": 1.2294984479309268,
+      "hi": 1.3139113022021631
+     }
+    }
+   }
+  },
+  "hepatic_without_term_fatal_pct": 14.141035258814705
+ },
+ "restricted": {
+  "hepatic_reports": 138302,
+  "questionable_only": 8989,
+  "questionable_only_pct_of_hepatic": 6.499544475134127,
+  "questionable_only_female_pct": 48.881966848370226,
+  "other_hepatic_female_pct": 54.167021103833335,
+  "term_reports_among_hepatic": {
+   "HEPATIC ENCEPHALOPATHY": 5306,
+   "COMA HEPATIC": 275,
+   "LIVER TRANSPLANT": 2013,
+   "AUTOIMMUNE HEPATITIS": 4572
+  },
+  "sex_specific_reports": 658151,
+  "sex_specific_pct_of_reports": 4.804928170393598,
+  "sex_specific_pct_of_women_noncases": 5.594193689563494,
+  "sex_specific_pct_of_men_noncases": 3.672249172349207,
+  "hepatic_reports_with_sex_specific_term": 3185,
+  "reference": {
+   "reports": 13697416,
+   "hepatic_reports": 138302,
+   "reporting_crude": {
+    "or": 0.7686285727520601,
+    "lo": 0.7605033560480052,
+    "hi": 0.7768405992590734
+   },
+   "reporting_by_drug": {
+    "or": 0.9030365896220804,
+    "lo": 0.8928324463555259,
+    "hi": 0.9133573555990095
+   },
+   "reporting_adult_full": {
+    "or": 1.0042725703136866,
+    "lo": 0.9914386089718303,
+    "hi": 1.0172726645479213
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.1783322024537046,
+    "lo": 1.1392526029336318,
+    "hi": 1.2187523432152165
+   }
+  },
+  "strict_definition": {
+   "reports": 13688427,
+   "hepatic_reports": 129313,
+   "reporting_crude": {
+    "or": 0.7793314055298424,
+    "lo": 0.7708113145775135,
+    "hi": 0.7879456725126253
+   },
+   "reporting_by_drug": {
+    "or": 0.9109071708216154,
+    "lo": 0.9002676720801356,
+    "hi": 0.921672408759315
+   },
+   "reporting_adult_full": {
+    "or": 1.01395186240062,
+    "lo": 1.0005820286932459,
+    "hi": 1.0275003445828188
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.1761326032253803,
+    "lo": 1.1357292505439704,
+    "hi": 1.2179732975153792
+   }
+  },
+  "comparison_restricted": {
+   "reports": 13042450,
+   "hepatic_reports": 138302,
+   "reporting_crude": {
+    "or": 0.7842765665451257,
+    "lo": 0.7759839248673781,
+    "hi": 0.7926578284942368
+   },
+   "reporting_by_drug": {
+    "or": 0.9260181953889943,
+    "lo": 0.915546402130674,
+    "hi": 0.9366097624280754
+   },
+   "reporting_adult_full": {
+    "or": 1.0382522204248994,
+    "lo": 1.0249750728948814,
+    "hi": 1.0517013552072865
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.165672660081404,
+    "lo": 1.1270058769669036,
+    "hi": 1.205666073470848
+   }
+  },
+  "both": {
+   "reports": 13033461,
+   "hepatic_reports": 129313,
+   "reporting_crude": {
+    "or": 0.7951972911198202,
+    "lo": 0.7865017766615537,
+    "hi": 0.8039889426421565
+   },
+   "reporting_by_drug": {
+    "or": 0.9340824653755817,
+    "lo": 0.9231637746017365,
+    "hi": 0.9451302966242753
+   },
+   "reporting_adult_full": {
+    "or": 1.0485282549672428,
+    "lo": 1.0346928184777044,
+    "hi": 1.062548692550282
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.1634737742121672,
+    "lo": 1.1234984996383928,
+    "hi": 1.2048714116798513
+   }
+  },
+  "events_excluded": {
+   "reports": 13039265,
+   "hepatic_reports": 135117,
+   "reporting_crude": {
+    "or": 0.7655401206930414,
+    "lo": 0.7573591407555934,
+    "hi": 0.7738094714299363
+   },
+   "reporting_by_drug": {
+    "or": 0.9086833526300345,
+    "lo": 0.8983112754179995,
+    "hi": 0.919175187868754
+   },
+   "reporting_adult_full": {
+    "or": 1.019866708753705,
+    "lo": 1.0067395728738788,
+    "hi": 1.0331650127300782
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.1400086193796972,
+    "lo": 1.101661848072223,
+    "hi": 1.1796901694782143
+   }
+  },
+  "events_excluded_strict": {
+   "reports": 13030358,
+   "hepatic_reports": 126210,
+   "reporting_crude": {
+    "or": 0.7754381246476522,
+    "lo": 0.766864886645541,
+    "hi": 0.7841072079689595
+   },
+   "reporting_by_drug": {
+    "or": 0.915926586177716,
+    "lo": 0.9051159125204818,
+    "hi": 0.9268663821532153
+   },
+   "reporting_adult_full": {
+    "or": 1.0292484044070587,
+    "lo": 1.0155765585904217,
+    "hi": 1.0431043026877398
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.1357437826759444,
+    "lo": 1.0961404077975596,
+    "hi": 1.1767780210555747
+   }
+  },
+  "hepatic_with_term_female_pct": 79.34065934065934,
+  "noncases_with_term_female_pct": 69.78988222289402,
+  "hepatic_with_term_fatal_pct": 24.427001569858714,
+  "by_class": {
+   "pregnancy": {
+    "reports": 199789,
+    "hepatic_reports": 1486,
+    "hepatic_female_pct": 84.185733512786,
+    "hepatic_fatal_pct": 16.621803499327054,
+    "excluded": {
+     "reports": 13497627,
+     "hepatic_reports": 136816,
+     "reporting_crude": {
+      "or": 0.7709373950197608,
+      "lo": 0.7627477527431127,
+      "hi": 0.7792149696965742
+     },
+     "reporting_by_drug": {
+      "or": 0.9136328277277588,
+      "lo": 0.90325052212302,
+      "hi": 0.9241344715083746
+     },
+     "reporting_adult_full": {
+      "or": 1.020073912859082,
+      "lo": 1.006996738615294,
+      "hi": 1.0333209113730435
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.156241583578231,
+      "lo": 1.1176664927871733,
+      "hi": 1.1961480533084812
+     }
+    }
+   },
+   "cancer": {
+    "reports": 218169,
+    "hepatic_reports": 867,
+    "hepatic_female_pct": 91.46482122260669,
+    "hepatic_fatal_pct": 52.595155709342556,
+    "excluded": {
+     "reports": 13479247,
+     "hepatic_reports": 137435,
+     "reporting_crude": {
+      "or": 0.7606521708338986,
+      "lo": 0.7525884691282657,
+      "hi": 0.7688022720631287
+     },
+     "reporting_by_drug": {
+      "or": 0.901057727706739,
+      "lo": 0.8908591834362329,
+      "hi": 0.9113730247785534
+     },
+     "reporting_adult_full": {
+      "or": 1.0037966151170479,
+      "lo": 0.9909504575354529,
+      "hi": 1.0168093034907286
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.1560294482815479,
+      "lo": 1.1174506972003695,
+      "hi": 1.1959400881330429
+     }
+    }
+   },
+   "other": {
+    "reports": 256294,
+    "hepatic_reports": 1027,
+    "hepatic_female_pct": 64.75170399221032,
+    "hepatic_fatal_pct": 16.55306718597858,
+    "excluded": {
+     "reports": 13441122,
+     "hepatic_reports": 137275,
+     "reporting_crude": {
+      "or": 0.7699744078382692,
+      "lo": 0.7618052858507588,
+      "hi": 0.7782311303652958
+     },
+     "reporting_by_drug": {
+      "or": 0.8992044878459773,
+      "lo": 0.8890108142210424,
+      "hi": 0.9095150452931441
+     },
+     "reporting_adult_full": {
+      "or": 1.0036477528744219,
+      "lo": 0.9907838142506701,
+      "hi": 1.0166787117043332
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.1784173185596467,
+      "lo": 1.1392038335207002,
+      "hi": 1.2189806036639135
+     }
+    }
+   }
+  },
+  "hepatic_without_term_fatal_pct": 13.973075186690053
+ },
+ "long_list_hepatic_reports": 1893,
+ "long_list_hepatic_with_term_pct": 55.15055467511886,
+ "stratum_scan_comparison_restricted": {
+  "k": 381,
+  "pooled_or": 0.9325544986804238,
+  "pooled_lo": 0.9020949468136057,
+  "pooled_hi": 0.964042527985459,
+  "tau": 0.28438647956202334,
+  "pred_lo": 0.5335495726120241,
+  "pred_hi": 1.6299476893058578,
+  "flagged": 101,
+  "flagged_female_shifted": 46,
+  "flagged_male_shifted": 55,
+  "reference_flags": 103,
+  "flagged_in_both": 94,
+  "reference_flags_lost": 9,
+  "reference_flags_untested": 0,
+  "new_flags": 7
+ },
+ "stratum_scan_events_excluded": {
+  "k": 374,
+  "pooled_or": 0.9135863670598661,
+  "pooled_lo": 0.8843120343191765,
+  "pooled_hi": 0.9438297995347601,
+  "tau": 0.27400135551492305,
+  "pred_lo": 0.5334463490189009,
+  "pred_hi": 1.5646185443253857,
+  "flagged": 101,
+  "flagged_female_shifted": 46,
+  "flagged_male_shifted": 55,
+  "reference_flags": 103,
+  "flagged_in_both": 94,
+  "reference_flags_lost": 8,
+  "reference_flags_untested": 1,
+  "new_flags": 7
+ },
+ "stratum_scan_strict_definition": {
+  "k": 367,
+  "pooled_or": 0.9147902104501747,
+  "pooled_lo": 0.8842570624017204,
+  "pooled_hi": 0.9463776595264508,
+  "tau": 0.2852029035905004,
+  "pred_lo": 0.5225274391826944,
+  "pred_hi": 1.6015257121126707,
+  "flagged": 94,
+  "flagged_female_shifted": 41,
+  "flagged_male_shifted": 53,
+  "reference_flags": 103,
+  "flagged_in_both": 89,
+  "reference_flags_lost": 13,
+  "reference_flags_untested": 1,
+  "new_flags": 5
+ },
+ "rifaximin": {
+  "reports": 13963,
+  "hepatic_reports": 1000,
+  "hepatic_with_encephalopathy_term": 503,
+  "hepatic_questionable_only": 609,
+  "indication_hepatic_encephalopathy_pct": 18.391463152617632
+ },
+ "lenvatinib": {
+  "reports_women": 12887,
+  "reports_men": 11930,
+  "liver_cancer_indication_pct_women": 9.703868810698934,
+  "liver_cancer_indication_pct_men": 40.32713881990237
+ }
+}

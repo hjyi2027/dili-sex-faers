@@ -1,0 +1,8 @@
+subgroup,hepatic_reports,fully_stratified_or,lo,hi
+region=US,20412,0.9169,0.8896,0.945
+region=nonUS,93222,1.0247,1.0102,1.0394
+reporter=HP,95239,1.0243,1.0101,1.0388
+reporter=consumer,14260,0.9049,0.8719,0.9392
+period=2014-2017,21203,0.9446,0.9172,0.9729
+period=2018-2021,39575,0.9716,0.9508,0.9927
+period=2022+,52898,1.0574,1.0374,1.0777

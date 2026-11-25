@@ -1,0 +1,1872 @@
+{
+ "ocmq_version": "4.1",
+ "queries": [
+  "Hepatic Injury",
+  "Hepatic Failure"
+ ],
+ "terms": {
+  "hepatic_injury_narrow": 171,
+  "hepatic_failure_narrow": 17,
+  "narrow_either": 171,
+  "narrow_or_broad_either": 248,
+  "narrow_either_found_in_faers": 156,
+  "paper_narrow": 29,
+  "paper_narrow_in_ocmq_narrow": 24,
+  "paper_narrow_not_in_ocmq_narrow": [
+   "HEPATIC CYTOLYSIS",
+   "IMMUNE-MEDIATED CHOLESTASIS",
+   "JAUNDICE",
+   "JAUNDICE CHOLESTATIC",
+   "VANISHING BILE DUCT SYNDROME"
+  ],
+  "paper_narrow_in_ocmq_broad_only": [
+   "JAUNDICE",
+   "JAUNDICE CHOLESTATIC"
+  ],
+  "paper_narrow_in_no_ocmq_list": [
+   "HEPATIC CYTOLYSIS",
+   "IMMUNE-MEDIATED CHOLESTASIS",
+   "VANISHING BILE DUCT SYNDROME"
+  ]
+ },
+ "full": {
+  "paper_cases": 140195,
+  "ocmq_cases": 237057,
+  "cases_under_both": 123807,
+  "only_paper": 16388,
+  "only_ocmq": 113250,
+  "share_of_paper_cases_that_are_ocmq_cases": 0.8831056742394522,
+  "share_of_ocmq_cases_that_are_paper_cases": 0.5222667965932244,
+  "only_ocmq_that_meet_the_broad_definition_of_the_paper": 76722,
+  "phenotype_coded_paper_cases": 30201,
+  "phenotype_coded_not_ocmq_cases": 9148,
+  "reference": {
+   "reports": 13710584,
+   "hepatic_reports": 140195,
+   "female_pct_of_hepatic": 54.35928528121545,
+   "reporting_crude": {
+    "or": 0.7849393268730568,
+    "lo": 0.7766898817876973,
+    "hi": 0.7932763916710096
+   },
+   "reporting_by_drug": {
+    "or": 0.9183065625458967,
+    "lo": 0.9079835951782316,
+    "hi": 0.9287468928877827
+   },
+   "reporting_adult_full": {
+    "or": 1.016262403499404,
+    "lo": 1.0033327840942372,
+    "hi": 1.0293586426548798
+   },
+   "fatality_hepatic_by_drug": {
+    "or": 0.8538069575748963,
+    "lo": 0.8262744977241226,
+    "hi": 0.8822568320953983
+   },
+   "fatality_other_by_drug": {
+    "or": 0.6720533025820763,
+    "lo": 0.6690062735733119,
+    "hi": 0.6751142094663509
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.2704452969645557,
+    "lo": 1.2290922472358738,
+    "hi": 1.3131896781622208
+   },
+   "phenotype_reports": 30201,
+   "phenotype_by_drug": {
+    "or": 0.8830215465482242,
+    "lo": 0.8394148848741195,
+    "hi": 0.9288935253814891
+   },
+   "phenotype_adult_drug_age": {
+    "or": 0.8986343416675082,
+    "lo": 0.8493629317688232,
+    "hi": 0.9507639782942524
+   }
+  },
+  "ocmq_narrow": {
+   "reports": 13710584,
+   "hepatic_reports": 237057,
+   "female_pct_of_hepatic": 53.286340416018085,
+   "reporting_crude": {
+    "or": 0.7498469619661399,
+    "lo": 0.7437665135800099,
+    "hi": 0.7559771193024596
+   },
+   "reporting_by_drug": {
+    "or": 0.8665906032350117,
+    "lo": 0.8589900272775729,
+    "hi": 0.8742584311430557
+   },
+   "reporting_adult_full": {
+    "or": 0.9481799123459111,
+    "lo": 0.9385018582097873,
+    "hi": 0.9579577688756503
+   },
+   "fatality_hepatic_by_drug": {
+    "or": 0.8540019312084648,
+    "lo": 0.83210815894475,
+    "hi": 0.876471755105351
+   },
+   "fatality_other_by_drug": {
+    "or": 0.671043715421003,
+    "lo": 0.6679938762375167,
+    "hi": 0.6741074791618483
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.2726472382990375,
+    "lo": 1.239529259785019,
+    "hi": 1.306650069261836
+   },
+   "phenotype_reports": 21053,
+   "phenotype_by_drug": {
+    "or": 0.9576860748574162,
+    "lo": 0.8998547410588309,
+    "hi": 1.0192340787098682
+   },
+   "phenotype_adult_drug_age": {
+    "or": 0.983173497953558,
+    "lo": 0.9159375215365356,
+    "hi": 1.0553450473965296
+   }
+  },
+  "ocmq_injury_narrow": {
+   "reports": 13710584,
+   "hepatic_reports": 237057,
+   "female_pct_of_hepatic": 53.286340416018085,
+   "reporting_crude": {
+    "or": 0.7498469619661399,
+    "lo": 0.7437665135800099,
+    "hi": 0.7559771193024596
+   },
+   "reporting_by_drug": {
+    "or": 0.8665906032350117,
+    "lo": 0.8589900272775729,
+    "hi": 0.8742584311430557
+   },
+   "reporting_adult_full": {
+    "or": 0.9481799123459111,
+    "lo": 0.9385018582097873,
+    "hi": 0.9579577688756503
+   },
+   "fatality_hepatic_by_drug": {
+    "or": 0.8540019312084648,
+    "lo": 0.83210815894475,
+    "hi": 0.876471755105351
+   },
+   "fatality_other_by_drug": {
+    "or": 0.671043715421003,
+    "lo": 0.6679938762375167,
+    "hi": 0.6741074791618483
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.2726472382990375,
+    "lo": 1.239529259785019,
+    "hi": 1.306650069261836
+   },
+   "phenotype_reports": 21053,
+   "phenotype_by_drug": {
+    "or": 0.9576860748574162,
+    "lo": 0.8998547410588309,
+    "hi": 1.0192340787098682
+   },
+   "phenotype_adult_drug_age": {
+    "or": 0.983173497953558,
+    "lo": 0.9159375215365356,
+    "hi": 1.0553450473965296
+   }
+  },
+  "decomposition": {
+   "paper_broad": {
+    "reports": 13710584,
+    "hepatic_reports": 307753,
+    "female_pct_of_hepatic": 56.01732558252884,
+    "reporting_crude": {
+     "or": 0.8381165208936567,
+     "lo": 0.8321025827346782,
+     "hi": 0.8441739241889423
+    },
+    "reporting_by_drug": {
+     "or": 0.9265958319155239,
+     "lo": 0.9193461491634688,
+     "hi": 0.9339026834500372
+    },
+    "reporting_adult_full": {
+     "or": 1.00140651196302,
+     "lo": 0.9922016365492353,
+     "hi": 1.0106967830547215
+    },
+    "fatality_hepatic_by_drug": {
+     "or": 0.8332052969198255,
+     "lo": 0.8123992840328124,
+     "hi": 0.854544163762723
+    },
+    "fatality_other_by_drug": {
+     "or": 0.671432832307145,
+     "lo": 0.6683954904202447,
+     "hi": 0.6744839765698394
+    },
+    "fatality_ratio_by_drug": {
+     "or": 1.2409361842744653,
+     "lo": 1.209460910207962,
+     "hi": 1.2732305777264732
+    },
+    "phenotype_reports": 30201,
+    "phenotype_by_drug": {
+     "or": 0.8830215465482242,
+     "lo": 0.8394148848741195,
+     "hi": 0.9288935253814891
+    },
+    "phenotype_adult_drug_age": {
+     "or": 0.8986343416675082,
+     "lo": 0.8493629317688232,
+     "hi": 0.9507639782942524
+    }
+   },
+   "reference_no_competing_cause_reports": {
+    "reports": 13452594,
+    "hepatic_reports": 127802,
+    "female_pct_of_hepatic": 54.9584513544389,
+    "reporting_crude": {
+     "or": 0.7973189392905412,
+     "lo": 0.7885381946849627,
+     "hi": 0.8061974616275576
+    },
+    "reporting_by_drug": {
+     "or": 0.9298238776970196,
+     "lo": 0.9188716651676376,
+     "hi": 0.9409066318067285
+    },
+    "reporting_adult_full": {
+     "or": 1.0299729841171752,
+     "lo": 1.016240662265228,
+     "hi": 1.0438908689665969
+    },
+    "fatality_hepatic_by_drug": {
+     "or": 0.9000055046107186,
+     "lo": 0.8668551030168693,
+     "hi": 0.9344236487857777
+    },
+    "fatality_other_by_drug": {
+     "or": 0.6682604658977387,
+     "lo": 0.6651146985309436,
+     "hi": 0.6714211116792611
+    },
+    "fatality_ratio_by_drug": {
+     "or": 1.3467884912234849,
+     "lo": 1.2967982688377773,
+     "hi": 1.3987057846072224
+    },
+    "phenotype_reports": 27907,
+    "phenotype_by_drug": {
+     "or": 0.8640922675495255,
+     "lo": 0.8197391679787156,
+     "hi": 0.9108451517327858
+    },
+    "phenotype_adult_drug_age": {
+     "or": 0.8743369832012933,
+     "lo": 0.8245559108719155,
+     "hi": 0.9271234977688357
+    }
+   },
+   "ocmq_no_competing_cause_reports": {
+    "reports": 13452594,
+    "hepatic_reports": 207770,
+    "female_pct_of_hepatic": 54.292727535255324,
+    "reporting_crude": {
+     "or": 0.7747679625443126,
+     "lo": 0.7680554341878978,
+     "hi": 0.7815391559852122
+    },
+    "reporting_by_drug": {
+     "or": 0.8850362602727483,
+     "lo": 0.8767515371576152,
+     "hi": 0.8933992685509926
+    },
+    "reporting_adult_full": {
+     "or": 0.9679718467386268,
+     "lo": 0.9574412768259352,
+     "hi": 0.978618238796624
+    },
+    "fatality_hepatic_by_drug": {
+     "or": 0.8781507843425416,
+     "lo": 0.852400262061326,
+     "hi": 0.9046792151102606
+    },
+    "fatality_other_by_drug": {
+     "or": 0.6672910267797304,
+     "lo": 0.6641464160640025,
+     "hi": 0.6704505266468777
+    },
+    "fatality_ratio_by_drug": {
+     "or": 1.3159936955549905,
+     "lo": 1.276928281737524,
+     "hi": 1.3562542481900055
+    },
+    "phenotype_reports": 19222,
+    "phenotype_by_drug": {
+     "or": 0.9371035546274539,
+     "lo": 0.8783493838239801,
+     "hi": 0.9997878842610903
+    },
+    "phenotype_adult_drug_age": {
+     "or": 0.9578041995694985,
+     "lo": 0.8896360355532331,
+     "hi": 1.0311957340424907
+    }
+   },
+   "competing_cause_reports": 257990,
+   "ocmq_cases_with_competing_cause_term": 29287,
+   "classes": {
+    "shared": {
+     "terms": 24,
+     "reports_with_a_term": 121897,
+     "cases_only_through_this_class": 108297,
+     "female_pct_of_those": 54.81407610552462,
+     "left_out": {
+      "reports": 13710584,
+      "hepatic_reports": 128760,
+      "female_pct_of_hepatic": 52.00139794967381,
+      "reporting_crude": {
+       "or": 0.7134870539571945,
+       "lo": 0.7056910136672082,
+       "hi": 0.7213692201054189
+      },
+      "reporting_by_drug": {
+       "or": 0.8100726965464237,
+       "lo": 0.8004939276423344,
+       "hi": 0.8197660857000234
+      },
+      "reporting_adult_full": {
+       "or": 0.8721158359606838,
+       "lo": 0.859904783949905,
+       "hi": 0.8845002906481229
+      },
+      "fatality_hepatic_by_drug": {
+       "or": 0.8302636869445534,
+       "lo": 0.8005741146749019,
+       "hi": 0.8610543074312246
+      },
+      "fatality_other_by_drug": {
+       "or": 0.671211489705168,
+       "lo": 0.6681567078413226,
+       "hi": 0.6742802378917728
+      },
+      "fatality_ratio_by_drug": {
+       "or": 1.2369628644307769,
+       "lo": 1.192390654993304,
+       "hi": 1.2832012072330308
+      },
+      "phenotype_reports": 2104,
+      "phenotype_by_drug": {
+       "or": 0.8900502539139543,
+       "lo": 0.6980803124571547,
+       "hi": 1.134811339549009
+      },
+      "phenotype_adult_drug_age": {
+       "or": 0.8263124127589933,
+       "lo": 0.5993018287733858,
+       "hi": 1.1393127314112925
+      }
+     }
+    },
+    "lab": {
+     "terms": 5,
+     "reports_with_a_term": 82587,
+     "cases_only_through_this_class": 72670,
+     "female_pct_of_those": 53.53515893766341,
+     "left_out": {
+      "reports": 13710584,
+      "hepatic_reports": 164387,
+      "female_pct_of_hepatic": 53.17634606142821,
+      "reporting_crude": {
+       "or": 0.7476802540345208,
+       "lo": 0.7404267664947651,
+       "hi": 0.755004799353209
+      },
+      "reporting_by_drug": {
+       "or": 0.8754590848887837,
+       "lo": 0.8663594668099388,
+       "hi": 0.8846542788254024
+      },
+      "reporting_adult_full": {
+       "or": 0.9656812543660566,
+       "lo": 0.9541121277701844,
+       "hi": 0.9773906628913747
+      },
+      "fatality_hepatic_by_drug": {
+       "or": 0.8637422154382958,
+       "lo": 0.8384637701524466,
+       "hi": 0.8897827685442043
+      },
+      "fatality_other_by_drug": {
+       "or": 0.6713368947853637,
+       "lo": 0.6682821540593129,
+       "hi": 0.6744055988364065
+      },
+      "fatality_ratio_by_drug": {
+       "or": 1.286600248172636,
+       "lo": 1.2485116999466366,
+       "hi": 1.3258507698955808
+      },
+      "phenotype_reports": 20828,
+      "phenotype_by_drug": {
+       "or": 0.9495820829039543,
+       "lo": 0.8919152100880984,
+       "hi": 1.010977413517981
+      },
+      "phenotype_adult_drug_age": {
+       "or": 0.9817764209763098,
+       "lo": 0.9142971165953813,
+       "hi": 1.0542360063152378
+      }
+     }
+    },
+    "competing": {
+     "terms": 14,
+     "reports_with_a_term": 13083,
+     "cases_only_through_this_class": 10360,
+     "female_pct_of_those": 40.965250965250966,
+     "left_out": {
+      "reports": 13710584,
+      "hepatic_reports": 226697,
+      "female_pct_of_hepatic": 53.84941132877806,
+      "reporting_crude": {
+       "or": 0.7674930194181302,
+       "lo": 0.7611269538148296,
+       "hi": 0.7739123307921427
+      },
+      "reporting_by_drug": {
+       "or": 0.880589024488888,
+       "lo": 0.8726956946267987,
+       "hi": 0.8885537476862433
+      },
+      "reporting_adult_full": {
+       "or": 0.962534049296931,
+       "lo": 0.9525216845856156,
+       "hi": 0.9726516582758936
+      },
+      "fatality_hepatic_by_drug": {
+       "or": 0.8442702319847031,
+       "lo": 0.8223109876766809,
+       "hi": 0.8668158826740164
+      },
+      "fatality_other_by_drug": {
+       "or": 0.6710672111086018,
+       "lo": 0.6680172075385972,
+       "hi": 0.6741311402506907
+      },
+      "fatality_ratio_by_drug": {
+       "or": 1.2581008548904813,
+       "lo": 1.2248991937077107,
+       "hi": 1.2922024679312976
+      },
+      "phenotype_reports": 21030,
+      "phenotype_by_drug": {
+       "or": 0.9584151383114281,
+       "lo": 0.9004635672848934,
+       "hi": 1.0200963267333338
+      },
+      "phenotype_adult_drug_age": {
+       "or": 0.9856103840470049,
+       "lo": 0.9181110538268651,
+       "hi": 1.0580722507284763
+      }
+     }
+    },
+    "chronic": {
+     "terms": 62,
+     "reports_with_a_term": 20947,
+     "cases_only_through_this_class": 15392,
+     "female_pct_of_those": 49.233367983367984,
+     "left_out": {
+      "reports": 13710584,
+      "hepatic_reports": 221665,
+      "female_pct_of_hepatic": 53.56777118624952,
+      "reporting_crude": {
+       "or": 0.7587777704579353,
+       "lo": 0.7524170995371312,
+       "hi": 0.765192212265376
+      },
+      "reporting_by_drug": {
+       "or": 0.8818677789477017,
+       "lo": 0.8738740565696401,
+       "hi": 0.8899346235302471
+      },
+      "reporting_adult_full": {
+       "or": 0.9635137131382614,
+       "lo": 0.9533813804811669,
+       "hi": 0.9737537300518097
+      },
+      "fatality_hepatic_by_drug": {
+       "or": 0.8593599525160069,
+       "lo": 0.8362264670857589,
+       "hi": 0.8831334059085422
+      },
+      "fatality_other_by_drug": {
+       "or": 0.6711108444080276,
+       "lo": 0.6680605056121797,
+       "hi": 0.6741751109345097
+      },
+      "fatality_ratio_by_drug": {
+       "or": 1.2805037493829052,
+       "lo": 1.2455628422860654,
+       "hi": 1.3164248294162701
+      },
+      "phenotype_reports": 21016,
+      "phenotype_by_drug": {
+       "or": 0.9591898608926349,
+       "lo": 0.9012190734080019,
+       "hi": 1.020889610957787
+      },
+      "phenotype_adult_drug_age": {
+       "or": 0.9851244022667235,
+       "lo": 0.917676936702307,
+       "hi": 1.057529125041298
+      }
+     }
+    },
+    "other": {
+     "terms": 66,
+     "reports_with_a_term": 17248,
+     "cases_only_through_this_class": 13195,
+     "female_pct_of_those": 52.42895035998484,
+     "left_out": {
+      "reports": 13710584,
+      "hepatic_reports": 223862,
+      "female_pct_of_hepatic": 53.33687718326468,
+      "reporting_crude": {
+       "or": 0.7516139311605429,
+       "lo": 0.7453456129890996,
+       "hi": 0.7579349655645817
+      },
+      "reporting_by_drug": {
+       "or": 0.8686130503883155,
+       "lo": 0.8607785041908759,
+       "hi": 0.8765189042610989
+      },
+      "reporting_adult_full": {
+       "or": 0.9521174877152895,
+       "lo": 0.9421620015267339,
+       "hi": 0.9621781699371067
+      },
+      "fatality_hepatic_by_drug": {
+       "or": 0.8591672090060486,
+       "lo": 0.8365015472449895,
+       "hi": 0.8824470145481428
+      },
+      "fatality_other_by_drug": {
+       "or": 0.6710661184765124,
+       "lo": 0.6680159887236571,
+       "hi": 0.6741301749791258
+      },
+      "fatality_ratio_by_drug": {
+       "or": 1.2803018739145593,
+       "lo": 1.2460460200014698,
+       "hi": 1.3154994775772395
+      },
+      "phenotype_reports": 21006,
+      "phenotype_by_drug": {
+       "or": 0.9602270660043114,
+       "lo": 0.9021525089580624,
+       "hi": 1.022040075410476
+      },
+      "phenotype_adult_drug_age": {
+       "or": 0.9875243591984407,
+       "lo": 0.9199188979153903,
+       "hi": 1.0600981915038183
+      }
+     }
+    }
+   },
+   "cumulative": {
+    "shared": {
+     "reports": 13710584,
+     "hepatic_reports": 121897,
+     "female_pct_of_hepatic": 54.85861013806739,
+     "reporting_crude": {
+      "or": 0.8013281356605775,
+      "lo": 0.7922979100151326,
+      "hi": 0.8104612834192538
+     },
+     "reporting_by_drug": {
+      "or": 0.9386182797420112,
+      "lo": 0.9273171256608828,
+      "hi": 0.9500571602600091
+     },
+     "reporting_adult_full": {
+      "or": 1.0340537303576,
+      "lo": 1.0199841011756428,
+      "hi": 1.04831743556985
+     },
+     "fatality_hepatic_by_drug": {
+      "or": 0.8567203332941312,
+      "lo": 0.8276636244677662,
+      "hi": 0.8867971332575969
+     },
+     "fatality_other_by_drug": {
+      "or": 0.6718809551634063,
+      "lo": 0.6688195078478483,
+      "hi": 0.6749564159154087
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.2751073336879606,
+      "lo": 1.2314898846874986,
+      "hi": 1.3202696446324496
+     },
+     "phenotype_reports": 20703,
+     "phenotype_by_drug": {
+      "or": 0.9542301907154118,
+      "lo": 0.8960543978553062,
+      "hi": 1.0161830119378608
+     },
+     "phenotype_adult_drug_age": {
+      "or": 0.9898086489427229,
+      "lo": 0.9215171799438803,
+      "hi": 1.0631610379542602
+     }
+    },
+    "lab": {
+     "reports": 13710584,
+     "hepatic_reports": 197090,
+     "female_pct_of_hepatic": 54.35131158354052,
+     "reporting_crude": {
+      "or": 0.7838673092529411,
+      "lo": 0.7768984888371675,
+      "hi": 0.7908986403553554
+     },
+     "reporting_by_drug": {
+      "or": 0.9036118826281465,
+      "lo": 0.8949298860697943,
+      "hi": 0.9123781059682975
+     },
+     "reporting_adult_full": {
+      "or": 0.9877050163801422,
+      "lo": 0.9767838410942333,
+      "hi": 0.9987482985894128
+     },
+     "fatality_hepatic_by_drug": {
+      "or": 0.8549313753269798,
+      "lo": 0.830706295670426,
+      "hi": 0.8798629074173542
+     },
+     "fatality_other_by_drug": {
+      "or": 0.6712135772233021,
+      "lo": 0.6681623931587857,
+      "hi": 0.6742786946134455
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.2737098955353188,
+      "lo": 1.237174406493479,
+      "hi": 1.311324328622978
+     },
+     "phenotype_reports": 20945,
+     "phenotype_by_drug": {
+      "or": 0.9625413410401717,
+      "lo": 0.9042000685392635,
+      "hi": 1.0246469398173697
+     },
+     "phenotype_adult_drug_age": {
+      "or": 0.9919815586121757,
+      "lo": 0.9238938090605513,
+      "hi": 1.0650871376952251
+     }
+    },
+    "other": {
+     "reports": 13710584,
+     "hepatic_reports": 210839,
+     "female_pct_of_hepatic": 54.2238390430613,
+     "reporting_crude": {
+      "or": 0.7795889506689982,
+      "lo": 0.7728848903045635,
+      "hi": 0.7863511625459464
+     },
+     "reporting_by_drug": {
+      "or": 0.8987937396887654,
+      "lo": 0.8904419085210463,
+      "hi": 0.9072239062124314
+     },
+     "reporting_adult_full": {
+      "or": 0.9809176293623998,
+      "lo": 0.9703772129559001,
+      "hi": 0.9915725377175346
+     },
+     "fatality_hepatic_by_drug": {
+      "or": 0.8490709994968981,
+      "lo": 0.8258227088500619,
+      "hi": 0.8729737684139582
+     },
+     "fatality_other_by_drug": {
+      "or": 0.6711343479842482,
+      "lo": 0.6680838447410334,
+      "hi": 0.6741987799732486
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.2651282147115293,
+      "lo": 1.230031135775032,
+      "hi": 1.3012267357368061
+     },
+     "phenotype_reports": 20993,
+     "phenotype_by_drug": {
+      "or": 0.9599254473142799,
+      "lo": 0.9018336576411906,
+      "hi": 1.021759230867093
+     },
+     "phenotype_adult_drug_age": {
+      "or": 0.9875778262040584,
+      "lo": 0.9198650727407597,
+      "hi": 1.0602750247968156
+     }
+    },
+    "chronic": {
+     "reports": 13710584,
+     "hepatic_reports": 226697,
+     "female_pct_of_hepatic": 53.84941132877806,
+     "reporting_crude": {
+      "or": 0.7674930194181302,
+      "lo": 0.7611269538148296,
+      "hi": 0.7739123307921427
+     },
+     "reporting_by_drug": {
+      "or": 0.880589024488888,
+      "lo": 0.8726956946267987,
+      "hi": 0.8885537476862433
+     },
+     "reporting_adult_full": {
+      "or": 0.962534049296931,
+      "lo": 0.9525216845856156,
+      "hi": 0.9726516582758936
+     },
+     "fatality_hepatic_by_drug": {
+      "or": 0.8442702319847031,
+      "lo": 0.8223109876766809,
+      "hi": 0.8668158826740164
+     },
+     "fatality_other_by_drug": {
+      "or": 0.6710672111086018,
+      "lo": 0.6680172075385972,
+      "hi": 0.6741311402506907
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.2581008548904813,
+      "lo": 1.2248991937077107,
+      "hi": 1.2922024679312976
+     },
+     "phenotype_reports": 21030,
+     "phenotype_by_drug": {
+      "or": 0.9584151383114281,
+      "lo": 0.9004635672848934,
+      "hi": 1.0200963267333338
+     },
+     "phenotype_adult_drug_age": {
+      "or": 0.9856103840470049,
+      "lo": 0.9181110538268651,
+      "hi": 1.0580722507284763
+     }
+    },
+    "competing": {
+     "reports": 13710584,
+     "hepatic_reports": 237057,
+     "female_pct_of_hepatic": 53.286340416018085,
+     "reporting_crude": {
+      "or": 0.7498469619661399,
+      "lo": 0.7437665135800099,
+      "hi": 0.7559771193024596
+     },
+     "reporting_by_drug": {
+      "or": 0.8665906032350117,
+      "lo": 0.8589900272775729,
+      "hi": 0.8742584311430557
+     },
+     "reporting_adult_full": {
+      "or": 0.9481799123459111,
+      "lo": 0.9385018582097873,
+      "hi": 0.9579577688756503
+     },
+     "fatality_hepatic_by_drug": {
+      "or": 0.8540019312084648,
+      "lo": 0.83210815894475,
+      "hi": 0.876471755105351
+     },
+     "fatality_other_by_drug": {
+      "or": 0.671043715421003,
+      "lo": 0.6679938762375167,
+      "hi": 0.6741074791618483
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.2726472382990375,
+      "lo": 1.239529259785019,
+      "hi": 1.306650069261836
+     },
+     "phenotype_reports": 21053,
+     "phenotype_by_drug": {
+      "or": 0.9576860748574162,
+      "lo": 0.8998547410588309,
+      "hi": 1.0192340787098682
+     },
+     "phenotype_adult_drug_age": {
+      "or": 0.983173497953558,
+      "lo": 0.9159375215365356,
+      "hi": 1.0553450473965296
+     }
+    }
+   },
+   "without_chronic_and_competing_terms": {
+    "reports": 13710584,
+    "hepatic_reports": 210839,
+    "female_pct_of_hepatic": 54.2238390430613,
+    "reporting_crude": {
+     "or": 0.7795889506689982,
+     "lo": 0.7728848903045635,
+     "hi": 0.7863511625459464
+    },
+    "reporting_by_drug": {
+     "or": 0.8987937396887654,
+     "lo": 0.8904419085210463,
+     "hi": 0.9072239062124314
+    },
+    "reporting_adult_full": {
+     "or": 0.9809176293623998,
+     "lo": 0.9703772129559001,
+     "hi": 0.9915725377175346
+    },
+    "fatality_hepatic_by_drug": {
+     "or": 0.8490709994968981,
+     "lo": 0.8258227088500619,
+     "hi": 0.8729737684139582
+    },
+    "fatality_other_by_drug": {
+     "or": 0.6711343479842482,
+     "lo": 0.6680838447410334,
+     "hi": 0.6741987799732486
+    },
+    "fatality_ratio_by_drug": {
+     "or": 1.2651282147115293,
+     "lo": 1.230031135775032,
+     "hi": 1.3012267357368061
+    },
+    "phenotype_reports": 20993,
+    "phenotype_by_drug": {
+     "or": 0.9599254473142799,
+     "lo": 0.9018336576411906,
+     "hi": 1.021759230867093
+    },
+    "phenotype_adult_drug_age": {
+     "or": 0.9875778262040584,
+     "lo": 0.9198650727407597,
+     "hi": 1.0602750247968156
+    }
+   },
+   "order_free": {
+    "log_or_shared": 0.033486738331534434,
+    "log_or_all": -0.05321101377764022,
+    "classes": {
+     "lab": {
+      "added_first_pct": 52.89402487015252,
+      "added_last_pct": 21.095760487975607,
+      "all_orders_pct": 35.47256633806438,
+      "or_added_alone_to_shared": 0.9877050163801422,
+      "or_dropped_from_all": 0.9656812543660566
+     },
+     "competing": {
+      "added_first_pct": 38.29375648018911,
+      "added_last_pct": 17.33052571619743,
+      "all_orders_pct": 26.549902806558233,
+      "or_added_alone_to_shared": 1.0002869534283096,
+      "or_dropped_from_all": 0.962534049296931
+     },
+     "chronic": {
+      "added_first_pct": 42.005469741146904,
+      "added_last_pct": 18.503888264217053,
+      "all_orders_pct": 28.92385995541927,
+      "or_added_alone_to_shared": 0.9970732316647644,
+      "or_dropped_from_all": 0.9635137131382614
+     },
+     "other": {
+      "added_first_pct": 15.262786153680711,
+      "added_last_pct": 4.780024091883796,
+      "all_orders_pct": 9.053670899958107,
+      "or_added_alone_to_shared": 1.0204607549364033,
+      "or_dropped_from_all": 0.9521174877152895
+     }
+    },
+    "liver_disease_terms": {
+     "added_first_pct": 71.58916179315585,
+     "added_last_pct": 39.15237018065136,
+     "all_orders_pct": 55.473762761977504,
+     "or_added_alone_to_shared": 0.9718250740398349,
+     "or_dropped_from_all": 0.9809176293623998
+    }
+   }
+  }
+ },
+ "restricted": {
+  "paper_cases": 138302,
+  "ocmq_cases": 234623,
+  "cases_under_both": 121976,
+  "only_paper": 16326,
+  "only_ocmq": 112647,
+  "share_of_paper_cases_that_are_ocmq_cases": 0.8819539847579934,
+  "share_of_ocmq_cases_that_are_paper_cases": 0.519880830097646,
+  "only_ocmq_that_meet_the_broad_definition_of_the_paper": 76147,
+  "phenotype_coded_paper_cases": 30040,
+  "phenotype_coded_not_ocmq_cases": 9090,
+  "reference": {
+   "reports": 13697416,
+   "hepatic_reports": 138302,
+   "female_pct_of_hepatic": 53.82351665196454,
+   "reporting_crude": {
+    "or": 0.7686285727520601,
+    "lo": 0.7605033560480052,
+    "hi": 0.7768405992590734
+   },
+   "reporting_by_drug": {
+    "or": 0.9030365896220804,
+    "lo": 0.8928324463555259,
+    "hi": 0.9133573555990095
+   },
+   "reporting_adult_full": {
+    "or": 1.0042725703136866,
+    "lo": 0.9914386089718303,
+    "hi": 1.0172726645479213
+   },
+   "fatality_hepatic_by_drug": {
+    "or": 0.7901962823785387,
+    "lo": 0.7642248370979963,
+    "hi": 0.817050342221206
+   },
+   "fatality_other_by_drug": {
+    "or": 0.6706056922937949,
+    "lo": 0.6675615611928989,
+    "hi": 0.6736637048622559
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.1783322024537046,
+    "lo": 1.1392526029336318,
+    "hi": 1.2187523432152165
+   },
+   "phenotype_reports": 30040,
+   "phenotype_by_drug": {
+    "or": 0.8720167212498484,
+    "lo": 0.8288310328889505,
+    "hi": 0.9174525711095308
+   },
+   "phenotype_adult_drug_age": {
+    "or": 0.8865999509626665,
+    "lo": 0.8378631665257898,
+    "hi": 0.9381716543363616
+   }
+  },
+  "ocmq_narrow": {
+   "reports": 13697416,
+   "hepatic_reports": 234623,
+   "female_pct_of_hepatic": 52.856284337000204,
+   "reporting_crude": {
+    "or": 0.7373891153604419,
+    "lo": 0.7313825098746272,
+    "hi": 0.7434450511337262
+   },
+   "reporting_by_drug": {
+    "or": 0.8545568922233084,
+    "lo": 0.847030568286726,
+    "hi": 0.8621500916117568
+   },
+   "reporting_adult_full": {
+    "or": 0.9372296190243087,
+    "lo": 0.9276271238469203,
+    "hi": 0.9469315161178995
+   },
+   "fatality_hepatic_by_drug": {
+    "or": 0.7958119777939182,
+    "lo": 0.7750354714763013,
+    "hi": 0.817145443412951
+   },
+   "fatality_other_by_drug": {
+    "or": 0.6694863447099483,
+    "lo": 0.6664400038360693,
+    "hi": 0.672546610607335
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.1886903804418891,
+    "lo": 1.1572051952609028,
+    "hi": 1.2210322130782627
+   },
+   "phenotype_reports": 20950,
+   "phenotype_by_drug": {
+    "or": 0.9503930272026777,
+    "lo": 0.8928975638720115,
+    "hi": 1.0115907386269245
+   },
+   "phenotype_adult_drug_age": {
+    "or": 0.9756750114692996,
+    "lo": 0.9087978692265524,
+    "hi": 1.047473547463072
+   }
+  },
+  "ocmq_injury_narrow": {
+   "reports": 13697416,
+   "hepatic_reports": 234623,
+   "female_pct_of_hepatic": 52.856284337000204,
+   "reporting_crude": {
+    "or": 0.7373891153604419,
+    "lo": 0.7313825098746272,
+    "hi": 0.7434450511337262
+   },
+   "reporting_by_drug": {
+    "or": 0.8545568922233084,
+    "lo": 0.847030568286726,
+    "hi": 0.8621500916117568
+   },
+   "reporting_adult_full": {
+    "or": 0.9372296190243087,
+    "lo": 0.9276271238469203,
+    "hi": 0.9469315161178995
+   },
+   "fatality_hepatic_by_drug": {
+    "or": 0.7958119777939182,
+    "lo": 0.7750354714763013,
+    "hi": 0.817145443412951
+   },
+   "fatality_other_by_drug": {
+    "or": 0.6694863447099483,
+    "lo": 0.6664400038360693,
+    "hi": 0.672546610607335
+   },
+   "fatality_ratio_by_drug": {
+    "or": 1.1886903804418891,
+    "lo": 1.1572051952609028,
+    "hi": 1.2210322130782627
+   },
+   "phenotype_reports": 20950,
+   "phenotype_by_drug": {
+    "or": 0.9503930272026777,
+    "lo": 0.8928975638720115,
+    "hi": 1.0115907386269245
+   },
+   "phenotype_adult_drug_age": {
+    "or": 0.9756750114692996,
+    "lo": 0.9087978692265524,
+    "hi": 1.047473547463072
+   }
+  },
+  "decomposition": {
+   "paper_broad": {
+    "reports": 13697416,
+    "hepatic_reports": 303396,
+    "female_pct_of_hepatic": 55.45689461957309,
+    "reporting_crude": {
+     "or": 0.8195434832529027,
+     "lo": 0.8136293283509577,
+     "hi": 0.8255006272986574
+    },
+    "reporting_by_drug": {
+     "or": 0.9096565083323392,
+     "lo": 0.9025027170865462,
+     "hi": 0.9168670049245202
+    },
+    "reporting_adult_full": {
+     "or": 0.9871985715057262,
+     "lo": 0.9780847731929037,
+     "hi": 0.9963972922321915
+    },
+    "fatality_hepatic_by_drug": {
+     "or": 0.7724131284780301,
+     "lo": 0.7527146586944512,
+     "hi": 0.7926271053097746
+    },
+    "fatality_other_by_drug": {
+     "or": 0.6699889178262187,
+     "lo": 0.6669544592904211,
+     "hi": 0.6730371823100495
+    },
+    "fatality_ratio_by_drug": {
+     "or": 1.1528744848259984,
+     "lo": 1.1230287172611677,
+     "hi": 1.1835134376654732
+    },
+    "phenotype_reports": 30040,
+    "phenotype_by_drug": {
+     "or": 0.8720167212498484,
+     "lo": 0.8288310328889505,
+     "hi": 0.9174525711095308
+    },
+    "phenotype_adult_drug_age": {
+     "or": 0.8865999509626665,
+     "lo": 0.8378631665257898,
+     "hi": 0.9381716543363616
+    }
+   },
+   "reference_no_competing_cause_reports": {
+    "reports": 13439996,
+    "hepatic_reports": 126009,
+    "female_pct_of_hepatic": 54.40801847487084,
+    "reporting_crude": {
+     "or": 0.7802697879230515,
+     "lo": 0.7716256475467825,
+     "hi": 0.7890107643273636
+    },
+    "reporting_by_drug": {
+     "or": 0.9141944440837114,
+     "lo": 0.9033698339880536,
+     "hi": 0.925148759842891
+    },
+    "reporting_adult_full": {
+     "or": 1.0184147499857725,
+     "lo": 1.0047767206620866,
+     "hi": 1.0322378909268048
+    },
+    "fatality_hepatic_by_drug": {
+     "or": 0.8127879004744497,
+     "lo": 0.7821095444638319,
+     "hi": 0.8446696192801852
+    },
+    "fatality_other_by_drug": {
+     "or": 0.66660705154904,
+     "lo": 0.6634654414864687,
+     "hi": 0.6697635376144414
+    },
+    "fatality_ratio_by_drug": {
+     "or": 1.2192908829657882,
+     "lo": 1.1729303035322893,
+     "hi": 1.2674838844272092
+    },
+    "phenotype_reports": 27830,
+    "phenotype_by_drug": {
+     "or": 0.8615550322327713,
+     "lo": 0.817270707453942,
+     "hi": 0.9082389308654417
+    },
+    "phenotype_adult_drug_age": {
+     "or": 0.8706470858887859,
+     "lo": 0.821021146546157,
+     "hi": 0.9232726237996106
+    }
+   },
+   "ocmq_no_competing_cause_reports": {
+    "reports": 13439996,
+    "hepatic_reports": 205456,
+    "female_pct_of_hepatic": 53.829043688186275,
+    "reporting_crude": {
+     "or": 0.7608412728303388,
+     "lo": 0.7542180252947944,
+     "hi": 0.7675226831337377
+    },
+    "reporting_by_drug": {
+     "or": 0.8717974275725598,
+     "lo": 0.8636011614724517,
+     "hi": 0.8800714827968388
+    },
+    "reporting_adult_full": {
+     "or": 0.9563745731139816,
+     "lo": 0.9459298749823111,
+     "hi": 0.9669345987365654
+    },
+    "fatality_hepatic_by_drug": {
+     "or": 0.8008241233870159,
+     "lo": 0.7767912648463832,
+     "hi": 0.8256005256771375
+    },
+    "fatality_other_by_drug": {
+     "or": 0.6656481953594945,
+     "lo": 0.6625076398996346,
+     "hi": 0.6688036383285731
+    },
+    "fatality_ratio_by_drug": {
+     "or": 1.203074129802932,
+     "lo": 1.1665440211976539,
+     "hi": 1.2407481719507638
+    },
+    "phenotype_reports": 19203,
+    "phenotype_by_drug": {
+     "or": 0.9402496455407727,
+     "lo": 0.8812767402743283,
+     "hi": 1.0031688748126395
+    },
+    "phenotype_adult_drug_age": {
+     "or": 0.9610634883259921,
+     "lo": 0.8926416989086883,
+     "hi": 1.0347298694678246
+    }
+   },
+   "competing_cause_reports": 257420,
+   "ocmq_cases_with_competing_cause_term": 29167,
+   "classes": {
+    "shared": {
+     "terms": 24,
+     "reports_with_a_term": 120066,
+     "cases_only_through_this_class": 106903,
+     "female_pct_of_those": 54.26975856617682,
+     "left_out": {
+      "reports": 13697416,
+      "hepatic_reports": 127720,
+      "female_pct_of_hepatic": 51.67319135609145,
+      "reporting_crude": {
+       "or": 0.7046386549609316,
+       "lo": 0.6969103010275092,
+       "hi": 0.7124527121110121
+      },
+      "reporting_by_drug": {
+       "or": 0.801659989677757,
+       "lo": 0.7921465333356762,
+       "hi": 0.8112876999460547
+      },
+      "reporting_adult_full": {
+       "or": 0.8630100269839279,
+       "lo": 0.850880197734393,
+       "hi": 0.875312774533847
+      },
+      "fatality_hepatic_by_drug": {
+       "or": 0.7799654914236892,
+       "lo": 0.7516064442193637,
+       "hi": 0.8093945607978917
+      },
+      "fatality_other_by_drug": {
+       "or": 0.6696503085310596,
+       "lo": 0.6665990621580203,
+       "hi": 0.6727155214770472
+      },
+      "fatality_ratio_by_drug": {
+       "or": 1.1647355067073981,
+       "lo": 1.122071680157342,
+       "hi": 1.2090215131307027
+      },
+      "phenotype_reports": 2101,
+      "phenotype_by_drug": {
+       "or": 0.8924839010558674,
+       "lo": 0.6999065508180348,
+       "hi": 1.1380483761909874
+      },
+      "phenotype_adult_drug_age": {
+       "or": 0.8263124127589933,
+       "lo": 0.5993018287733858,
+       "hi": 1.1393127314112925
+      }
+     }
+    },
+    "lab": {
+     "terms": 5,
+     "reports_with_a_term": 81816,
+     "cases_only_through_this_class": 72247,
+     "female_pct_of_those": 53.32955001591762,
+     "left_out": {
+      "reports": 13697416,
+      "hepatic_reports": 162376,
+      "female_pct_of_hepatic": 52.645711188845645,
+      "reporting_crude": {
+       "or": 0.7323269280034181,
+       "lo": 0.7251836092302628,
+       "hi": 0.7395406110297715
+      },
+      "reporting_by_drug": {
+       "or": 0.8608448447456656,
+       "lo": 0.8518538533661243,
+       "hi": 0.8699307325979616
+      },
+      "reporting_adult_full": {
+       "or": 0.9527618214482931,
+       "lo": 0.9412986242154863,
+       "hi": 0.9643646182591911
+      },
+      "fatality_hepatic_by_drug": {
+       "or": 0.8003670235960615,
+       "lo": 0.7764909594425228,
+       "hi": 0.8249772449635787
+      },
+      "fatality_other_by_drug": {
+       "or": 0.6697596426977802,
+       "lo": 0.6667085681046281,
+       "hi": 0.6728246799976055
+      },
+      "fatality_ratio_by_drug": {
+       "or": 1.1950063464143599,
+       "lo": 1.1589609223967645,
+       "hi": 1.232172837214709
+      },
+      "phenotype_reports": 20725,
+      "phenotype_by_drug": {
+       "or": 0.9423245921977139,
+       "lo": 0.8849952083211797,
+       "hi": 1.0033677343237393
+      },
+      "phenotype_adult_drug_age": {
+       "or": 0.974270217932592,
+       "lo": 0.9071537191338735,
+       "hi": 1.0463523849703156
+      }
+     }
+    },
+    "competing": {
+     "terms": 14,
+     "reports_with_a_term": 13081,
+     "cases_only_through_this_class": 10358,
+     "female_pct_of_those": 40.973160841861365,
+     "left_out": {
+      "reports": 13697416,
+      "hepatic_reports": 224265,
+      "female_pct_of_hepatic": 53.405123403116846,
+      "reporting_crude": {
+       "or": 0.754290428803976,
+       "lo": 0.7480047111225778,
+       "hi": 0.7606289673382147
+      },
+      "reporting_by_drug": {
+       "or": 0.8678816694512216,
+       "lo": 0.8600688145498651,
+       "hi": 0.8757654962337543
+      },
+      "reporting_adult_full": {
+       "or": 0.9510102105526401,
+       "lo": 0.9410792897867633,
+       "hi": 0.9610459292758501
+      },
+      "fatality_hepatic_by_drug": {
+       "or": 0.7857447390182744,
+       "lo": 0.7649282179930559,
+       "hi": 0.8071277544378692
+      },
+      "fatality_other_by_drug": {
+       "or": 0.6695080620254009,
+       "lo": 0.6664615565515776,
+       "hi": 0.6725684935771966
+      },
+      "fatality_ratio_by_drug": {
+       "or": 1.1736150519849355,
+       "lo": 1.1420834692119097,
+       "hi": 1.206017184712474
+      },
+      "phenotype_reports": 20927,
+      "phenotype_by_drug": {
+       "or": 0.9511598246335272,
+       "lo": 0.8935424867302307,
+       "hi": 1.0124924392879167
+      },
+      "phenotype_adult_drug_age": {
+       "or": 0.9781033260506533,
+       "lo": 0.9109628557466739,
+       "hi": 1.0501922338504126
+      }
+     }
+    },
+    "chronic": {
+     "terms": 62,
+     "reports_with_a_term": 20579,
+     "cases_only_through_this_class": 15253,
+     "female_pct_of_those": 48.7707336261719,
+     "left_out": {
+      "reports": 13697416,
+      "hepatic_reports": 219370,
+      "female_pct_of_hepatic": 53.14035647536126,
+      "reporting_crude": {
+       "or": 0.7462539354487817,
+       "lo": 0.7399698030055221,
+       "hi": 0.7525914353678546
+      },
+      "reporting_by_drug": {
+       "or": 0.8697752163753645,
+       "lo": 0.8618582184912938,
+       "hi": 0.8777649395107022
+      },
+      "reporting_adult_full": {
+       "or": 0.9527437783587192,
+       "lo": 0.9426869867535993,
+       "hi": 0.9629078580231948
+      },
+      "fatality_hepatic_by_drug": {
+       "or": 0.8010893056722524,
+       "lo": 0.779128762673403,
+       "hi": 0.8236688290911669
+      },
+      "fatality_other_by_drug": {
+       "or": 0.6695531690532653,
+       "lo": 0.666506329578373,
+       "hi": 0.6726139367241459
+      },
+      "fatality_ratio_by_drug": {
+       "or": 1.1964536092107168,
+       "lo": 1.1632223470549148,
+       "hi": 1.2306342313811913
+      },
+      "phenotype_reports": 20913,
+      "phenotype_by_drug": {
+       "or": 0.9518856535984199,
+       "lo": 0.8942511212053094,
+       "hi": 1.0132347346741146
+      },
+      "phenotype_adult_drug_age": {
+       "or": 0.9776024020519387,
+       "lo": 0.9105152897566087,
+       "hi": 1.0496325182558899
+      }
+     }
+    },
+    "other": {
+     "terms": 66,
+     "reports_with_a_term": 17241,
+     "cases_only_through_this_class": 13190,
+     "female_pct_of_those": 52.433661865049274,
+     "left_out": {
+      "reports": 13697416,
+      "hepatic_reports": 221433,
+      "female_pct_of_hepatic": 52.88145849986227,
+      "reporting_crude": {
+       "or": 0.7383727013675121,
+       "lo": 0.7321852492531151,
+       "hi": 0.7446124415657062
+      },
+      "reporting_by_drug": {
+       "or": 0.8558179899634069,
+       "lo": 0.8480648258060005,
+       "hi": 0.8636420349693316
+      },
+      "reporting_adult_full": {
+       "or": 0.9404839694135523,
+       "lo": 0.9306111678724116,
+       "hi": 0.9504615109509833
+      },
+      "fatality_hepatic_by_drug": {
+       "or": 0.7982111406508965,
+       "lo": 0.7767516861688472,
+       "hi": 0.8202634592294996
+      },
+      "fatality_other_by_drug": {
+       "or": 0.6695085555497644,
+       "lo": 0.6664619246935374,
+       "hi": 0.6725691136225813
+      },
+      "fatality_ratio_by_drug": {
+       "or": 1.1922344143839185,
+       "lo": 1.159742218014039,
+       "hi": 1.2256369361765858
+      },
+      "phenotype_reports": 20903,
+      "phenotype_by_drug": {
+       "or": 0.9529308996181879,
+       "lo": 0.8951926162611158,
+       "hi": 1.0143931964495279
+      },
+      "phenotype_adult_drug_age": {
+       "or": 0.9800791655796063,
+       "lo": 0.9128301135691398,
+       "hi": 1.0522825184277433
+      }
+     }
+    }
+   },
+   "cumulative": {
+    "shared": {
+     "reports": 13697416,
+     "hepatic_reports": 120066,
+     "female_pct_of_hepatic": 54.23267203038329,
+     "reporting_crude": {
+      "or": 0.7817955416909633,
+      "lo": 0.7729295005980493,
+      "hi": 0.7907632824661904
+     },
+     "reporting_by_drug": {
+      "or": 0.9202019547643984,
+      "lo": 0.9090605629634273,
+      "hi": 0.9314798947958395
+     },
+     "reporting_adult_full": {
+      "or": 1.0185838666530536,
+      "lo": 1.004658373097463,
+      "hi": 1.0327023804192546
+     },
+     "fatality_hepatic_by_drug": {
+      "or": 0.7906981603734278,
+      "lo": 0.76334532449651,
+      "hi": 0.8190311262210151
+     },
+     "fatality_other_by_drug": {
+      "or": 0.670325316399589,
+      "lo": 0.6672673784560458,
+      "hi": 0.6733972681924055
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.1795737696740711,
+      "lo": 1.1384318045661397,
+      "hi": 1.2222025706962432
+     },
+     "phenotype_reports": 20600,
+     "phenotype_by_drug": {
+      "or": 0.9469951790654104,
+      "lo": 0.8891561345766206,
+      "hi": 1.0085966168361957
+     },
+     "phenotype_adult_drug_age": {
+      "or": 0.9823273857875793,
+      "lo": 0.9143977981227221,
+      "hi": 1.055303386391959
+     }
+    },
+    "lab": {
+     "reports": 13697416,
+     "hepatic_reports": 194802,
+     "female_pct_of_hepatic": 53.8782969374031,
+     "reporting_crude": {
+      "or": 0.7694838899556857,
+      "lo": 0.7626089099584576,
+      "hi": 0.7764208484445693
+     },
+     "reporting_by_drug": {
+      "or": 0.8897570548486268,
+      "lo": 0.8811689890693059,
+      "hi": 0.8984288217962194
+     },
+     "reporting_adult_full": {
+      "or": 0.975412914794227,
+      "lo": 0.9645835704431278,
+      "hi": 0.9863638397969858
+     },
+     "fatality_hepatic_by_drug": {
+      "or": 0.7930742216549941,
+      "lo": 0.77016606069653,
+      "hi": 0.8166637731151692
+     },
+     "fatality_other_by_drug": {
+      "or": 0.6696537803025768,
+      "lo": 0.6666060963253578,
+      "hi": 0.6727153981121988
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.1843048527205369,
+      "lo": 1.149690180734321,
+      "hi": 1.2199616972300913
+     },
+     "phenotype_reports": 20842,
+     "phenotype_by_drug": {
+      "or": 0.9552717202350489,
+      "lo": 0.8972654596536538,
+      "hi": 1.0170279594102212
+     },
+     "phenotype_adult_drug_age": {
+      "or": 0.9845046094082399,
+      "lo": 0.9167747830762191,
+      "hi": 1.057238204887982
+     }
+    },
+    "other": {
+     "reports": 13697416,
+     "hepatic_reports": 208546,
+     "female_pct_of_hepatic": 53.78094041602333,
+     "reporting_crude": {
+      "or": 0.7662182938441365,
+      "lo": 0.7595984123869638,
+      "hi": 0.7728958674051795
+     },
+     "reporting_by_drug": {
+      "or": 0.8859275448856662,
+      "lo": 0.8776598162491221,
+      "hi": 0.8942731571572382
+     },
+     "reporting_adult_full": {
+      "or": 0.9695059470244465,
+      "lo": 0.95904779700703,
+      "hi": 0.9800781402648682
+     },
+     "fatality_hepatic_by_drug": {
+      "or": 0.7904001684320247,
+      "lo": 0.768356325215854,
+      "hi": 0.8130764409102341
+     },
+     "fatality_other_by_drug": {
+      "or": 0.6695748942024616,
+      "lo": 0.6665278900652075,
+      "hi": 0.6726358275906156
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.180450723699071,
+      "lo": 1.1471093795462088,
+      "hi": 1.2147611517507668
+     },
+     "phenotype_reports": 20890,
+     "phenotype_by_drug": {
+      "or": 0.9526590665911628,
+      "lo": 0.8949018872216796,
+      "hi": 1.0141439079718138
+     },
+     "phenotype_adult_drug_age": {
+      "or": 0.9800471910531392,
+      "lo": 0.9126948179068751,
+      "hi": 1.0523698369339818
+     }
+    },
+    "chronic": {
+     "reports": 13697416,
+     "hepatic_reports": 224265,
+     "female_pct_of_hepatic": 53.405123403116846,
+     "reporting_crude": {
+      "or": 0.754290428803976,
+      "lo": 0.7480047111225778,
+      "hi": 0.7606289673382147
+     },
+     "reporting_by_drug": {
+      "or": 0.8678816694512216,
+      "lo": 0.8600688145498651,
+      "hi": 0.8757654962337543
+     },
+     "reporting_adult_full": {
+      "or": 0.9510102105526401,
+      "lo": 0.9410792897867633,
+      "hi": 0.9610459292758501
+     },
+     "fatality_hepatic_by_drug": {
+      "or": 0.7857447390182744,
+      "lo": 0.7649282179930559,
+      "hi": 0.8071277544378692
+     },
+     "fatality_other_by_drug": {
+      "or": 0.6695080620254009,
+      "lo": 0.6664615565515776,
+      "hi": 0.6725684935771966
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.1736150519849355,
+      "lo": 1.1420834692119097,
+      "hi": 1.206017184712474
+     },
+     "phenotype_reports": 20927,
+     "phenotype_by_drug": {
+      "or": 0.9511598246335272,
+      "lo": 0.8935424867302307,
+      "hi": 1.0124924392879167
+     },
+     "phenotype_adult_drug_age": {
+      "or": 0.9781033260506533,
+      "lo": 0.9109628557466739,
+      "hi": 1.0501922338504126
+     }
+    },
+    "competing": {
+     "reports": 13697416,
+     "hepatic_reports": 234623,
+     "female_pct_of_hepatic": 52.856284337000204,
+     "reporting_crude": {
+      "or": 0.7373891153604419,
+      "lo": 0.7313825098746272,
+      "hi": 0.7434450511337262
+     },
+     "reporting_by_drug": {
+      "or": 0.8545568922233084,
+      "lo": 0.847030568286726,
+      "hi": 0.8621500916117568
+     },
+     "reporting_adult_full": {
+      "or": 0.9372296190243087,
+      "lo": 0.9276271238469203,
+      "hi": 0.9469315161178995
+     },
+     "fatality_hepatic_by_drug": {
+      "or": 0.7958119777939182,
+      "lo": 0.7750354714763013,
+      "hi": 0.817145443412951
+     },
+     "fatality_other_by_drug": {
+      "or": 0.6694863447099483,
+      "lo": 0.6664400038360693,
+      "hi": 0.672546610607335
+     },
+     "fatality_ratio_by_drug": {
+      "or": 1.1886903804418891,
+      "lo": 1.1572051952609028,
+      "hi": 1.2210322130782627
+     },
+     "phenotype_reports": 20950,
+     "phenotype_by_drug": {
+      "or": 0.9503930272026777,
+      "lo": 0.8928975638720115,
+      "hi": 1.0115907386269245
+     },
+     "phenotype_adult_drug_age": {
+      "or": 0.9756750114692996,
+      "lo": 0.9087978692265524,
+      "hi": 1.047473547463072
+     }
+    }
+   },
+   "without_chronic_and_competing_terms": {
+    "reports": 13697416,
+    "hepatic_reports": 208546,
+    "female_pct_of_hepatic": 53.78094041602333,
+    "reporting_crude": {
+     "or": 0.7662182938441365,
+     "lo": 0.7595984123869638,
+     "hi": 0.7728958674051795
+    },
+    "reporting_by_drug": {
+     "or": 0.8859275448856662,
+     "lo": 0.8776598162491221,
+     "hi": 0.8942731571572382
+    },
+    "reporting_adult_full": {
+     "or": 0.9695059470244465,
+     "lo": 0.95904779700703,
+     "hi": 0.9800781402648682
+    },
+    "fatality_hepatic_by_drug": {
+     "or": 0.7904001684320247,
+     "lo": 0.768356325215854,
+     "hi": 0.8130764409102341
+    },
+    "fatality_other_by_drug": {
+     "or": 0.6695748942024616,
+     "lo": 0.6665278900652075,
+     "hi": 0.6726358275906156
+    },
+    "fatality_ratio_by_drug": {
+     "or": 1.180450723699071,
+     "lo": 1.1471093795462088,
+     "hi": 1.2147611517507668
+    },
+    "phenotype_reports": 20890,
+    "phenotype_by_drug": {
+     "or": 0.9526590665911628,
+     "lo": 0.8949018872216796,
+     "hi": 1.0141439079718138
+    },
+    "phenotype_adult_drug_age": {
+     "or": 0.9800471910531392,
+     "lo": 0.9126948179068751,
+     "hi": 1.0523698369339818
+    }
+   },
+   "order_free": {
+    "log_or_shared": 0.01841329659666703,
+    "log_or_all": -0.06482696910875832,
+    "classes": {
+     "lab": {
+      "added_first_pct": 52.02733498349646,
+      "added_last_pct": 19.746017599825674,
+      "all_orders_pct": 34.34689642544779,
+      "or_added_alone_to_shared": 0.975412914794227,
+      "or_dropped_from_all": 0.9527618214482931
+     },
+     "competing": {
+      "added_first_pct": 38.684706744303625,
+      "added_last_pct": 17.53537081974397,
+      "all_orders_pct": 26.830761743750855,
+      "or_added_alone_to_shared": 0.9863066624173912,
+      "or_dropped_from_all": 0.9510102105526401
+     },
+     "chronic": {
+      "added_first_pct": 44.35193099056569,
+      "added_last_pct": 19.72326677148492,
+      "all_orders_pct": 30.680498891218875,
+      "or_added_alone_to_shared": 0.9816648044067074,
+      "or_dropped_from_all": 0.9527437783587192
+     },
+     "other": {
+      "added_first_pct": 14.050832240198574,
+      "added_last_pct": 4.164203398503784,
+      "all_orders_pct": 8.14184293958249,
+      "or_added_alone_to_shared": 1.0067399584806116,
+      "or_dropped_from_all": 0.9404839694135523
+     }
+    },
+    "liver_disease_terms": {
+     "added_first_pct": 74.08529127955433,
+     "added_last_pct": 40.67538542619033,
+     "all_orders_pct": 57.51126063496973,
+     "or_added_alone_to_shared": 0.9576666781183345,
+     "or_dropped_from_all": 0.9695059470244465
+    }
+   }
+  }
+ },
+ "stratum_scan_ocmq_narrow": {
+  "k": 498,
+  "pooled_or": 0.8657594918102096,
+  "pooled_lo": 0.8424060299948026,
+  "pooled_hi": 0.8897603661076557,
+  "tau": 0.26790419254031345,
+  "pred_lo": 0.5117381276693583,
+  "pred_hi": 1.464693477253978,
+  "flagged": 118,
+  "flagged_female_shifted": 58,
+  "flagged_male_shifted": 60,
+  "reference_flags": 103,
+  "flagged_in_both": 72,
+  "reference_flags_lost": 31,
+  "reference_flags_untested": 0,
+  "new_flags": 46
+ },
+ "largest_ocmq_narrow_terms_outside_the_paper_definition": [
+  {
+   "term": "ALANINE AMINOTRANSFERASE INCREASED",
+   "reports": 30261,
+   "paper_broad": true
+  },
+  {
+   "term": "LIVER DISORDER",
+   "reports": 26287,
+   "paper_broad": true
+  },
+  {
+   "term": "ASPARTATE AMINOTRANSFERASE INCREASED",
+   "reports": 25207,
+   "paper_broad": true
+  },
+  {
+   "term": "HEPATIC FUNCTION ABNORMAL",
+   "reports": 22688,
+   "paper_broad": true
+  },
+  {
+   "term": "HEPATIC CIRRHOSIS",
+   "reports": 11945,
+   "paper_broad": false
+  },
+  {
+   "term": "HEPATITIS C",
+   "reports": 6483,
+   "paper_broad": false
+  },
+  {
+   "term": "HEPATOMEGALY",
+   "reports": 4902,
+   "paper_broad": false
+  },
+  {
+   "term": "AMMONIA INCREASED",
+   "reports": 3054,
+   "paper_broad": false
+  },
+  {
+   "term": "HEPATITIS B",
+   "reports": 2874,
+   "paper_broad": false
+  },
+  {
+   "term": "HEPATIC PAIN",
+   "reports": 2813,
+   "paper_broad": false
+  },
+  {
+   "term": "HYPERAMMONAEMIA",
+   "reports": 2539,
+   "paper_broad": false
+  },
+  {
+   "term": "PORTAL HYPERTENSION",
+   "reports": 1847,
+   "paper_broad": false
+  },
+  {
+   "term": "VARICES OESOPHAGEAL",
+   "reports": 1812,
+   "paper_broad": false
+  },
+  {
+   "term": "OESOPHAGEAL VARICES HAEMORRHAGE",
+   "reports": 1305,
+   "paper_broad": false
+  },
+  {
+   "term": "HEPATITIS E",
+   "reports": 1299,
+   "paper_broad": false
+  }
+ ]
+}

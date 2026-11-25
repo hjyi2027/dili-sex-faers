@@ -1,0 +1,340 @@
+term,ocmq_query,ocmq_class,paper_narrow,paper_broad,reports_with_term
+HEPATIC CYTOLYSIS,,,True,True,10704
+VANISHING BILE DUCT SYNDROME,,,True,True,741
+IMMUNE-MEDIATED CHOLESTASIS,,,True,True,35
+HEPATIC FUNCTION ABNORMAL,Hepatic Failure,Broad,False,True,22688
+ASCITES,Hepatic Failure,Broad,False,False,17887
+JAUNDICE,Hepatic Failure,Broad,True,True,13897
+BLOOD BILIRUBIN INCREASED,Hepatic Failure,Broad,False,True,13851
+HEPATIC CIRRHOSIS,Hepatic Failure,Broad,False,False,11945
+HEPATOCELLULAR INJURY,Hepatic Failure,Broad,True,True,10119
+HYPERBILIRUBINAEMIA,Hepatic Failure,Broad,False,True,6100
+LIVER TRANSPLANT,Hepatic Failure,Broad,True,True,2014
+JAUNDICE CHOLESTATIC,Hepatic Failure,Broad,True,True,1971
+PORTAL HYPERTENSION,Hepatic Failure,Broad,False,False,1847
+VARICES OESOPHAGEAL,Hepatic Failure,Broad,False,False,1812
+CHOLESTATIC LIVER INJURY,Hepatic Failure,Broad,True,True,1636
+OESOPHAGEAL VARICES HAEMORRHAGE,Hepatic Failure,Broad,False,False,1305
+HEPATIC NECROSIS,Hepatic Failure,Broad,True,True,1259
+BILIRUBIN CONJUGATED INCREASED,Hepatic Failure,Broad,False,True,1201
+BLOOD BILIRUBIN ABNORMAL,Hepatic Failure,Broad,False,True,792
+NON-ALCOHOLIC STEATOHEPATITIS,Hepatic Failure,Broad,False,False,772
+ASTERIXIS,Hepatic Failure,Broad,False,False,479
+NODULAR REGENERATIVE HYPERPLASIA,Hepatic Failure,Broad,False,False,431
+PORTAL HYPERTENSIVE GASTROPATHY,Hepatic Failure,Broad,False,False,357
+NON-CIRRHOTIC PORTAL HYPERTENSION,Hepatic Failure,Broad,False,False,327
+HEPATOBILIARY DISEASE,Hepatic Failure,Broad,False,False,300
+AMMONIA ABNORMAL,Hepatic Failure,Broad,False,False,298
+GASTRIC VARICES,Hepatic Failure,Broad,False,False,298
+NON-ALCOHOLIC FATTY LIVER,Hepatic Failure,Broad,False,False,267
+CIRRHOSIS ALCOHOLIC,Hepatic Failure,Broad,False,False,263
+GASTRIC VARICES HAEMORRHAGE,Hepatic Failure,Broad,False,False,223
+PORTAL FIBROSIS,Hepatic Failure,Broad,False,False,170
+BILIARY CIRRHOSIS PRIMARY,Hepatic Failure,Broad,False,False,100
+SPIDER NAEVUS,Hepatic Failure,Broad,False,False,94
+BILIARY CIRRHOSIS,Hepatic Failure,Broad,False,False,93
+REYE'S SYNDROME,Hepatic Failure,Broad,False,False,88
+REYNOLD'S SYNDROME,Hepatic Failure,Broad,False,False,82
+STOMAL VARICES,Hepatic Failure,Broad,False,False,78
+CHILD-PUGH-TURCOTTE SCORE INCREASED,Hepatic Failure,Broad,False,False,65
+HEPATIC HYDROTHORAX,Hepatic Failure,Broad,False,False,65
+PORTAL VEIN DILATATION,Hepatic Failure,Broad,False,False,65
+PORTOPULMONARY HYPERTENSION,Hepatic Failure,Broad,False,False,64
+PORTAL SHUNT,Hepatic Failure,Broad,False,False,58
+COLOPATHY,Hepatic Failure,Broad,False,False,49
+BILIRUBINURIA,Hepatic Failure,Broad,False,False,46
+OEDEMA DUE TO HEPATIC DISEASE,Hepatic Failure,Broad,False,False,42
+PORTAL VEIN CAVERNOUS TRANSFORMATION,Hepatic Failure,Broad,False,False,36
+CRYPTOGENIC CIRRHOSIS,Hepatic Failure,Broad,False,False,28
+INTESTINAL VARICES,Hepatic Failure,Broad,False,False,22
+INTESTINAL VARICES HAEMORRHAGE,Hepatic Failure,Broad,False,False,22
+BILIARY FIBROSIS,Hepatic Failure,Broad,False,False,20
+DUODENAL VARICES,Hepatic Failure,Broad,False,False,20
+SPLENIC VARICES,Hepatic Failure,Broad,False,False,18
+SPLENORENAL SHUNT,Hepatic Failure,Broad,False,False,18
+RETROGRADE PORTAL VEIN FLOW,Hepatic Failure,Broad,False,False,16
+BACTERASCITES,Hepatic Failure,Broad,False,False,15
+VARICOSE VEINS OF ABDOMINAL WALL,Hepatic Failure,Broad,False,False,15
+PORTAL HYPERTENSIVE COLOPATHY,Hepatic Failure,Broad,False,False,9
+SPONTANEOUS INTRAHEPATIC PORTOSYSTEMIC VENOUS SHUNT,Hepatic Failure,Broad,False,False,9
+CHILD-PUGH-TURCOTTE SCORE ABNORMAL,Hepatic Failure,Broad,False,False,8
+PORTAL HYPERTENSIVE ENTEROPATHY,Hepatic Failure,Broad,False,False,7
+PERITONEOVENOUS SHUNT,Hepatic Failure,Broad,False,False,5
+RENAL AND LIVER TRANSPLANT,Hepatic Failure,Broad,False,False,4
+CARDIOHEPATIC SYNDROME,Hepatic Failure,Broad,False,False,3
+INTRAHEPATIC PORTAL HEPATIC VENOUS FISTULA,Hepatic Failure,Broad,False,False,3
+HEPATOCELLULAR FOAMY CELL SYNDROME,Hepatic Failure,Broad,False,False,2
+PERIPANCREATIC VARICES,Hepatic Failure,Broad,False,False,2
+SPLENIC VARICES HAEMORRHAGE,Hepatic Failure,Broad,False,False,2
+GASTRIC VARICEAL LIGATION,Hepatic Failure,Broad,False,False,1
+LIVER AND SMALL INTESTINE TRANSPLANT,Hepatic Failure,Broad,False,False,1
+SPLENORENAL SHUNT PROCEDURE,Hepatic Failure,Broad,False,False,1
+WHITE NIPPLE SIGN,Hepatic Failure,Broad,False,False,1
+GASTRIC VARICEAL INJECTION,Hepatic Failure,Broad,False,False,0
+HEPATIC ENCEPHALOPATHY PROPHYLAXIS,Hepatic Failure,Broad,False,False,0
+LUPOID HEPATIC CIRRHOSIS,Hepatic Failure,Broad,False,False,0
+HEPATIC FAILURE,Hepatic Failure,Narrow,True,True,14769
+ACUTE HEPATIC FAILURE,Hepatic Failure,Narrow,True,True,6030
+HEPATIC ENCEPHALOPATHY,Hepatic Failure,Narrow,True,True,5336
+AMMONIA INCREASED,Hepatic Failure,Narrow,False,False,3054
+HEPATITIS FULMINANT,Hepatic Failure,Narrow,True,True,1340
+HEPATORENAL SYNDROME,Hepatic Failure,Narrow,False,False,862
+CHRONIC HEPATIC FAILURE,Hepatic Failure,Narrow,False,False,381
+HEPATORENAL FAILURE,Hepatic Failure,Narrow,False,False,286
+COMA HEPATIC,Hepatic Failure,Narrow,True,True,275
+ACUTE ON CHRONIC LIVER FAILURE,Hepatic Failure,Narrow,False,False,174
+HEPATOPULMONARY SYNDROME,Hepatic Failure,Narrow,False,False,112
+HYPERAMMONAEMIC CRISIS,Hepatic Failure,Narrow,False,False,87
+SUBACUTE HEPATIC FAILURE,Hepatic Failure,Narrow,True,True,76
+PORTAL SHUNT PROCEDURE,Hepatic Failure,Narrow,False,False,61
+MINIMAL HEPATIC ENCEPHALOPATHY,Hepatic Failure,Narrow,False,False,3
+LIVER DIALYSIS,Hepatic Failure,Narrow,False,False,2
+ACUTE YELLOW LIVER ATROPHY,Hepatic Failure,Narrow,False,False,0
+HEPATIC ENZYME INCREASED,Hepatic Injury,Broad,False,True,41995
+ASCITES,Hepatic Injury,Broad,False,False,17887
+LIVER FUNCTION TEST INCREASED,Hepatic Injury,Broad,False,True,17519
+JAUNDICE,Hepatic Injury,Broad,True,True,13897
+BLOOD BILIRUBIN INCREASED,Hepatic Injury,Broad,False,True,13851
+TRANSAMINASES INCREASED,Hepatic Injury,Broad,False,True,13187
+LIVER FUNCTION TEST ABNORMAL,Hepatic Injury,Broad,False,True,12361
+BLOOD ALKALINE PHOSPHATASE INCREASED,Hepatic Injury,Broad,False,True,11408
+GAMMA-GLUTAMYLTRANSFERASE INCREASED,Hepatic Injury,Broad,False,True,10940
+HEPATIC STEATOSIS,Hepatic Injury,Broad,False,False,10452
+HYPERBILIRUBINAEMIA,Hepatic Injury,Broad,False,True,6100
+HYPERTRANSAMINASAEMIA,Hepatic Injury,Broad,False,True,5277
+HYPOALBUMINAEMIA,Hepatic Injury,Broad,False,False,4505
+HEPATIC ENZYME ABNORMAL,Hepatic Injury,Broad,False,True,3361
+YELLOW SKIN,Hepatic Injury,Broad,False,False,3019
+OCULAR ICTERUS,Hepatic Injury,Broad,False,False,2409
+JAUNDICE CHOLESTATIC,Hepatic Injury,Broad,True,True,1971
+ALANINE AMINOTRANSFERASE ABNORMAL,Hepatic Injury,Broad,False,True,1277
+HYPOPROTEINAEMIA,Hepatic Injury,Broad,False,False,1045
+ASPARTATE AMINOTRANSFERASE ABNORMAL,Hepatic Injury,Broad,False,True,954
+BLOOD BILIRUBIN ABNORMAL,Hepatic Injury,Broad,False,True,792
+BLOOD ALKALINE PHOSPHATASE ABNORMAL,Hepatic Injury,Broad,False,True,587
+ASTERIXIS,Hepatic Injury,Broad,False,False,479
+GAMMA-GLUTAMYLTRANSFERASE ABNORMAL,Hepatic Injury,Broad,False,True,385
+BLOOD BILIRUBIN UNCONJUGATED INCREASED,Hepatic Injury,Broad,False,False,364
+TRANSAMINASES ABNORMAL,Hepatic Injury,Broad,False,True,358
+AMMONIA ABNORMAL,Hepatic Injury,Broad,False,False,298
+HAEMOBILIA,Hepatic Injury,Broad,False,False,283
+HEPATIC CONGESTION,Hepatic Injury,Broad,False,False,234
+HAEMORRHAGIC ASCITES,Hepatic Injury,Broad,False,False,160
+BILE ACIDS INCREASED,Hepatic Injury,Broad,False,False,129
+UROBILINOGEN URINE INCREASED,Hepatic Injury,Broad,False,False,124
+BLOOD CHOLINESTERASE DECREASED,Hepatic Injury,Broad,False,False,120
+IMMUNE EFFECTOR CELL-ASSOCIATED HLH-LIKE SYNDROME,Hepatic Injury,Broad,False,False,102
+LIVER TENDERNESS,Hepatic Injury,Broad,False,False,95
+SPIDER NAEVUS,Hepatic Injury,Broad,False,False,94
+BILIRUBIN URINE PRESENT,Hepatic Injury,Broad,False,False,93
+BILIRUBIN CONJUGATED ABNORMAL,Hepatic Injury,Broad,False,False,89
+LIVER SCAN ABNORMAL,Hepatic Injury,Broad,False,False,88
+MULTIPLE DRUG HYPERSENSITIVITY,Hepatic Injury,Broad,False,False,74
+PERIHEPATIC DISCOMFORT,Hepatic Injury,Broad,False,False,68
+LIVER PALPABLE,Hepatic Injury,Broad,False,False,53
+COLOPATHY,Hepatic Injury,Broad,False,False,49
+JAUNDICE ACHOLURIC,Hepatic Injury,Broad,False,False,48
+BILIRUBINURIA,Hepatic Injury,Broad,False,False,46
+GLUTAMATE DEHYDROGENASE INCREASED,Hepatic Injury,Broad,False,False,46
+BILE OUTPUT ABNORMAL,Hepatic Injury,Broad,False,False,38
+URINE BILIRUBIN INCREASED,Hepatic Injury,Broad,False,False,36
+ANORECTAL VARICES,Hepatic Injury,Broad,False,False,31
+INCREASED LIVER STIFFNESS,Hepatic Injury,Broad,False,False,31
+COMPUTERISED TOMOGRAM LIVER ABNORMAL,Hepatic Injury,Broad,False,False,28
+ANORECTAL VARICES HAEMORRHAGE,Hepatic Injury,Broad,False,False,24
+PORTAL VEIN EMBOLISM,Hepatic Injury,Broad,False,False,21
+DUODENAL VARICES,Hepatic Injury,Broad,False,False,20
+LIVER INDURATION,Hepatic Injury,Broad,False,False,17
+BACTERASCITES,Hepatic Injury,Broad,False,False,15
+BILE OUTPUT DECREASED,Hepatic Injury,Broad,False,False,14
+MITOCHONDRIAL ASPARTATE AMINOTRANSFERASE INCREASED,Hepatic Injury,Broad,False,False,14
+ICTERUS INDEX INCREASED,Hepatic Injury,Broad,False,False,13
+BILIRUBIN EXCRETION DISORDER,Hepatic Injury,Broad,False,False,9
+HEPATIC ARTERY FLOW DECREASED,Hepatic Injury,Broad,False,False,8
+LEUCINE AMINOPEPTIDASE INCREASED,Hepatic Injury,Broad,False,False,7
+BLOOD CHOLINESTERASE ABNORMAL,Hepatic Injury,Broad,False,False,5
+PERITONEOVENOUS SHUNT,Hepatic Injury,Broad,False,False,5
+LIVER-KIDNEY MICROSOMAL ANTIBODY POSITIVE,Hepatic Injury,Broad,False,False,2
+RETINOL BINDING PROTEIN DECREASED,Hepatic Injury,Broad,False,False,2
+HEPAPLASTIN DECREASED,Hepatic Injury,Broad,False,False,1
+HEPATIC SEQUESTRATION,Hepatic Injury,Broad,False,False,1
+HYPERCHOLIA,Hepatic Injury,Broad,False,False,1
+MOLAR RATIO OF TOTAL BRANCHED-CHAIN AMINO ACID TO TYROSINE,Hepatic Injury,Broad,False,False,1
+ANTI-LIVER CYTOSOL ANTIBODY TYPE 1 POSITIVE,Hepatic Injury,Broad,False,False,0
+ATRIOCAVAL SHUNT,Hepatic Injury,Broad,False,False,0
+CHOLAEMIA,Hepatic Injury,Broad,False,False,0
+GALACTOSE ELIMINATION CAPACITY TEST ABNORMAL,Hepatic Injury,Broad,False,False,0
+GALACTOSE ELIMINATION CAPACITY TEST DECREASED,Hepatic Injury,Broad,False,False,0
+GUANASE INCREASED,Hepatic Injury,Broad,False,False,0
+HEPAPLASTIN ABNORMAL,Hepatic Injury,Broad,False,False,0
+ALANINE AMINOTRANSFERASE INCREASED,Hepatic Injury,Narrow,False,True,30261
+LIVER DISORDER,Hepatic Injury,Narrow,False,True,26287
+ASPARTATE AMINOTRANSFERASE INCREASED,Hepatic Injury,Narrow,False,True,25207
+HEPATIC FUNCTION ABNORMAL,Hepatic Injury,Narrow,False,True,22688
+DRUG-INDUCED LIVER INJURY,Hepatic Injury,Narrow,True,True,22072
+HEPATIC FAILURE,Hepatic Injury,Narrow,True,True,14769
+LIVER INJURY,Hepatic Injury,Narrow,True,True,14362
+HEPATITIS,Hepatic Injury,Narrow,True,True,14189
+CHOLESTASIS,Hepatic Injury,Narrow,True,True,12344
+HEPATOTOXICITY,Hepatic Injury,Narrow,True,True,11992
+HEPATIC CIRRHOSIS,Hepatic Injury,Narrow,False,False,11945
+HEPATOCELLULAR INJURY,Hepatic Injury,Narrow,True,True,10119
+HEPATITIS C,Hepatic Injury,Narrow,False,False,6483
+ACUTE HEPATIC FAILURE,Hepatic Injury,Narrow,True,True,6030
+HEPATIC ENCEPHALOPATHY,Hepatic Injury,Narrow,True,True,5336
+HEPATOMEGALY,Hepatic Injury,Narrow,False,False,4902
+AUTOIMMUNE HEPATITIS,Hepatic Injury,Narrow,True,True,4572
+HEPATITIS ACUTE,Hepatic Injury,Narrow,True,True,3608
+HEPATITIS CHOLESTATIC,Hepatic Injury,Narrow,True,True,3505
+AMMONIA INCREASED,Hepatic Injury,Narrow,False,False,3054
+HEPATITIS B,Hepatic Injury,Narrow,False,False,2874
+HEPATIC PAIN,Hepatic Injury,Narrow,False,False,2813
+HYPERAMMONAEMIA,Hepatic Injury,Narrow,False,False,2539
+MIXED LIVER INJURY,Hepatic Injury,Narrow,True,True,2444
+LIVER TRANSPLANT,Hepatic Injury,Narrow,True,True,2014
+PORTAL HYPERTENSION,Hepatic Injury,Narrow,False,False,1847
+VARICES OESOPHAGEAL,Hepatic Injury,Narrow,False,False,1812
+IMMUNE-MEDIATED HEPATITIS,Hepatic Injury,Narrow,True,True,1766
+IMMUNE-MEDIATED HEPATIC DISORDER,Hepatic Injury,Narrow,True,True,1672
+CHOLESTATIC LIVER INJURY,Hepatic Injury,Narrow,True,True,1636
+HEPATITIS FULMINANT,Hepatic Injury,Narrow,True,True,1340
+OESOPHAGEAL VARICES HAEMORRHAGE,Hepatic Injury,Narrow,False,False,1305
+HEPATITIS E,Hepatic Injury,Narrow,False,False,1299
+HEPATIC NECROSIS,Hepatic Injury,Narrow,True,True,1259
+HEPATOSPLENOMEGALY,Hepatic Injury,Narrow,False,False,1232
+BILIRUBIN CONJUGATED INCREASED,Hepatic Injury,Narrow,False,True,1201
+HEPATITIS TOXIC,Hepatic Injury,Narrow,True,True,1201
+HEPATORENAL SYNDROME,Hepatic Injury,Narrow,False,False,862
+NON-ALCOHOLIC STEATOHEPATITIS,Hepatic Injury,Narrow,False,False,772
+ISCHAEMIC HEPATITIS,Hepatic Injury,Narrow,False,False,665
+GRAFT VERSUS HOST DISEASE IN LIVER,Hepatic Injury,Narrow,False,False,482
+HEPATITIS A,Hepatic Injury,Narrow,False,False,480
+NODULAR REGENERATIVE HYPERPLASIA,Hepatic Injury,Narrow,False,False,431
+PRIMARY BILIARY CHOLANGITIS,Hepatic Injury,Narrow,False,False,414
+CHRONIC HEPATITIS,Hepatic Injury,Narrow,False,False,412
+STEATOHEPATITIS,Hepatic Injury,Narrow,False,False,403
+HEPATITIS VIRAL,Hepatic Injury,Narrow,False,False,391
+ACUTE GRAFT VERSUS HOST DISEASE IN LIVER,Hepatic Injury,Narrow,False,False,385
+CHRONIC HEPATIC FAILURE,Hepatic Injury,Narrow,False,False,381
+GRANULOMATOUS LIVER DISEASE,Hepatic Injury,Narrow,False,False,362
+PORTAL HYPERTENSIVE GASTROPATHY,Hepatic Injury,Narrow,False,False,357
+NON-CIRRHOTIC PORTAL HYPERTENSION,Hepatic Injury,Narrow,False,False,327
+HEPATOBILIARY DISEASE,Hepatic Injury,Narrow,False,False,300
+GASTRIC VARICES,Hepatic Injury,Narrow,False,False,298
+HEPATORENAL FAILURE,Hepatic Injury,Narrow,False,False,286
+COMA HEPATIC,Hepatic Injury,Narrow,True,True,275
+NON-ALCOHOLIC FATTY LIVER,Hepatic Injury,Narrow,False,False,267
+CIRRHOSIS ALCOHOLIC,Hepatic Injury,Narrow,False,False,263
+CHRONIC GRAFT VERSUS HOST DISEASE IN LIVER,Hepatic Injury,Narrow,False,False,249
+GASTRIC VARICES HAEMORRHAGE,Hepatic Injury,Narrow,False,False,223
+CYTOMEGALOVIRUS HEPATITIS,Hepatic Injury,Narrow,False,False,221
+HERPES SIMPLEX HEPATITIS,Hepatic Injury,Narrow,False,False,192
+ACUTE ON CHRONIC LIVER FAILURE,Hepatic Injury,Narrow,False,False,174
+PORTAL FIBROSIS,Hepatic Injury,Narrow,False,False,170
+NONALCOHOLIC FATTY LIVER DISEASE,Hepatic Injury,Narrow,False,False,168
+SUSPECTED DRUG-INDUCED LIVER INJURY,Hepatic Injury,Narrow,True,True,167
+ALCOHOLIC LIVER DISEASE,Hepatic Injury,Narrow,False,False,153
+HEPATITIS ALCOHOLIC,Hepatic Injury,Narrow,False,False,151
+PNEUMOBILIA,Hepatic Injury,Narrow,False,False,124
+ADENOVIRAL HEPATITIS,Hepatic Injury,Narrow,False,False,119
+TOTAL BILE ACIDS INCREASED,Hepatic Injury,Narrow,False,False,118
+HEPATOPULMONARY SYNDROME,Hepatic Injury,Narrow,False,False,112
+BILIARY CIRRHOSIS PRIMARY,Hepatic Injury,Narrow,False,False,100
+BILIARY CIRRHOSIS,Hepatic Injury,Narrow,False,False,93
+PELIOSIS HEPATIS,Hepatic Injury,Narrow,False,False,90
+REYE'S SYNDROME,Hepatic Injury,Narrow,False,False,88
+HYPERAMMONAEMIC CRISIS,Hepatic Injury,Narrow,False,False,87
+REYNOLD'S SYNDROME,Hepatic Injury,Narrow,False,False,82
+PORTAL TRACT INFLAMMATION,Hepatic Injury,Narrow,False,False,81
+STOMAL VARICES,Hepatic Injury,Narrow,False,False,78
+ULTRASOUND LIVER ABNORMAL,Hepatic Injury,Narrow,False,False,78
+SUBACUTE HEPATIC FAILURE,Hepatic Injury,Narrow,True,True,76
+HEPATITIS INFECTIOUS MONONUCLEOSIS,Hepatic Injury,Narrow,False,False,70
+HEPATITIS CHRONIC ACTIVE,Hepatic Injury,Narrow,False,False,68
+PERIPORTAL OEDEMA,Hepatic Injury,Narrow,False,False,67
+CHILD-PUGH-TURCOTTE SCORE INCREASED,Hepatic Injury,Narrow,False,False,65
+HEPATIC HYDROTHORAX,Hepatic Injury,Narrow,False,False,65
+PORTAL VEIN DILATATION,Hepatic Injury,Narrow,False,False,65
+DEFICIENCY OF BILE SECRETION,Hepatic Injury,Narrow,False,False,64
+PORTOPULMONARY HYPERTENSION,Hepatic Injury,Narrow,False,False,64
+POST CHOLECYSTECTOMY SYNDROME,Hepatic Injury,Narrow,False,False,63
+PORTAL SHUNT PROCEDURE,Hepatic Injury,Narrow,False,False,61
+PORTAL SHUNT,Hepatic Injury,Narrow,False,False,58
+HEPATITIS D,Hepatic Injury,Narrow,False,False,56
+JAUNDICE HEPATOCELLULAR,Hepatic Injury,Narrow,True,True,45
+OEDEMA DUE TO HEPATIC DISEASE,Hepatic Injury,Narrow,False,False,42
+HEPATOBILIARY SCAN ABNORMAL,Hepatic Injury,Narrow,False,False,41
+PORTAL VEIN CAVERNOUS TRANSFORMATION,Hepatic Injury,Narrow,False,False,36
+FATTY LIVER ALCOHOLIC,Hepatic Injury,Narrow,False,False,31
+CRYPTOGENIC CIRRHOSIS,Hepatic Injury,Narrow,False,False,28
+ALLERGIC HEPATITIS,Hepatic Injury,Narrow,False,False,27
+HEPATIC HYPERTROPHY,Hepatic Injury,Narrow,False,False,26
+HEPATIC INFILTRATION EOSINOPHILIC,Hepatic Injury,Narrow,False,False,26
+HEPATITIS G,Hepatic Injury,Narrow,False,False,24
+PARENTERAL NUTRITION ASSOCIATED LIVER DISEASE,Hepatic Injury,Narrow,False,False,24
+INTESTINAL VARICES,Hepatic Injury,Narrow,False,False,22
+INTESTINAL VARICES HAEMORRHAGE,Hepatic Injury,Narrow,False,False,22
+MODEL FOR END STAGE LIVER DISEASE SCORE INCREASED,Hepatic Injury,Narrow,False,False,22
+CHOLESTATIC PRURITUS,Hepatic Injury,Narrow,False,False,21
+PORTAL VEIN PRESSURE INCREASED,Hepatic Injury,Narrow,False,False,21
+BILIARY FIBROSIS,Hepatic Injury,Narrow,False,False,20
+PORTAL VEIN FLOW DECREASED,Hepatic Injury,Narrow,False,False,18
+SPLENIC VARICES,Hepatic Injury,Narrow,False,False,18
+SPLENORENAL SHUNT,Hepatic Injury,Narrow,False,False,18
+HEPATIC STEATO-FIBROSIS,Hepatic Injury,Narrow,False,False,17
+RETROGRADE PORTAL VEIN FLOW,Hepatic Injury,Narrow,False,False,16
+LUPUS HEPATITIS,Hepatic Injury,Narrow,False,False,15
+MODEL FOR END STAGE LIVER DISEASE SCORE ABNORMAL,Hepatic Injury,Narrow,False,False,15
+VARICOSE VEINS OF ABDOMINAL WALL,Hepatic Injury,Narrow,False,False,15
+BILIARY ASCITES,Hepatic Injury,Narrow,False,False,14
+RADIATION HEPATITIS,Hepatic Injury,Narrow,False,False,13
+HEPATITIS CHRONIC PERSISTENT,Hepatic Injury,Narrow,False,False,11
+HEPATIC FIBROSIS MARKER ABNORMAL,Hepatic Injury,Narrow,False,False,10
+PORTAL HYPERTENSIVE COLOPATHY,Hepatic Injury,Narrow,False,False,9
+SPONTANEOUS INTRAHEPATIC PORTOSYSTEMIC VENOUS SHUNT,Hepatic Injury,Narrow,False,False,9
+CHILD-PUGH-TURCOTTE SCORE ABNORMAL,Hepatic Injury,Narrow,False,False,8
+HEPATIC LYMPHOCYTIC INFILTRATION,Hepatic Injury,Narrow,False,False,7
+HEPATITIS INFECTIOUS,Hepatic Injury,Narrow,False,False,7
+PORTAL HYPERTENSIVE ENTEROPATHY,Hepatic Injury,Narrow,False,False,7
+ALLOIMMUNE HEPATITIS,Hepatic Injury,Narrow,False,False,6
+FOETOR HEPATICUS,Hepatic Injury,Narrow,False,False,6
+HEPATITIS POST TRANSFUSION,Hepatic Injury,Narrow,False,False,6
+ASYMPTOMATIC VIRAL HEPATITIS,Hepatic Injury,Narrow,False,False,5
+HEPATITIS NON-A NON-B,Hepatic Injury,Narrow,False,False,5
+KAYSER-FLEISCHER RING,Hepatic Injury,Narrow,False,False,5
+EOSINOPHILIC HEPATITIS,Hepatic Injury,Narrow,False,False,4
+RENAL AND LIVER TRANSPLANT,Hepatic Injury,Narrow,False,False,4
+X-RAY HEPATOBILIARY ABNORMAL,Hepatic Injury,Narrow,False,False,4
+CARDIOHEPATIC SYNDROME,Hepatic Injury,Narrow,False,False,3
+INTRAHEPATIC PORTAL HEPATIC VENOUS FISTULA,Hepatic Injury,Narrow,False,False,3
+MINIMAL HEPATIC ENCEPHALOPATHY,Hepatic Injury,Narrow,False,False,3
+HEPATIC VASCULAR RESISTANCE INCREASED,Hepatic Injury,Narrow,False,False,2
+HEPATOCELLULAR FOAMY CELL SYNDROME,Hepatic Injury,Narrow,False,False,2
+LIVER DIALYSIS,Hepatic Injury,Narrow,False,False,2
+PERIPANCREATIC VARICES,Hepatic Injury,Narrow,False,False,2
+REGENERATIVE SIDEROTIC HEPATIC NODULE,Hepatic Injury,Narrow,False,False,2
+SPLENIC VARICES HAEMORRHAGE,Hepatic Injury,Narrow,False,False,2
+ACQUIRED HEPATOCEREBRAL DEGENERATION,Hepatic Injury,Narrow,False,False,1
+GASTRIC VARICEAL LIGATION,Hepatic Injury,Narrow,False,False,1
+HEPATITIS MUMPS,Hepatic Injury,Narrow,False,False,1
+KLEBSIELLA PNEUMONIAE INVASIVE SYNDROME,Hepatic Injury,Narrow,False,False,1
+LIVER AND SMALL INTESTINE TRANSPLANT,Hepatic Injury,Narrow,False,False,1
+PORTAL HYPERTENSIVE BILIOPATHY,Hepatic Injury,Narrow,False,False,1
+SPLENORENAL SHUNT PROCEDURE,Hepatic Injury,Narrow,False,False,1
+WHITE NIPPLE SIGN,Hepatic Injury,Narrow,False,False,1
+ZIEVE SYNDROME,Hepatic Injury,Narrow,False,False,1
+ACUTE YELLOW LIVER ATROPHY,Hepatic Injury,Narrow,False,False,0
+ANTI-SOLUBLE LIVER ANTIGEN/LIVER PANCREAS ANTIBODY,Hepatic Injury,Narrow,False,False,0
+CYTOLYTIC HEPATITIS,Hepatic Injury,Narrow,False,False,0
+FIBROSIS-4 INDEX,Hepatic Injury,Narrow,False,False,0
+GALLBLADDER VARICES,Hepatic Injury,Narrow,False,False,0
+GASTRIC VARICEAL INJECTION,Hepatic Injury,Narrow,False,False,0
+HEPATIC ENCEPHALOPATHY PROPHYLAXIS,Hepatic Injury,Narrow,False,False,0
+HEPATITIS F,Hepatic Injury,Narrow,False,False,0
+HEPATITIS H,Hepatic Injury,Narrow,False,False,0
+HEPATITIS NON-A NON-B NON-C,Hepatic Injury,Narrow,False,False,0
+HEPATOCELLULAR DAMAGE,Hepatic Injury,Narrow,False,False,0
+HEPATOGENOUS DIABETES,Hepatic Injury,Narrow,False,False,0
+LUPOID HEPATIC CIRRHOSIS,Hepatic Injury,Narrow,False,False,0
+MIXED HEPATOCELLULAR-CHOLESTATIC INJURY,Hepatic Injury,Narrow,False,False,0
+PORTAL TRIADITIS,Hepatic Injury,Narrow,False,False,0
