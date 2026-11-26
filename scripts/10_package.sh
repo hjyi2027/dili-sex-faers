@@ -3,6 +3,9 @@
 # Usage: scripts/10_package.sh <output_root> [deliver_dir]   (output_root holds results, merged, analysis)
 set -e
 ROOT=$1
+# Claim lock and style checks: the build stops if a summary loses the hedge on the phenotype result.
+python3 scripts/12_flatten.py paper main.tex /tmp/dili_main_flat_check.tex >/dev/null
+python3 scripts/22_word_count.py /tmp/dili_main_flat_check.tex paper
 D=${2:-deliver_new}; mkdir -p $D; S=$D/supplement
 mkdir -p $S/OnlineResource1 $S/OnlineResource2 $S/OnlineResource3/results $S/OnlineResource3/scripts $S/OnlineResource4 $S/OnlineResource5 $D/source
 cp PROTOCOL.md $S/OnlineResource1/analysis_plan_and_change_log.md

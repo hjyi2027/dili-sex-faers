@@ -245,3 +245,11 @@ Disclosure. The plan, its amendments and all post hoc changes were written on 20
    (e) Licence notes of the repository folder: the copy of lib.py in terms/ is code under the MIT licence, and the counts from Lu et al. 2023 (inputs/ and results/) are listed with the third-party files. BMC distributes data in its open access articles under CC0 1.0.
 
 38. 2026-11-26. The scripts, this plan with its change log, the replication plan, the term lists and the result files were published at https://github.com/hjyi2027/dili-sex-faers, at the request of the authors. The paper's code availability statement gives the link. No analysis and no estimate changed.
+
+39. 2026-11-26 and 2026-11-27. Text of versions 3.22 and 3.23, and a build check. No analysis and no estimate changed.
+   (a) Version 3.22 shortened the prose of the manuscript, the title page and the cover letter. Twelve secondary numbers left the main text, and all of them remain in Online Resource 5 or the tables.
+   (b) An outside read of version 3.22 found that the abstract Conclusions, Sect. 4.1 and Sect. 5 said that one term carried more than half of the within-drug difference in reported phenotype, without the estimate outside France, which dropping the term leaves unchanged. Version 3.23 restores the wording of version 3.21 in those places, and the sentence in Sect. 3.4 that the check does not show that the difference is absent.
+   (c) scripts/22_word_count.py now stops with an error when a summary section (abstract, Key Points, Sect. 4.1, Sect. 5) names the term without the estimate outside France or the words "sensitive to" or "not established", or attributes most of the difference to it. scripts/10_package.sh runs the check before packaging. Run on the text of version 3.22, the check reports all three places.
+   (d) Sect. 4.3 gives the part of the phenotype difference removed by stratification by drug as its two estimates (43% of the crude log OR, and 50% of the crude difference in cholestatic share in adults) in place of "about half".
+   (e) Sect. 2.11 says how the data source was chosen: in reply to the model's questions, the authors said that no patient-level data were available and chose an analysis of FAERS.
+   (f) Change 37(c) gives the abstract length of version 3.20. Version 3.23 has an abstract of 419 words and a main text of 6,470 words.

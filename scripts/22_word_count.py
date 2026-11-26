@@ -26,3 +26,33 @@ for m in re.finditer(r'(?:(?<=\. )|(?<=\n))(And|But|Or|So|Yet|Because|While|Alth
     print('  START:',m.group(0)[:70])
 for w in ['depends on','depended on one','decided','near-copy','retains the patient','rather than','not only','serves as']:
     for m in re.finditer(w,t): print('  PHRASE:',t[max(0,m.start()-50):m.end()+40].replace('\n',' '))
+
+# Claim lock (version 3.23). Summaries of the phenotype result must keep the estimate outside France
+# or the hedge, and must not attribute most of the difference to the term. A failure stops the build.
+fails = []
+def block(start, ends):
+    if start not in t:
+        fails.append('missing section: ' + start); return ''
+    i = t.index(start) + len(start)
+    stops = [t.index(e, i) for e in ends if e in t[i:]]
+    return t[i:min(stops) if stops else len(t)]
+summaries = {
+    'abstract': block('\\abstract{', ['\\keywords']),
+    'Key Points': block('\\section*{Key Points}', ['\\end{itemize}']),
+    'Sect. 4.1': block('\\subsection{Principal findings}', ['\\subsection{']),
+    'Sect. 5': block('\\section{Conclusions}', ['\\bmhead{', '\\backmatter']),
+}
+TERM = re.compile(r'cytolysis|reporting term|one term', re.I)
+KEEP = re.compile(r'\\XPhNoCytolysisOnlyOtherCountriesDa|outside France|not established|sensitive to', re.I)
+DRIFT = re.compile(r'\b(carried|carries|accounted for|accounts for|explain\w*|due to)\s+(more than half|most|the majority|much|nearly all|all)\b', re.I)
+for name, b in summaries.items():
+    if TERM.search(b) and not KEEP.search(b):
+        fails.append(name + ': names the term without the estimate outside France or the hedge')
+    for m in DRIFT.finditer(b):
+        fails.append(name + ': attribution "' + m.group(0) + '"')
+    if '\\XCytoShareLogor' in b and '\\XPhNoCytolysisOnlyOtherCountriesDa' not in b:
+        fails.append(name + ': share carried by the term without the estimate outside France')
+for f in fails:
+    print('  CLAIM LOCK FAIL:', f)
+print('claim lock:', 'FAILED' if fails else 'passed')
+sys.exit(1 if fails else 0)

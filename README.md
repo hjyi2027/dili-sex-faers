@@ -4,11 +4,11 @@ Code, analysis plan, term lists and result files for the paper
 
 Daina Oh, Hyunjun Yi (Seoul International School). Drug mix, suspected duplicate reports and country-specific coding in sex comparisons of drug-induced liver injury reports: a disproportionality analysis of the FDA Adverse Event Reporting System, 2014 to 2026.
 
-Manuscript version: 3.21 (26 November 2026). Not yet peer reviewed.
+Manuscript version: 3.23 (27 November 2026). Not yet peer reviewed.
 
 Licence: MIT for all code (file `LICENSE`), CC BY 4.0 for the plan, term lists and result files, third-party files on their sources' terms (details in `LICENSE-CONTENT.md`).
 
-Use of a large language model: the literature search, plan, code, analyses and drafts were produced with Claude (Anthropic) under the authors' direction. See Sect. 2.11 of the paper and changes 36 to 38 of `plan/analysis_plan_and_change_log.md`.
+Use of a large language model: the literature search, plan, code, analyses and drafts were produced with Claude (Anthropic) under the authors' direction. See Sect. 2.11 of the paper and changes 36 to 39 of `plan/analysis_plan_and_change_log.md`.
 
 ## What is here
 
