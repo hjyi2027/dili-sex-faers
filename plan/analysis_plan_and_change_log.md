@@ -253,3 +253,9 @@ Disclosure. The plan, its amendments and all post hoc changes were written on 20
    (d) Sect. 4.3 gives the part of the phenotype difference removed by stratification by drug as its two estimates (43% of the crude log OR, and 50% of the crude difference in cholestatic share in adults) in place of "about half".
    (e) Sect. 2.11 says how the data source was chosen: in reply to the model's questions, the authors said that no patient-level data were available and chose an analysis of FAERS.
    (f) Change 37(c) gives the abstract length of version 3.20. Version 3.23 has an abstract of 419 words and a main text of 6,470 words.
+
+40. 2026-11-27, after an outside read of version 3.23. A stronger build check and one sentence. No analysis and no estimate changed.
+   (a) The claim lock of change 39 judged the whole abstract at once, so the estimate outside France in the abstract Results let any wording of the Conclusions pass unless it used one of six blocked phrases. The lock now judges the abstract Results, the abstract Conclusions, each Key Point, Sect. 4.1 and Sect. 5 separately. It requires the hedge or the estimate outside France in every sentence that names the term, rejects words that attribute the difference to the term, and rejects calling the result an artefact.
+   (b) Sect. 4.3 credited drug mix alone with the 50% of the crude difference in cholestatic share in adults. That estimate comes from standardization by drug and age band together, and the sentence now says so. The lock also requires the words that define the two share estimates (log OR, age band) in every sentence that uses them.
+   (c) scripts/23_test_claim_lock.py tries ten rewordings that the lock must reject, among them "largely drove" and "mostly reflects", and checks that the current text passes. scripts/10_package.sh runs it after the lock.
+   (d) Version 3.24 has a main text of 6,482 words and an abstract of 419 words.
